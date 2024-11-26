@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = principality
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 279	# Volhynia
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Yuriy"
+		dynasty = "Obolensky"
+        birth_date = 1418.3.6
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

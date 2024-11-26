@@ -1,0 +1,21 @@
+government = monarchy
+
+add_government_reform = feudalism_reform
+
+
+religion = catholic
+primary_culture = catalan
+technology_group = western
+capital = 333	# Majorca
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Enric"
+		dynasty = "de Altamira"
+        birth_date = 1417.3.6
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+}

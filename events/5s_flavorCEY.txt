@@ -1,0 +1,104 @@
+namespace = flavor_cey
+normal_or_historical_nations = yes
+
+country_event = {
+	id = flavor_cey.1
+	title = flavor_cey.1.t
+	desc = flavor_cey.1.d
+	picture = HARBOUR_eventPicture
+
+	is_triggered_only = yes
+	major = yes
+
+	option = {
+		name = flavor_cey.1.o.a
+		
+		574 = {
+			add_siberian_construction = 400
+		}
+		
+		east_indian_ocean_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+		
+		indonesia_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+
+		philipine_sea_area = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}		
+		
+		south_china_sea_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+		
+		moluccas_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}	 
+
+		set_global_flag = cey_expansion_east
+	}
+	
+	option = {
+		name = flavor_cey.1.o.b
+				
+		1100 = {
+			add_siberian_construction = 400
+		}
+		
+		west_indian_ocean_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+		
+		south_africa_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+
+		east_africa_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+		
+		cape_of_storms_area = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { owned_by = ROOT }
+			}
+			discover_country = ROOT
+		}
+
+		set_global_flag = cey_expansion_west
+	}
+}

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = scottish_monarchy_reform
+primary_culture = highland_scottish
+religion = catholic
+technology_group = western
+capital = 252 # Inverness
+
+1444.1.1 = {
+	monarch = {
+		name = "Alasdair"
+		dynasty = "Stuart"
+        birth_date = 1410.3.6
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}

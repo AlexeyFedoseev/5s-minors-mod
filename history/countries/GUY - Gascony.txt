@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = gascon
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 174 	# Bordeaux
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Henri III"
+		dynasty = "de la Tour"
+        birth_date = 1403.3.6
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1515.1.1 = { government = monarchy
+add_government_reform = autocracy_reform }
+
+1560.1.1 = { religion = reformed }
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

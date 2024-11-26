@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = javanese
+religion = animism
+technology_group = chinese
+capital = 633	# Flores
+
+1444.1.1 = {
+	monarch = {
+		birth = 1412.1.1
+		name = "Raden Patah"
+		dynasty = "Flores"
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}
+
+1518.1.1 = {
+	monarch = {
+		name = "Pati Unus"
+		dynasty = "Demak"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1521.1.1 = {
+	monarch = {
+		name = "Trenggana"
+		dynasty = "Demak"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1548.1.1 = {
+	monarch = {
+		name = "Sunan Prawata"
+		dynasty = "Demak"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1568.1.1 = {
+	monarch = {
+		name = "Arya Penangsang"
+		dynasty = "Pajang"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

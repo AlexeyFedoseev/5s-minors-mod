@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = maltese
+religion = catholic
+technology_group = western
+capital = 126 #Malta
+
+1444.1.1 = { 
+	monarch = {
+		name = "Sesto"
+		dynasty = "de Trastamara"
+		birth_date = 1410.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}

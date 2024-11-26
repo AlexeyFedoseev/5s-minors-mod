@@ -1,0 +1,88 @@
+country_decisions = {
+
+	bengal_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = BNG }
+			NOT = { exists = BNG }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+            primary_culture = bengali
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 2044		# Bhagalpur
+				province_id = 563		# Gauda
+				province_id = 2046		# Nasirabad
+				province_id = 4476		# Nadia
+				province_id = 561		# Bengal Delta
+				province_id = 564		# Dhaka
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			OR
+			{
+				religion = sunni
+				AND
+				{
+					adm_tech = 5
+					religion = hinduism 
+				}
+			}
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			NOT = { exists = BNG }
+			owns_core_province = 2044		# Bhagalpur
+			owns_core_province = 563		# Gauda
+			owns_core_province = 2046		# Nasirabad
+			owns_core_province = 4476		# Nadia
+			owns_core_province = 561		# Bengal Delta
+			owns_core_province = 564		# Dhaka
+		}
+		effect = {
+			change_tag = BNG
+			on_change_tag_effect = yes
+			swap_non_generic_missions = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			#set_country_flag = formed_england_flag
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

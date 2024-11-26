@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = portuguese_monarchy_reform 
+primary_culture = portugese
+religion = catholic
+technology_group = western
+capital = 228
+government_rank = 1
+
+1444.1.1 = {
+	monarch = {
+		name = "Francisco"
+		dynasty = "de Avis"
+        birth_date = 1415.3.6
+		adm = 5
+		dip = 3
+		mil = 0
+	}
+}

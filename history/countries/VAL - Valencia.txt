@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+religion = catholic
+primary_culture = catalan
+technology_group = western
+capital = 220	# Valencia
+
+1444.1.1 = {
+	monarch = {
+		name = "Luis"
+		dynasty = "de Trastamara"
+        birth_date = 1401.3.6
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}

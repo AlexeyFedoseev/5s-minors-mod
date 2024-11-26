@@ -1,0 +1,16 @@
+#9001 - Twsana
+
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+is_city = yes
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Vryburg"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = ZUL

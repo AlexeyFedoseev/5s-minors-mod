@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = galician
+religion = catholic
+technology_group = western
+capital = 206	# Galicia
+
+1444.1.1 = {
+	monarch = {
+		name = "Felipe"
+		dynasty = "de Trastamara"
+        birth_date = 1403.3.6
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+}

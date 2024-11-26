@@ -1,0 +1,11 @@
+government = republic
+add_government_reform = pirate_republic_reform
+government_rank = 1
+technology_group = east_african
+religion = shamanism #Fetishism
+primary_culture = madagasque
+capital = 4024
+unit_type = sub_saharan
+unlock_cult = enkai_cult
+unlock_cult = waaq_cult
+unlock_cult = zanahary_cult

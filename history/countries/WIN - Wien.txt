@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = austrian_archduchy_reform
+government_rank = 1
+primary_culture = austrian
+religion = catholic
+technology_group = western
+capital = 134 # Wien
+
+
+
+1439.10.27 = {
+	monarch = {
+		name = "Bruno"
+		dynasty = "von Habsburg"
+		birth_date = 1399.9.21
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	
+	clear_scripted_personalities = yes
+	add_ruler_personality = careful_personality
+}

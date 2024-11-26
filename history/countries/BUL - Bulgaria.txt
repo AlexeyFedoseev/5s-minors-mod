@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = bulgarian_tsardom_reform
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 150	# Sofia
+
+1444.1.1 = {
+	monarch = {
+		name = "Petar"
+		dynasty = "Cometopuli"
+        birth_date = 1403.3.6
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}

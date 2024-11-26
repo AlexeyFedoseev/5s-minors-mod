@@ -1,0 +1,18 @@
+#2025 - South Georgia
+
+owner = PNG
+сontroller = PNG
+add_core = PNG
+
+capital = "Hulk Smash"
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+culture = kamchatkan
+religion = animism
+trade_goods = fish
+
+
+1675.1.1 = { discovered_by = ENG }
+

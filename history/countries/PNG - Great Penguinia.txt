@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = kamchatkan
+religion = animism
+technology_group = high_american
+capital = 2025
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Sereja"
+		dynasty = "Penguin"
+		
+		adm = 6
+		dip = 6
+		mil = 6
+		clear_scripted_personalities = yes
+		add_ruler_personality = immortal_personality
+	}
+}

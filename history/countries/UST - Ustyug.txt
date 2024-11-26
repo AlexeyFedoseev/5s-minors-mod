@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = principality
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 1755
+government_rank = 1
+
+1444.1.1 = {
+	monarch = {
+		name = "Innokentiy"
+		dynasty = "Rurikovich"
+        birth_date = 1400.3.6
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}

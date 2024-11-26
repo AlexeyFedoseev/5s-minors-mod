@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = castillian
+religion = catholic
+technology_group = western
+government_rank = 1
+capital = 219 # Toledo
+
+
+1444.6.2 = {
+	monarch = {
+		name = "Alonso"
+		dynasty = "de Trastamara"
+		birth_date = 1407.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}

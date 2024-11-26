@@ -1,0 +1,22 @@
+#1245 - Manokwari
+
+owner = BLM
+controller = BLM
+add_core = BLM 
+culture = papuan
+religion = animism
+capital = "Manokwari"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+discovered_by = BLM
+discovered_by = MKS
+discovered_by = TER
+discovered_by = TID
+
+1512.1.1 = { discovered_by = POR }

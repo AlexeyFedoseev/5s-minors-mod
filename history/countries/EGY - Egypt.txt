@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 361 # Cairo
+
+1444.1.1 = {
+	monarch = {
+		name = "Jaqmaq"
+		dynasty = "Burji"
+        birth_date = 1429.3.6
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+}

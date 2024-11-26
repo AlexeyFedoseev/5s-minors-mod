@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = al_suryah_arabic
+religion = shiite
+technology_group = muslim
+capital = 1855	# Sidon
+religious_school = ismaili_school
+
+1444.1.1 = {
+	monarch = {
+		name = "al-Kamil"
+		dynasty = "Katkhuda"
+        birth_date = 1406.3.6
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}

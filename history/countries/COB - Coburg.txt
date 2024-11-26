@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = franconian
+religion = catholic
+technology_group = western
+capital = 4716	# Coburg
+fixed_capital = 4716
+
+1444.1.1 = { 
+	monarch = {
+		name = "Friedrich"
+		dynasty = "von Wettin"
+		birth_date = 1408.1.1
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+}

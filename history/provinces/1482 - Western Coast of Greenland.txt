@@ -1,0 +1,3 @@
+
+1444.1.1 = { discovered_by = ICE } # 5s league minors mod
+1501.1.1 = { discovered_by = POR } # Gaspar Corte-Real

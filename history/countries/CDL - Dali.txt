@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = chinese_warlord 
+primary_culture = bai
+religion = buddhism
+technology_group = chinese
+capital = 661	# Dali
+
+1444.1.1 = {
+	monarch = {
+		name = "Mo"
+		dynasty = "Liang"
+        birth_date = 1412.3.6
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

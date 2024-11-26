@@ -1,0 +1,111 @@
+#country_decisions = {
+#
+#	african_modernization = {
+#		potential = {
+#			OR = {
+#				technology_group = east_african 
+#				technology_group = central_african 
+#				technology_group = sub_saharan 
+#			}
+#		}
+#		allow = {
+#			is_at_war = no
+#			is_free_or_tributary_trigger = yes			
+#			OR = {
+#				AND = {
+#					army_tradition = 85
+#					army_professionalism = 0.9
+#				}
+#				mil_tech = 30
+#			}
+#			mil_power = 200
+#			stability = 2
+#		}
+#		effect = {
+#			if = {
+#				limit = {
+#					OR = {
+#						religion = catholic
+#						religion = anglican
+#						religion = hussite   
+#						religion = protestant
+#						religion = reformed
+#					}
+#				}
+#				change_technology_group = western
+#				change_unit_type = western
+#			}
+#			else_if = {
+#				limit = {
+#					OR = {
+#						religion = orthodox
+#						religion = coptic
+#					}
+#				}
+#				change_technology_group = eastern
+#				change_unit_type = eastern
+#			}
+#			else_if = {
+#				limit = {
+#					religion_group = muslim
+#				}
+#				change_technology_group = muslim
+#				change_unit_type = muslim
+#			}
+#			else_if = {
+#				limit = {
+#					religion_group = eastern
+#				}
+#				change_technology_group = chinese
+#				change_unit_type = chinese
+#			}
+#			else_if = {
+#				limit = {
+#					religion_group = dharmic 
+#				}
+#				change_technology_group = indian
+#				change_unit_type = indian
+#			}
+#			else_if = {
+#				limit = {
+#					religion = nahuatl
+#				}
+#				change_technology_group = high_american
+#				change_unit_type = high_american
+#			}
+#			else_if = {
+#				limit = {
+#					OR = {
+#						religion = totemism
+#						religion = inti
+#						religion = mesoamerican_religion
+#					}
+#				}
+#				change_technology_group = polynesian_tech
+#				change_unit_type = polynesian_tech
+#			}
+#			else_if = {
+#				limit = {
+#					OR = {
+#						religion = jewish
+#						religion = zoroastrian
+#					}
+#				}
+#				change_technology_group = ottoman
+#				change_unit_type = ottoman
+#			}
+#			add_country_modifier = {
+#				name = "5s_african_modernization"
+#				duration = 7300
+#			}
+#			add_prestige = -50
+#			add_stability = -2
+#			add_mil_power = -200
+#		}
+#		ai_will_do = {
+#			factor = 1
+#		}
+#		ai_importance = 400
+#	}
+#	
+#}

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+primary_culture = lao
+religion = buddhism
+capital = 1844	# Xiangkhouang
+
+1444.1.1 = {
+	monarch = {
+		name = "Jianti"
+		dynasty = "Phuan"
+        birth_date = 1429.3.6
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}

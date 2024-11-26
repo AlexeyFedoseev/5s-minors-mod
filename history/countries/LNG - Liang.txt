@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = chinese_warlord 
+technology_group = chinese
+religion = confucianism
+primary_culture = zhongyuan
+capital = 688	#Kaifeng
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Zongyi"
+		dynasty = "Liang"
+        birth_date = 1408.3.6
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}

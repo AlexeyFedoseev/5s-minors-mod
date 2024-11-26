@@ -1,0 +1,99 @@
+country_decisions = {
+
+	korea_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = KOR }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+            NOT = { tag = JAP }
+            NOT = { tag = QNG }
+
+            primary_culture = korean
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1845		# Pyeongyang
+				province_id = 735		# Hanseong
+				province_id = 737		# Jeonju
+				province_id = 2745		# Gyeongju
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			NOT = { exists = KOR }
+			owns_core_province = 1845		# Pyeongyang
+			owns_core_province = 735		# Hanseong
+			owns_core_province = 737		# Jeonju
+			owns_core_province = 2745		# Gyeongju
+            OR = {
+                NOT = { exists = BAE }
+                NOT = { exists = GOG }
+            }
+		}
+		effect = {
+			change_tag = KOR
+			on_change_tag_effect = yes
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_korea_flag
+			if = {
+				limit = {
+					NOT = { government = monarchy }
+					NOT = { has_government_attribute = locked_government_type }
+				}
+				change_government = monarchy
+			}
+			if = {
+				limit = {
+					OR = {
+						government = monarchy
+						NOT = { has_government_attribute = locked_government_type }
+					}
+					has_not_locked_first_tier_reform = yes
+				}
+				add_government_reform = korean_monarchy 
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

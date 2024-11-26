@@ -1,0 +1,23 @@
+#2722 - Daru
+
+owner = BLM
+controller = BLM
+add_core = BLM 
+culture = papuan
+religion = animism
+capital = "Daru"
+trade_goods = spices
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+discovered_by = BLM
+discovered_by = MKS
+discovered_by = TER
+discovered_by = TID
+
+1525.1.1 = { discovered_by = POR } # Don Jorge de Mneses
+

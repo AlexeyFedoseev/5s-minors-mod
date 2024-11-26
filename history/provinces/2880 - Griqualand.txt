@@ -1,0 +1,22 @@
+# - Griqualand
+
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+is_city = yes
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Kimberley"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = ZUL
+
+
+
+
+1750.1.1 = { discovered_by = NED }
+

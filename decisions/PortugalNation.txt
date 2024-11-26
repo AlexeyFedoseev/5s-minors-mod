@@ -1,0 +1,110 @@
+country_decisions = {
+
+	portugal_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = POR }
+			NOT = { exists = POR }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+            primary_culture = portugese
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 227		# Lisboa
+				province_id = 1851		# Coimbra
+				province_id = 4556		# Aveiro
+				province_id = 231		# Porto
+				province_id = 232		# Braganca
+                province_id = 228		# Beira
+                province_id = 4150		# Evora
+                province_id = 229		# Beja
+                province_id = 230		# Algavre
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			NOT = { exists = POR }
+			owns_core_province = 227		# Lisboa
+			owns_core_province = 1851		# Coimbra
+			owns_core_province = 4556		# Aveiro
+			owns_core_province = 231		# Porto
+			owns_core_province = 232		# Braganca
+            owns_core_province = 228		# Beira
+            owns_core_province = 4150		# Evora
+            owns_core_province = 229		# Beja
+            owns_core_province = 230		# Algavre
+            OR = {
+                NOT = { exists = BIR }
+                NOT = { exists = PRT }
+            }
+		}
+		effect = {
+			227 = { #Lisboa
+				move_capital_effect = yes
+			}
+			change_tag = POR
+			on_change_tag_effect = yes
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_portugal_flag
+			if = {
+				limit = {
+					NOT = { government = monarchy }
+					NOT = { has_government_attribute = locked_government_type }
+				}
+				change_government = monarchy
+			}
+			if = {
+				limit = {
+					OR = {
+						government = monarchy
+						NOT = { has_government_attribute = locked_government_type }
+					}
+					has_not_locked_first_tier_reform = yes
+				}
+				add_government_reform = portuguese_monarchy_reform 
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

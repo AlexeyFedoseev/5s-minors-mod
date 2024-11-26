@@ -1,0 +1,15 @@
+version="3.0"
+tags={
+	"Alternative History"
+	"Balance"
+	"Gameplay"
+	"Map"
+	"Military"
+	"Missions And Decisions"
+	"New Nations"
+	"Religion"
+}
+name="5s league minors mod"
+picture="thumbnail.png"
+supported_version="1.35.6"
+remote_file_id="2248331539"

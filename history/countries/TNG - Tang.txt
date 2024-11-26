@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = chinese_warlord 
+technology_group = chinese
+religion = confucianism
+primary_culture = zhongyuan
+capital = 687	#Nanyang
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Shixi"
+		dynasty = "Tang"
+        birth_date = 1420.3.6
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}

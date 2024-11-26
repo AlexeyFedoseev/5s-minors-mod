@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = merchants_reform
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 358
+government_rank = 2
+
+1444.1.1 = {
+	monarch = {
+		name = "Ahmad"
+		dynasty = "Muyaid"
+        birth_date = 1429.3.6
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = beylik_government
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 329	# Sivas
+religious_school = hanafi_school
+
+1444.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Aydinoglu"
+        birth_date = 1410.3.6
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

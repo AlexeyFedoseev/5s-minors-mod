@@ -1,0 +1,42 @@
+ceylon_mission = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		NOT = { map_setup = map_setup_random }
+		OR = {
+			tag = CEY
+			tag = KND
+		}
+	}
+	has_country_shield = yes
+	
+	5s_ceylon_explore_mission = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		provinces_to_highlight = {
+			OR = {
+				area = lanka_area 
+				area = south_lanka_area 
+			}
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			stability = 2
+			is_subject = no
+			lanka_area = {
+				type = all
+				owned_by = ROOT
+			}
+			south_lanka_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			country_event = {
+				id = flavor_cey.1
+			}
+		}
+	}
+}

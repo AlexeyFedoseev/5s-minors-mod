@@ -1,0 +1,60 @@
+#Country Name: Please seefilename.
+
+graphical_culture = inuitgfx
+
+color = { 135  144  180 }
+
+revolutionary_colors = { 1 0 1 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Sereja #0" = 20
+	"Ryadovoi #0" = 20
+	"Kovalskiy #0" = 20
+	"Rico #0" = 20
+	"Shkiper #0" = 20
+	"Penguin #0" = 20
+	
+	
+	"Penguina #0" = -1
+}
+
+leader_names = {
+	Sereja
+	Ryadovoi
+	Kovalskiy
+	Rico
+	Shkiper
+	Penguin
+}
+
+ship_names = {
+	France Japan Ethiopia Portugal Kamchadals
+}

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+capital = 254	
+government_rank = 1
+
+1444.1.1 = {
+	monarch = {
+		name = "Bronislaw"
+		dynasty = "Piast"
+        birth_date = 1402.3.6
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}

@@ -1,0 +1,160 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx 
+
+color = { 44 151 34 }
+
+historical_idea_groups = {
+	exploration_ideas
+	expansion_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Joгo #0" = 120
+	"Filipe #0" = 60
+	"Afonso #4" = 40
+	"Pedro #1" = 40
+	"Antуnio #0" = 20
+	"Duarte #0" = 20
+	"Henrique #0" = 20
+	"Josй #0" = 20
+	"Manuel #0" = 20
+	"Sebastiгo #0" = 20
+	"Miguel #0" = 10
+	"Teodуsio #0" = 10
+	"Dinis #1" = 5
+	"Fernando #1" = 5
+	"Alexandre #0" = 5
+	"Carlos #0" = 5
+	"Diego #0" = 5
+	"Jaime #0" = 5
+	"Luнs #0" = 5
+	"Бlvaro #0" = 0
+	"Andrй #0" = 0
+	"Antуnio #0 Francisco" = 0
+	"Bartolomeu #0" = 0
+	"Caetano #0" = 0
+	"Damiгo #0" = 0
+	"Estevгo #0" = 0
+	"Francisco #0" = 0
+	"Francisco #0 Xavier" = 0
+	"Gabriel #0" = 0
+	"Garcia #0" = 0
+	"Gaspar #0" = 0
+	"Gil #0" = 0
+	"Gonзalo #0" = 0
+	"Guilherme #0" = 0
+	"Inбcio #0" = 0
+	"Joaquim #0" = 0
+	"Jorge #0" = 0
+	"Josй #0 Manuel" = 0
+	"Lourenзo #0" = 0
+	"Marco #0" = 0
+	"Nicolau #0" = 0
+	"Octбvio #0" = 0
+	"Paulo #0" = 0
+	"Rafael #0" = 0
+	"Rogйrio #0" = 0
+	"Rui #0" = 0
+	"Simгo #0" = 0
+	"Uriel #0" = 0
+	"Vicente #0" = 0
+	"Maria #0" = -10
+	"Isabel #0" = -5
+	"Joana #0" = -1
+	"Beatriz #0" = -1
+	"Maria Manuela #0" = -1
+	"Filipa #0" = -1
+	"Luнsa #0" = -1
+	"Catarina #0" = -1
+	"Ana #0" = -1
+	"Barbara #0" = -1
+}
+
+leader_names = {
+	"Machado"
+	Cabral Coelho Corte-Real Coutinho
+	"da Cвmara" "da Costa" "da Cunha" "da Fonseca" "de Albuquerque"
+	"de Almeida" "de Andrade" "de Aveiro" "de Ataнde" "de Azevedo"
+	"de Braganзa" "de Brito" "de Carvalho" "de Castelo-Branco" "de Castro"
+	"de Correia" "de Faria" "da Gama" "de Guimarгes" "de Lemos" "de Magalhгes"
+	"de Marialva" "de Melo" "de Mendonзa" "de Meneses" "de Noronha"
+	"de Oliveira" "de Paiva" "de Penamacor" "de Pimentel" "de Queirуz"
+	"de Sб" "de Sampaio" "de Sequeira" "de Sousa" "de Souto" "de Tavares"
+	"de Tбvora" "de Vilhena" Dias
+	Eanes
+	"Ferreira Martins"
+	Gomes Gonзalves
+	"Lemos de Brito"
+	"Martins de Mascarenhas" "de Vasconcelos" "Mendonзa Furtado"
+	"Nunes Barreto"
+	Pereira
+	Rebelo Rodrigues
+	Sarmento
+	Teixeira "Teles de Meneses"
+}
+
+ship_names = {
+	Activo "Afonso de Albuquerque" Бguia Albacora "Almas Santas" Amazona Andorinha Antуnio Arpгo Bazana Belйm Benjamin Boaventura "Bom Jesus de Mazagгo"
+	"Cabo de Sгo Vicente" Calipso Capitania Chagas "Cinco Chagas" Colombo "Conde Dom Henrique" "Condessa de Resende" "Coraзгo de Jesus" Coroa "Corte Real"
+	Curiosa Damгo Dгo Delfim Diana Diligente "Diogo Cгo" "Dom Joгo VI" "Don Joгo Sexto" "Dona Maria II" Douro "Duquesa de Braganзa" Espadarte Falcгo Fйnix
+	"Fйnix Constitucional" Fereta "Flor de la Mar" Furгo Gaivota Galgo Garзa Garota Giavota Golfinho "Graзa Divina" Guadiana "Infante Don Pedro" "Jesus da Ajuda"
+	Lebre Leio Liz "Lobo Soares" Luanda "Madre de Deus" Magnвnimo "Maria I" "Martim de Freitas" Medusa Minerva "Monte du Ouro" Neptuno Ninfa "N. Sra. Belйm"
+	"N. Sra. da Ajuda" "N. Sra. da Ajuda e Sгo Fransisco" "N. Sra. da Ajuda e Sгo Pedro" "N. Sra. da Arribada" "N. Sra. da Assunзгo" "N. Sra. da Atalaia"
+	"N. Sra. da Boa Hora" "N. Sra. da Boa Memуria" "N. Sra. da Boa Viagem" "N. Sra. da Caridade" "N. Sra. da Caridade e Sгo Fransisco" "N. Sra. da Conceicao"
+	"N. Sra. da Conceiзгo e Sгo Joгo" "N. Sra. da Conceiзгo e Sгo Josй" "N. Sra. da Conceiзгo e Sao Vicente" "N. Sra. da Encarnaзгo" "N. Sra. da Esperanca"
+	"N. Sra. da Estrela" "N. Sra. da Glуria" "N. Sra. da Graзa" "N. Sra. da Guia" "N. Sra. da Lampadosa" "N. Sra. da Luz" "N. Sra. da Madre de Deus"
+	"N. Sra. da Misericуrdia" "N. Sra. da Natividade" "N. Sra. da Nazarй" "N. Sra. da Nazarй e Santa Ana" "N. Sra. da Nazarй e Santo Antуnio" "N. Sra. da Oliveira"
+	"N. Sra. da Oliveira de Guimarгes" "N. Sra. da Oliveira e Santo Antуnio" "N. Sra. da Palma e Sгo Pedro" "N. Sra. da Penha de Franca" "N. Sra. da Piedade"
+	"N. Sra. da Vitуria" "N. Sra. das Angъstias" "N. Sra. das Brotas" "N. Sra. das Merces" "N. Sra. das Necessidades" "N. Sra. das Ondas"
+	"N. Sra. das Portas do Cйu de Rosette" "N. Sra. de Belem e Sгo Josй" "N. Sra. de Bettencourt" "N. Sra. de Guadalupe" "N. Sra. de Belйm"
+	"N. Sra. do Bom" "N. Sra. do Bom Despacho" "N. Sra. do Bom Sucesso" "N. Sra. do Cabo" "N. Sra. do Cabo e Sгo Pedro" "N. Sra. do Cardais"
+	"N. Sra. do Livramento" "N. Sra. do Livramento e Sгo Josй" "N. Sra. do Loreto" "N. Sra. do Monte do Carmo" "N. Sra. do Pilar" "N. Sra. do Quietaзгo"
+	"N. Sra. do Rosбrio" "N. Sra. do Rosбrio e Santo Andrй" "N. Sra. do Vale" "N. Sra. do Vencimento e Sгo Josй" "N. Sra. dos Milagres" "N. Sra. dos Prazeres"
+	"N. Sra. dos Prazeres e Santo Antonio" "N. Sra. dos Remйdios dos Cassabe" "N. Sra. Madre de Deus" "N. Sra. Madre de Deus e Sгo Fransisco"
+	"N. Sra. Madre de Deus e Sгo Josй" "N. Sra. Necessidades e Santo Antonio" "Nossa Senhora da Glуria" "Nossa Senhora das Necessidades" "Nossa Senhora da Conceiзгo"
+	"Nossa Senhora da Esperanca" "Nossa Senhora da Vitуria" "Oliveira de Guimarгes" "Padre Eterno" Pйrola Polifemo "Princesa Carlota" "Princesa da Beira"
+	"Princesa da Beira e Portuguesa" "Princesa do Brasil" "Princesa do Cйu" "Princesa Real" "Prнncipe do Brasil" "Prнncipe Dom Pedro" "Prнncipe Real"
+	"Prнncipe Regente" Quietaзгo "Rainha de Portugal" "Rainha dos Anjos" "Rainha Santa Isabel" "Real Carolina" "Real Fidelнssima" "Real Fonsor" "Real Fonza"
+	"Real Voador" Relнquias Sacramento "Salvador do Mundo" "Santa Ana" "Santa Ana e Maria" "Santa Ana e Sгo Joaquim" "Santa Catarina" "Santa Catarina do Monte Sinai"
+	"Santa Clara" "Santa Cruz" "Santa Cruz do Ouro" "Santa Maria Isabel de Saboia" "Santa Rosa" "Santa Teresa" "Santa Teresa de Jesus" Santiago "Santiago Maior"
+	"Santнssimo Sacramento" "Santнssima Trinidade" "Santo Alberto" "Santo Andre" "Santo Antуnio" "Santo Antуnio de Flores" "Santo Antуnio de Padua"
+	"Santo Antуnio de Tanna" "Santo Antуnio e Sгo Joaquim" "Santo Antуnio e Sгo Josй" "Santo Agustinho" "Santo Miguel" "Sгo Antуnio" "Sгo Bartholomeu"
+	"Sгo Benedito" "Sгo Bento" "Sгo Bernardo" "Sгo Boaventura" "Sгo Brбs e Sгo Lourenзo" "Sгo Cristovгo" "Sгo Fransisco de Assis" "Sгo Fransisco de Paula"
+	"Sгo Fransisco Xavier" "Sгo Fransisco Xavier e Santo Antуnio" "Sгo Fransisco Xavier e Todo o Bem" "Sгo Joгo" "Sгo Joгo Baptista" "Sгo Joгo de Deus"
+	"Sгo Joгo Magnвnimo" "Sгo Jorge" "Sгo Josй" "Sгo Josй e N. Sra. da Conceiзгo" "Sгo Josй e N. Sra. das Mercкs" "Sгo Josй Paquete Бfrica" "Sгo Lourenзo"
+	"Sгo Martinho" "Sгo Nicolau" "Sгo Pedro" "Sгo Pedro Goncalves" "Sгo Rafael" "Sгo Salvador" "Sгo Sebasteio" "Sгo Simгo" "Sгo Tomй" "Sacramento"
+	"Santнssimo Sacramento" "Sem Nome" Serpente "Serpento do Mar" "Simenta de Carvalho" Successo Taforea Tejo "Temнvel Portuguesa" "Todos os Santos" Torta
+	Tritгo Ulisses Uniгo Unido Unilo Urania Vale "Vasco da Gama" Vйnus Vinganзa Voador Volador Vulcano "Zabra Augusta" "Zabra Jъlia" "Sгo Gabriel" Bйrrio
+	Gonзalo Nunes Argo "Arca de Noй" Jъpiter Jesus Cristo "Jesus Cristo" Lisboa
+}
+
+army_names = {
+	"Guarda Real" "Terзo de $PROVINCE$" "Exйrcito de $PROVINCE$" "Bandeira de $PROVINCE$"  "Terзo da Armada Real da Coroa de Portugal" 
+}
+
+fleet_names = {
+	"Armada Real" "Armada de $PROVINCE$" "Esquadra de $PROVINCE$" "Frota de $PROVINCE$"  "Armada do Atlвntico" "Esquadra do Atlвntico" "Frota do Atlвntico" "Armada do Brasil" "Esquadra do Brasil" "Frota do Brasil" "Armada da Guinй" "Esquadra da Guinй" "Frota da Guinй" "Armada do Cabo" "Esquadra do Cabo" "Frota do Cabo" "Armada do Нndico" "Esquadra do Нndico" "Frota do Нndico" "Armada do Estreito" "Esquadra do Estreito" "Frota do Estreito" "Armada do Extremo Oriente" "Esquadra do Extremo Oriente" "Frota do Extremo Oriente""Armada do Pacнfico" "Esquadra do Pacнfico" "Frota do Pacнfico"
+}

@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = latvian
+capital = 1834
+
+1444.1.1 = {
+	monarch = {
+		name = "Kaupo"
+		dynasty = "Oginski"
+        birth_date = 1420.3.6
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+}
+
+1542.1.1 = {
+	religion = protestant
+}

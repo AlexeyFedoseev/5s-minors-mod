@@ -1,0 +1,131 @@
+country_decisions = {
+
+	restore_han_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = SUI }
+			NOT = { tag = HNN }
+			NOT = { tag = YUA }
+			NOT = { tag = MNG }
+			NOT = { tag = QNG }
+			NOT = { exists = HNN }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+            OR{
+				primary_culture = miao 
+				primary_culture = cantonese 
+				primary_culture = wu 
+				primary_culture = chimin 
+				primary_culture = hakka 
+				primary_culture = gan 
+				primary_culture = xiang
+				primary_culture = sichuanese 
+				primary_culture = jianhuai 
+				primary_culture = hubei 
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 679	#Chengdu
+				province_id = 680	#Chongquing
+				province_id = 682	#Wuchang
+				province_id = 1821	#Nanjing
+				province_id = 685	#Yangzhou
+				province_id = 684	#Hangzhou
+				province_id = 671	#Changsha
+				province_id = 669	#Fuzhou
+				province_id = 1829	#Quanzhou
+				province_id = 2157	#Waichow
+				province_id = 667	#Canton
+				province_id = 613	#Dong Kinh
+				province_id = 662	#Yunnan
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no			
+			NOT = { exists = HNN }
+			AND{
+				owns_core_province = 679	#Chengdu
+				owns_core_province = 680	#Chongquing
+				owns_core_province = 682	#Wuchang
+				owns_core_province = 1821	#Nanjing
+				owns_core_province = 685	#Yangzhou
+				owns_core_province = 684	#Hangzhou
+				owns_core_province = 671	#Changsha
+				owns_core_province = 669	#Fuzhou
+				owns_core_province = 1829	#Quanzhou
+				owns_core_province = 2157	#Waichow
+				owns_core_province = 667	#Canton
+				owns_core_province = 613	#Dong Kinh
+				owns_core_province = 662	#Yunnan
+			}
+			if = {
+				limit = {
+					has_dlc = "Mandate of Heaven"
+					any_country = {
+						is_emperor_of_china = yes
+					}
+				}
+				is_emperor_of_china = yes
+			}
+			else_if = {
+				limit = {
+					has_dlc = "Common Sense"
+				}
+				government_rank = 3
+			}
+			else = {
+				total_development = 1000
+			}
+		}
+		effect = {
+			671 = { #Changsha
+				move_capital_effect = yes
+			}
+			change_tag = HNN
+			on_change_tag_effect = yes
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 50
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

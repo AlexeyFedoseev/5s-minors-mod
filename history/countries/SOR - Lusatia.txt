@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = sorbian
+religion = catholic
+capital = 60	# Oberlausitz
+
+1444.1.1 = { 
+	monarch = {
+		name = "Joachim"
+		dynasty = "z Podebrad"
+		birth_date = 1413.1.1
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}

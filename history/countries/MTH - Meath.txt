@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = tanistry_reform
+government_rank = 1
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 373	# Dublin
+
+1444.1.1 = {
+	monarch = {
+		name = "Donal"
+		dynasty = "O`Queely"
+        birth_date = 1408.3.6
+		adm = 6
+		dip = 2
+		mil = 1
+	}
+}

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = chinese_warlord 
+technology_group = chinese
+religion = confucianism
+primary_culture = shandong_culture
+capital = 690	#Qingzhou
+
+1444.1.1 = {
+	monarch = {
+		name = "Shaozong"
+		dynasty = "Qi"
+        birth_date = 1408.3.6
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}

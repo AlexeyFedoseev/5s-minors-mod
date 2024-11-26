@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = karelian
+capital = 32
+
+1444.1.1 = {
+	monarch = {
+		name = "Tambet"
+		dynasty = "Izbor"
+        birth_date = 1409.3.6
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+}
