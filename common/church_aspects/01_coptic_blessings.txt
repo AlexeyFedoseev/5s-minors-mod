@@ -1,12 +1,12 @@
 legitimize_government = {
 	is_blessing = yes
 
-	modifier = {
+	modifier = { #5s-minors-mod
 		development_cost = -0.05
-		legitimacy = 1 #5s
-		horde_unity = 1 #5s
-		republican_tradition = 0.4 #5s
-		devotion = 1 #5s
+		legitimacy = 1
+		horde_unity = 1
+		republican_tradition = 0.4
+		devotion = 1
 	}
 	ai_will_do = {
 		factor = 10
@@ -27,7 +27,7 @@ encourage_warriors_of_the_faith = {
 	is_blessing = yes
 
 	modifier = {
-		manpower_recovery_speed = 0.2 #5s
+		manpower_recovery_speed = 0.2 #5s-minors-mod
 	}
 	ai_will_do = {
 		factor = 10
@@ -44,7 +44,7 @@ send_monks_to_establish_monasteries = {
 	is_blessing = yes
 
 	modifier = {
-		global_missionary_strength = 0.03 #5s
+		global_missionary_strength = 0.03 #5s-minors-mod
 	}
 	ai_will_do = {
 		factor = 10
@@ -73,7 +73,7 @@ promote_territorial_rights = {
 	is_blessing = yes
 
 	modifier = {
-		core_creation = -0.2 #5s
+		core_creation = -0.2 #5s-minors-mod
 	}
 	ai_will_do = {
 		factor = 10
@@ -92,7 +92,7 @@ will_of_the_martyrs = {
 	is_blessing = yes
 
 	modifier = {
-		discipline = 0.05 #5s
+		discipline = 0.05 #5s-minors-mod
 	}
 	ai_will_do = {
 		factor = 15

@@ -4,7 +4,7 @@
 odin = {
 	legitimacy = 0.1
 	horde_unity = 0.1
-	core_creation = -0.20 #5s
+	core_creation = -0.20 #5s-minors-mod
 	
 	potential = { religion = norse_pagan_reformed }
 	trigger = {}
@@ -26,7 +26,7 @@ odin = {
 }
 
 freya = {
-	global_manpower_modifier = 0.2 #5s
+	global_manpower_modifier = 0.2 #5s-minors-mod
 	global_tax_modifier = 0.1
 	
 	potential = { religion = norse_pagan_reformed }
@@ -84,7 +84,7 @@ tor = {
 }
 
 tyr = {
-	global_sailors_modifier = 0.2 #5s
+	global_sailors_modifier = 0.2 #5s-minors-mod
 	discipline = 0.05
 	
 	potential = { religion = norse_pagan_reformed }
@@ -135,7 +135,7 @@ njord = {
 
 
 snotra = {
-	technology_cost = -0.1 #5s
+	technology_cost = -0.1 #5s-minors-mod
 	build_cost = -0.1
 	
 	potential = { religion = norse_pagan_reformed }
