@@ -282,7 +282,6 @@
 165 = "Berne"
 166 = "Waldstätten"
 181 = "Rethélois"
-183 = "Ile-de-France"
 189 = "Lorraine"
 266 = "Prague"
 1742 = "Limbourg"
@@ -361,4 +360,3 @@
 4758 = "Val d'Etsch"
 4720 = "Genève"
 4721 = "Fribourg"
-

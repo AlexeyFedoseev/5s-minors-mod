@@ -12,7 +12,7 @@ decline_of_mali = {
 	}
 	
 	can_start = {
-		NOT = { stability = 0 }
+		NOT = { stability = 0 } #5s-minors-mod
 		has_any_disaster = no
 		NOT = { mission_completed = mal_absolute_authority }
 	}

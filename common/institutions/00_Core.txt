@@ -22,6 +22,7 @@ feudalism = {
 
 	trade_company_efficiency = 0.2
 
+	#effect = { } # When a country embraces it
 
 	history = {
 		is_year = 1000
@@ -49,10 +50,10 @@ feudalism = {
 			AND = {
 				owner = { is_playing_custom_nation = no }
 				OR = {
-					technology_group = muslim # 5s league minors mod
-					technology_group = sub_saharan # 5s leagueminors mod
-					technology_group = central_african # 5s leagueminors mod
-					technology_group = east_african # 5s leagueminors mod
+					technology_group = muslim #5s-minors-mod
+					technology_group = sub_saharan #5s-minors-mod
+					technology_group = central_african #5s-minors-mod
+					technology_group = east_african #5s-minors-mod
 					
 					culture = persian
 					culture = azerbaijani
@@ -100,24 +101,24 @@ feudalism = {
 			owner = { technology_group = high_american }
 			owner = {
 				NOT = {
-					# government = tribal 5s league minors mod
+					# government = tribal #5s-minors-mod
 					government = native
 					primary_culture = bedouin_arabic
 					primary_culture = uyghur
 					
-					primary_culture = ostyaki #5s
-					primary_culture = kamchatkan #5s
-					culture_group = evenks #5s
-					culture_group = altaic #5s
-					culture_group = tartar #5s
-					culture_group = central_indian #5s
+					primary_culture = ostyaki #5s-minors-mod
+					primary_culture = kamchatkan #5s-minors-mod
+					culture_group = evenks #5s-minors-mod
+					culture_group = altaic #5s-minors-mod
+					culture_group = tartar #5s-minors-mod
+					culture_group = central_indian #5s-minors-mod
 					
 					technology_group = andean
 					technology_group = mesoamerican
 					technology_group = north_american
 					technology_group = south_american
-					technology_group = polynesian_tech #5s
-					# technology_group = sub_saharan #5s
+					technology_group = polynesian_tech #5s-minors-mod
+					# technology_group = sub_saharan #5s-minors-mod
 					technology_group = aboriginal_tech
 				}
 			}

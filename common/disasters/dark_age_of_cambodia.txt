@@ -9,9 +9,9 @@ dark_age_of_cambodia = {
 	}
 	
 	can_start = {
-		NOT = { stability = 0 }
+		NOT = { stability = 0 } #5s-minors-mod
 		has_any_disaster = no
-		NOT = { mission_completed = mnd_khm_resurgence }
+		NOT = { mission_completed = mnd_khm_resurgence } #5s-minors-mod
 	}
 	
 	can_stop = { 
@@ -32,7 +32,7 @@ dark_age_of_cambodia = {
 	
 
 	modifier = {
-		all_power_cost = 0.10
+		all_power_cost = 0.10 #5s-minors-mod
 	}
 	
 	on_start = khmer.1
