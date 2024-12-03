@@ -1121,7 +1121,7 @@ rig_develop_and_teuton_mission_slot = {
 			}
 		}
 		trigger = {
-			mil_power = 150 #5s
+			mil_power = 150 #5s-minors-mod
 			army_size_percentage = 1
 			num_of_generals = 1
 			38 = {
@@ -1130,7 +1130,7 @@ rig_develop_and_teuton_mission_slot = {
 			}
 		}
 		effect = {
-			add_mil_power = -150 #5s
+			add_mil_power = -150 #5s-minors-mod
 			add_country_modifier = {
 				name = rig_tower_defenders
 				duration = 9125

@@ -29,7 +29,7 @@ sco_free_missions = {
 				}
 			}
 			else = {
-				owns_core_province = 250 #5s
+				owns_core_province = 250 #5s-minors-mod
 				owns_core_province = 4361
 				owns_core_province = 4362
 			}

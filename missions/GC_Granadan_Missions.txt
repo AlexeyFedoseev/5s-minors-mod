@@ -1154,8 +1154,8 @@ granada_slot_4_missions = {
 		
 		trigger = {
 			navy_size = POR
-			navy_size = PRT #5s
-			navy_size = BIR #5s
+			navy_size = PRT #5s-minors-mod
+			navy_size = BIR #5s-minors-mod
 		} 
 		
 		effect = {

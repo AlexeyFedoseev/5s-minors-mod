@@ -30,7 +30,7 @@ french_minor_missions = {
 		}
 		trigger = {
 			is_subject = no
-			prestige = 50 #5s
+			prestige = 50 #5s-minors-mod-minors-mod
 		}
 		effect = {
 			add_prestige = 25
@@ -94,7 +94,7 @@ french_minor_missions = {
 			}
 		}
 		effect = {
-			create_general = { tradition = 40 } #5s
+			create_general = { tradition = 40 } #5s-minors-mod-minors-mod
 			ile_de_france_area = {
 				limit = {
 					NOT = { is_core = ROOT }
@@ -120,9 +120,10 @@ french_minor_missions = {
 		effect = {
 			add_mil_power = 200
 			france_region = {
-				#limit = { #5s
-				#	owned_by = FRA
-				#}
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
 				add_permanent_claim = ROOT
 			}
 		}
@@ -136,13 +137,13 @@ french_minor_missions = {
 		trigger = {
 			is_subject = no
 			owns_core_province = 183
-			owns_core_province = 186 #5s
-			owns_core_province = 182 #5s
-			owns_core_province = 177 #5s
-			owns_core_province = 186 #5s
-			owns_core_province = 174 #5s
-			owns_core_province = 200 #5s
-			owns_core_province = 203 #5s
+			owns_core_province = 186 #5s-minors-mod
+			owns_core_province = 182 #5s-minors-mod
+			owns_core_province = 177 #5s-minors-mod
+			owns_core_province = 186 #5s-minors-mod
+			owns_core_province = 174 #5s-minors-mod
+			owns_core_province = 200 #5s-minors-mod
+			owns_core_province = 203 #5s-minors-mod
 			NOT = {
 				exists = FRA
 			}
@@ -186,8 +187,8 @@ french_minor_missions = {
 				}
 			}
 			change_tag = FRA
-			on_change_tag_effect = yes
 			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {

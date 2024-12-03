@@ -251,10 +251,10 @@ dnz_army_mission_slot = {
 		trigger = {
 			army_size_percentage = 1
 			has_mil_advisor = yes
-			mil_power = 75 #5s
+			mil_power = 75 #5s-minors-mod
 		}
 		effect = {
-			add_mil_power = -75 #5s
+			add_mil_power = -75 #5s-minors-mod
 			add_country_modifier = {
 				name = teu_teutonic_persistance
 				duration = 9125

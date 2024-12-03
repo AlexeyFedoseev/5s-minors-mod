@@ -23,8 +23,8 @@ country_decisions = {
 			}
 			NOT = { tag = HLR }
 			NOT = { tag = PAP }
-			culture_group = kongo_group
-			#primary_culture = kongolese - 5s mod
+			#primary_culture = kongolese #5s-minors-mod
+			culture_group = kongo_group #5s-minors-mod
 			is_colonial_nation = no
 			OR = {
 				is_former_colonial_nation = no
@@ -37,11 +37,14 @@ country_decisions = {
 		provinces_to_highlight = {
 			OR = {
 				province_id = 1170	# Mpemba
+				#province_id = 798	# Mbwila #5s-minors-mod
 				province_id = 4080	# Soyo
-				province_id = 4085	# Yaka
-				province_id = 4092	# Rund
-				province_id = 4100	# Luapula
-				province_id = 4097	# Luba
+				#province_id = 1168	# Mbamba #5s-minors-mod
+				#province_id = 1901	# Mpangu #5s-minors-mod
+				province_id = 4085	# Yaka #5s-minors-mod
+				province_id = 4092	# Rund #5s-minors-mod
+				province_id = 4100	# Luapula #5s-minors-mod
+				province_id = 4097	# Luba #5s-minors-mod
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -54,57 +57,24 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			owns_core_province = 1170	# Mpemba
+			#owns_core_province = 798	# Mbwila 	#5s-minors-mod
 			owns_core_province = 4080	# Soyo
-			owns_core_province = 4085	# Yaka
-			owns_core_province = 4092	# Rund
-			owns_core_province = 4100	# Luapula
-			owns_core_province = 4097	# Luba
+			#owns_core_province = 1168	# Mbamba 	#5s-minors-mod
+			#owns_core_province = 1901	# Mpangu 	#5s-minors-mod
+			owns_core_province = 4085	# Yaka 		#5s-minors-mod
+			owns_core_province = 4092	# Rund		#5s-minors-mod
+			owns_core_province = 4100	# Luapula	#5s-minors-mod
+			owns_core_province = 4097	# Luba		#5s-minors-mod
 		}
 		effect = {
 			change_tag = KON
-			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = { NOT = { government_rank = 2 } }
 				set_government_rank = 2
 			}
 			set_capital = 1170
-			kongo_region = {
-				limit = {
-					NOT = { owned_by = ROOT }
-					NOT = { is_core = ROOT }
-				}
-				add_permanent_claim = KON
-			}
-			chokwe_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-					NOT = { is_core = ROOT }
-				}
-				add_permanent_claim = KON
-			}
-			luba_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-					NOT = { is_core = ROOT }
-				}
-				add_permanent_claim = KON
-			}
-			sankuru_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-					NOT = { is_core = ROOT }
-				}
-				add_permanent_claim = KON
-			}
-			katanga_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-					NOT = { is_core = ROOT }
-				}
-				add_permanent_claim = KON
-			}
-			#kongo_area = {
+			#kongo_area = { #5s-minors-mod
 				#limit = {
 					#NOT = { owned_by = ROOT }
 					#NOT = { is_core = ROOT }
@@ -118,6 +88,42 @@ country_decisions = {
 				#}
 				#add_permanent_claim = KON
 			#}
+
+			kongo_region = { #5s-minors-mod
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = KON
+			}
+			chokwe_area = { #5s-minors-mod
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = KON
+			}
+			luba_area = { #5s-minors-mod
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = KON
+			}
+			sankuru_area = { #5s-minors-mod
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = KON
+			}
+			katanga_area = { #5s-minors-mod
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = KON
+			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
@@ -135,6 +141,7 @@ country_decisions = {
 				limit = { has_dlc = "Origins" }
 				swap_non_generic_missions = yes
 			}
+			on_change_tag_effect = yes
 		}
 		ai_will_do = {
 			factor = 1

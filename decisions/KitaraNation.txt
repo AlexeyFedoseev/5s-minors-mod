@@ -17,7 +17,7 @@ country_decisions = {
 			NOT = { tag = HLR }
 			NOT = { tag = PAP }
 			culture_group = great_lakes_group
-			OR = { #5s
+			OR = { #5s-minors-mod
 				tag = RWA
 				tag = UBH
 				tag = BUU

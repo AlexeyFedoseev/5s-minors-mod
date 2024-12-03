@@ -72,7 +72,7 @@ country_decisions = {
 					set_country_flag = was_not_former_colonial_nation
 				}
 			}
-			if = {
+			if = { #5s-minors-mod
 				limit = {
 					has_custom_ideas = no
 				}

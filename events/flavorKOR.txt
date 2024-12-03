@@ -18,7 +18,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -96,7 +96,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -195,7 +195,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -258,7 +258,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -370,7 +370,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -406,7 +406,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -461,7 +461,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -577,7 +577,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -707,7 +707,7 @@ country_event = {
 	mean_time_to_happen = { days = 1825 }
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -753,7 +753,7 @@ country_event = {
 	mean_time_to_happen = { days = 3650 }
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -862,7 +862,7 @@ country_event = {
 	mean_time_to_happen = { days = 3650 }
 
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -934,7 +934,7 @@ country_event = {
 	}
 
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE
@@ -1709,7 +1709,7 @@ country_event = {
 	mean_time_to_happen = { days = 1825 }
 	
 	trigger = {
-		OR = { #5s
+		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
 			tag = BAE

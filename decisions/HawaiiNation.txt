@@ -14,7 +14,7 @@ country_decisions = {
 			northern_polynesia_area = {
 				owned_by = ROOT
 			}
-			OR = {
+			OR = { #5s-minors-mod
 				tag = HAW
 				tag = MAU
 				tag = OAH
@@ -72,7 +72,7 @@ country_decisions = {
 				duration = 7300
 			}
 			add_prestige = 25
-			if = {
+			if = { #5s-minors-mod
 				limit = { has_custom_ideas = no }
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}

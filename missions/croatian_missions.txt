@@ -182,7 +182,7 @@ cro_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			custom_trigger_tooltip = { #5s
+			custom_trigger_tooltip = { #5s-minors-mod
 				tooltip = obj_humiliate_rival_tooltip
 				has_country_flag = humiliated_rival
 			}
@@ -236,10 +236,10 @@ cro_2 = {
 		effect = {
 			if = {
 				limit = { has_updated_culture = { culture = slavic } }
-				add_accepted_culture_or_dip_power = { culture = bosnian_new }
+				add_accepted_culture_or_dip_power = { culture = bosnian_new dip_reward = yes }
 			}
 			else = {
-				add_accepted_culture_or_dip_power = { culture = bosnian }
+				add_accepted_culture_or_dip_power = { culture = bosnian dip_reward = yes }
 			}
 		}
 		ai_weight = {

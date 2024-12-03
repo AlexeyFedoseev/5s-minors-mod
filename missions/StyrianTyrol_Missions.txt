@@ -15,7 +15,7 @@ hab_reform_austria = {
 		icon = mission_have_two_subjects
 		required_missions = {  } #None
 		trigger = {
-			owns = 134 #5s
+			owns = 134 #5s-minors-mod
 			OR = {
 				num_of_cities = HAB
 				NOT = { exists = HAB }

@@ -22,7 +22,7 @@ country_decisions = {
 			NOT = { tag = BYZ }
 			NOT = { exists = GLH }
 			culture_group = tartar
-			#has_reform = steppe_horde - 5s mod
+			#has_reform = steppe_horde #5s-minors-mod
 			is_colonial_nation = no
 			OR = {
 				is_former_colonial_nation = no
@@ -47,10 +47,10 @@ country_decisions = {
 						province_id = 284 #Crimea
 						province_id = 302 #Tambov
 						province_id = 464 #Astrakhan
-						#province_id = 465 #Nogai - 5s mod
+						#province_id = 465 #Nogai #5s-minors-mod
 						province_id = 466 #Sarai
-						#province_id = 476 #Kypchak - 5s mod
-						#province_id = 1075 #Chimgi-Tura - 5s mod
+						#province_id = 476 #Kypchak #5s-minors-mod
+						#province_id = 1075 #Chimgi-Tura #5s-minors-mod
 						province_id = 1082 #Kazan
 						province_id = 1778 #Qasim
 						province_id = 2411 #Mansur
@@ -73,14 +73,14 @@ country_decisions = {
 		}
 		allow = {
 			NOT = { exists = GLH }
-			#has_reform = steppe_horde - 5s mod
+			#has_reform = steppe_horde #5s-minors-mod
 			owns_core_province = 284 #Crimea
 			owns_core_province = 302 #Tambov
 			owns_core_province = 464 #Astrakhan
-			#owns_core_province = 465 #Nogai - 5s mod
+			#owns_core_province = 465 #Nogai #5s-minors-mod
 			owns_core_province = 466 #Sarai
-			#owns_core_province = 476 #Kypchak - 5s mod
-			#owns_core_province = 1075 #Chimgi-Tura - 5s mod
+			#owns_core_province = 476 #Kypchak #5s-minors-mod
+			#owns_core_province = 1075 #Chimgi-Tura #5s-minors-mod
 			owns_core_province = 1082 #Kazan
 			owns_core_province = 1778 #Qasim
 			owns_core_province = 2411 #Mansur
@@ -108,8 +108,23 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = GLH
+			if = {
+				limit = {
+					OR = {
+						AND = {
+							has_dlc = "Winds of Change"
+							NOT = {
+								was_tatar_nation = yes
+								was_mongol_nation = yes
+								was_moghulistan_nation = yes
+							}
+						}
+						NOT = { has_dlc = "Winds of Change" }
+					}
+				}
+				swap_non_generic_missions = yes
+			}
 			on_change_tag_effect = yes
-			swap_non_generic_missions = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = { NOT = { government_rank = 3 } }
@@ -123,7 +138,7 @@ country_decisions = {
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 
-			if = { #5s mod
+			if = { #5s-minors-mod
 				limit = { 
 					NOT = { government = monarchy }
 					is_revolutionary = no
@@ -131,16 +146,16 @@ country_decisions = {
 				change_government_to_monarchy = yes
 				
 			}
-			add_government_reform = feudal_theocracy #5s mod
+			add_government_reform = feudal_theocracy #5s-minors-mod
 			
-			if = { #5s mod
+			if = { #5s-minors-mod
 				limit = { 
 					NOT = { technology_group = nomad_group }
 				}
 				change_technology_group = nomad_group 
 			}
 			
-			if = { #5s mod
+			if = { #5s-minors-mod
 				limit = { 
 					NOT = { unit_type = nomad_group }
 				}

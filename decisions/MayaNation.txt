@@ -52,7 +52,7 @@ country_decisions = {
 				limit = {
 					has_dlc = "El Dorado"
 				}
-				is_religion_reformed = yes
+				num_of_maya_religious_reforms = { amount = 2 }
 			}
 			else = {
 				has_institution = feudalism
@@ -66,7 +66,6 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = MAY
-			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {
@@ -86,14 +85,16 @@ country_decisions = {
 				}
 				add_permanent_claim = MAY
 			}
-			add_prestige = 25
+			add_prestige_or_monarch_power = { amount = 25 }
 			set_country_flag = formed_mayapan_flag
 			if = {
 				limit = { is_tribal = yes }
 				change_government = monarchy
-				#set_legacy_government = despotic_monarchy
+				add_government_reform = autocracy_reform
 			}
-			if = {
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
+			if = { #5s-minors-mod
 				limit = {
 					has_custom_ideas = no
 				}

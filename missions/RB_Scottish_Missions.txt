@@ -17,7 +17,7 @@ sco_rb_adm_missions = {
 		required_missions = {  }
 		provinces_to_highlight = {
 			OR = {
-				province_id = 250 #5s
+				province_id = 250 #5s-minors-mod
 				province_id = 253
 				province_id = 4364
 			}
@@ -26,7 +26,7 @@ sco_rb_adm_missions = {
 			}
 		}
 		trigger = {
-			owns_core_province = 250 #5s
+			owns_core_province = 250 #5s-minors-mod
 			owns_core_province = 253
 			owns_core_province = 4364
 		}
@@ -178,7 +178,7 @@ sco_rb_conquest_missions = {
 				}
 			}
 			else = {
-				owns_core_province = 250 #5s
+				owns_core_province = 250 #5s-minors-mod
 				owns_core_province = 4361
 				owns_core_province = 4362
 			}

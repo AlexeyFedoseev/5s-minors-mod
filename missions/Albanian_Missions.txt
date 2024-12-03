@@ -17,7 +17,7 @@ alb_1 = {
 		}
 		trigger = {
 			is_subject = no
-			stability = 2 #5s
+			stability = 2 #5s-minors-mod
 			4175 = { owned_by = ROOT }
 			army_size_percentage = 1
 		}
@@ -234,7 +234,7 @@ alb_1 = {
 				owned_by = ROOT
 				is_core = ROOT
 			}
-			OR = { #5s
+			OR = { #5s-minors-mod
 				AND = {
 					macedonia_area = {
 					type = all
@@ -302,7 +302,7 @@ alb_1 = {
 			region = balkan_region
 			owned_by = TUR
 		}
-		trigger = { #5s
+		trigger = { #5s-minors-mod
 			#balkan_region = {
 			#	type = all
 			#	NOT = { owned_by = TUR }

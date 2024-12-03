@@ -567,7 +567,7 @@ emp_burgundy_3 = {
 		required_missions = { }
 		
 		trigger = {
-			num_of_non_tributary_subjects = 1 #5s
+			num_of_non_tributary_subjects = 1 #5s-minors-mod
 			custom_trigger_tooltip = {
 				tooltip = bur_subjects.tooltip
 				NOT = {

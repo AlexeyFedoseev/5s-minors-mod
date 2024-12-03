@@ -1,5 +1,4 @@
 country_decisions = {
-	
 	egyptian_nation = {
 		major = yes
 		potential = {
@@ -44,7 +43,7 @@ country_decisions = {
 		}
 		allow = {
 			capital = 361 # Cairo
-			adm_tech = 20
+			adm_tech = 18
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
@@ -56,7 +55,10 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = EGY
-			on_change_tag_effect = yes
+			if = {
+				limit = { has_dlc = "King of Kings" }
+				set_country_flag = egyptian_government_reform_flag
+			}
 			if = {
 				limit = {
 					has_reform = mamluk_government
@@ -75,6 +77,10 @@ country_decisions = {
 				limit = { has_reform = mamluk_government }
 				remove_government_reform = mamluk_government
 				#set_legacy_government = administrative_monarchy
+			}
+			if = {
+				limit = { has_dlc = "King of Kings" }
+				add_government_reform = egyptian_government_reform
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
@@ -96,6 +102,12 @@ country_decisions = {
 				add_permanent_claim = EGY
 			}
 			set_country_flag = formed_egypt_flag
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
 		}
 		ai_will_do = {
 			factor = 0
@@ -106,11 +118,11 @@ country_decisions = {
 	adopt_mamluk_government = {
 		major = yes
 		potential = {
-			OR = {
+			or = {
 				has_reform = iqta
-				tag = ALX
+				has_reform = barbary_sultanate_reform
+				tag = ALX #5s-minors-mod
 			}
-			
 			NOT = { has_country_flag = formed_mamluks }
 			was_never_end_game_tag_trigger = yes
 			NOT = { tag = MAM }
@@ -134,12 +146,12 @@ country_decisions = {
 			}
 		}
 		provinces_to_highlight = {
-			province_id = 361  # Cairo
+			province_id = 361 	# Cairo
 			361 = { 			# Cairo
 				is_state = yes
 			}
-			province_id = 358 # Alexandria
-			province_id = 4320 # Girga
+			province_id = 358 # Alexandria 	#5s-minors-mod
+			province_id = 4320 # Girga  	#5s-minors-mod
 			OR = {
 				NOT = { owned_by = ROOT }
 				NOT = { is_core = ROOT }
@@ -148,16 +160,16 @@ country_decisions = {
 		allow = {
 			NOT = { exists = MAM } #To Show why it might disappear
 			owns_core_province = 361
-			owns_core_province = 358
-			owns_core_province = 4320
+			owns_core_province = 358	#5s-minors-mod
+			owns_core_province = 4320	#5s-minors-mod
 		}
 		effect = {
 			361 = { # Cairo
 				move_capital_effect = yes
 			}
 			change_tag = MAM
-			on_change_tag_effect = yes
 			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
 			if = {
 				limit = { NOT = { government_rank = 2 } }
 				set_government_rank = 2
@@ -185,7 +197,7 @@ country_decisions = {
 				egypt_region = {
 					limit = {
 						NOT = { is_core = MAM }
-						NOT = { is_claim = MAM }
+						NOT = { is_permanent_claim = MAM }
 					}
 					add_permanent_claim = MAM
 				}
@@ -204,7 +216,7 @@ country_decisions = {
 			factor = 1
 			modifier = {
 				factor = 0
-				adm_tech = 20
+				adm_tech = 18
 			}
 		}
 	}

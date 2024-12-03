@@ -3,13 +3,28 @@ tur_conquerors_of_the_near_east = {
 	generic = no #if a mission without generic = yes wants this slot then it overrides this.
 	ai = yes
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -261,13 +276,28 @@ tur_eastern_balkans = {
 	ai = yes
 	
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -356,13 +386,28 @@ tur_conquest_of_middle_east = {
 	ai = yes
 	
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -375,7 +420,7 @@ tur_conquest_of_middle_east = {
 		completed_by = 1514.8.23
 		trigger = {
 			army_size_percentage = 0.85
-			stability = 2
+			stability = 2 #5s-minors-mod
 		}
 		effect = {
 			karaman_area = {
@@ -710,13 +755,28 @@ tur_conquest_of_middle_east = {
 tur_black_sea = {
 	slot = 4
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -785,13 +845,28 @@ tur_eastern_mediterrenean_missions = {
 	ai = yes
 	
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -1051,13 +1126,28 @@ tur_eastern_mediterrenean_missions = {
 tur_conquer_western_mediterrenean = {
 	slot = 2
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -1162,13 +1252,28 @@ tur_conquer_western_mediterrenean = {
 tur_indian_ocean = {
 	slot = 4
 	potential = {
-		OR = { #5s
-			has_reform = beylik_government
+		OR = {
+			has_reform = beylik_government #5s-minors-mod
 			#AND = {
 			#	NOT = { has_dlc = "Domination" }
 			#	tag = TUR
 			#}
-			#tag = RUM 
+			#AND = {
+			#	tag = RUM
+			#	OR = {
+			#		AND = {
+			#			NOT = { was_tag = AKK }
+			#			NOT = { was_tag = QAR }
+			#		}
+			#		AND = {
+			#			OR = {
+			#				was_tag = AKK
+			#				was_tag = QAR
+			#			}
+			#			NOT = { has_dlc = "King of Kings" }
+			#		}
+			#	}
+			#}
 		}
 		NOT = { map_setup = map_setup_random }
 	}

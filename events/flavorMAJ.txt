@@ -161,7 +161,7 @@ country_event = {
 	
 	option = {
 		name = majapahit.3.a
-		#add_stability = -5 #5s
+		#add_stability = -5 #5s-minors-mod
 		add_legitimacy = -50
 		add_heir_claim = -50
 		set_country_flag = majapahit_disaster_flag
@@ -180,6 +180,7 @@ country_event = {
 	major = yes
 	
 	immediate = {
+		on_non_estate_disaster_end = yes
 		hidden_effect = {
 			set_country_flag = had_fall_of_majapahit
 		}

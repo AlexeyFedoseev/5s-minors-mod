@@ -10,8 +10,11 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			
-			OR = { # 5s mod
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			OR = { #5s-minors-mod
 				primary_culture = uzbehk
 				primary_culture = turkmeni
 				primary_culture = khazak
@@ -30,10 +33,9 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			province_id = 442
-			# 5s mod
-			province_id = 438
-			province_id = 476
-			province_id = 460
+			province_id = 438 #5s-minors-mod
+			province_id = 476 #5s-minors-mod
+			province_id = 460 #5s-minors-mod
 			OR = {
 				NOT = { owned_by = ROOT }
 				NOT = { is_core = ROOT }
@@ -43,16 +45,13 @@ country_decisions = {
 			has_institution = feudalism
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
-			adm_tech = 7
 			owns_core_province = 442 	#Bukhara
 			442 = {						#Bukhara				
 				is_state = yes
 			}
-			# 5s mod
-			owns_core_province = 438
-			owns_core_province = 476
-			owns_core_province = 460
-			#----
+			owns_core_province = 438 #5s-minors-mod
+			owns_core_province = 476 #5s-minors-mod
+			owns_core_province = 460 #5s-minors-mod
 			NOT = { 
 				overlord_of = SIB
 			}
@@ -103,7 +102,7 @@ country_decisions = {
 			change_unit_type = muslim
 			set_global_flag = bukhara_formed
 			if = {
-				limit = {
+				limit = { 
 					has_custom_ideas = no
 					NOT = { has_idea_group = BUK_ideas }
 				}

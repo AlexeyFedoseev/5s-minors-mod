@@ -164,23 +164,23 @@ country_event = {
 	fire_only_once = yes
 
 	trigger = {
-		#has_global_flag = maid_of_orleans - 5s mod
-		#OR = { - 5s mod
+		#has_global_flag = maid_of_orleans #5s-minors-mod
+		#OR = { #5s-minors-mod
 			#current_age = age_of_absolutism
 			#current_age = age_of_revolutions
 		#}
-		tag = ORL # 5s mod
+		tag = ORL #5s-minors-mod
 		owns = 184 # Orleans
 		culture_group = french
 		religion = catholic
 		exists = PAP
-		#184 = { has_cardinal = yes } - 5s mod
-		is_year = 1500 #5s mod
+		#184 = { has_cardinal = yes } #5s-minors-mod
+		is_year = 1500 #5s-minors-mod
 	}
 
 	# Late game bonus for FRA, early Absolutism with extra fun for ORL runs
 	mean_time_to_happen = {
-		years = 33 #5s
+		years = 33 #5s-minors-mod
 
 		modifier = {
 			factor = 0.75
@@ -199,7 +199,7 @@ country_event = {
 			name = "joan_of_arc_beatified"
 			duration = -1
 		}
-		#if = { #5s
+		#if = { #5s-minors-mod
 		#	limit = {
 		#		has_country_flag = had_maid_of_orleans
 		#	}
@@ -240,7 +240,7 @@ country_event = {
 			}
 			change_government = theocracy
 		}
-		add_government_reform = sisterhood_of_jeanne_darc_reform 
+		add_government_reform = sisterhood_of_jeanne_darc_reform
 
 		if = {
 			limit = {

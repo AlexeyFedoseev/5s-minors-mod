@@ -5,10 +5,10 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s
-                		was_never_german_regional_tag_trigger = yes
-                		tag = BRA
-            		}
+			OR = { #5s-minors-mod
+                was_never_german_regional_tag_trigger = yes
+                tag = BRA
+            }
 			NOT = { has_country_flag = formed_austria_flag }
 			OR = {
 				ai = no
@@ -20,6 +20,7 @@ country_decisions = {
 			}
 			primary_culture = austrian
 			NOT = { tag = HAB }
+			NOT = { tag = AUH }
 			OR = {
 				NOT = { exists = HAB }
 				ai = no
@@ -65,7 +66,6 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = HAB
-			on_change_tag_effect = yes
 			add_prestige = 10
 			austria_proper_area = {
 				limit = {
@@ -104,23 +104,7 @@ country_decisions = {
 				}
 			}
 			swap_non_generic_missions = yes
-			if = {
-				limit = {
-					NOT = { government = monarchy }
-					NOT = { has_government_attribute = locked_government_type }
-				}
-				change_government = monarchy
-			}
-			if = {
-				limit = {
-					OR = {
-						government = monarchy
-						NOT = { has_government_attribute = locked_government_type }
-					}
-					has_not_locked_first_tier_reform = yes
-				}
-				add_government_reform = austrian_archduchy_reform 
-			}
+			on_change_tag_effect = yes
 			set_country_flag = formed_austria_flag
 
 			if = {

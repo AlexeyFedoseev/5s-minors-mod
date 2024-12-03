@@ -281,7 +281,7 @@ got_monarchy_slot_2 = {
 			is_capital_of = DAN
 		}
 		trigger = {
-			custom_trigger_tooltip = { #5s
+			custom_trigger_tooltip = { #5s-minors-mod
 				tooltip = obj_humiliate_rival_tooltip
 				has_country_flag = humiliated_rival
 			}
@@ -1023,7 +1023,7 @@ got_republic_slot_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			num_of_light_ship = 15 #5s
+			num_of_light_ship = 15 #5s-minors-mod
 		}
 		effect = {
 			if = {
@@ -1644,7 +1644,7 @@ got_pirate_slot_2 = {
 			naval_forcelimit = 20
 			navy_size_percentage = 1
 			num_of_light_ship = 6
-			num_of_galley = 20 #5s
+			num_of_galley = 20 #5s-minors-mod
 		}
 		effect = {
 			add_country_modifier = {
@@ -2513,11 +2513,10 @@ got_pirate_slot_5 = {
 		trigger = {
 			OR = {
 				owns_or_non_sovereign_subject_of = 4745
-				AND = { #5s
-					is_year = 1500 #5s
+				AND = { #5s-minors-mod
+					is_year = 1500
 					exists = RUG
 				}
-				#exists = RUG
 			}
 			owns_or_non_sovereign_subject_of = 25
 		}

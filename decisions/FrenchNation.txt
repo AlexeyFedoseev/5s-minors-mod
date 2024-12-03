@@ -39,6 +39,7 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
+				#5s-minors-mod
 				province_id = 177	# Maine
 				province_id = 179	# Blois
 				province_id = 182	# Vermandois
@@ -47,6 +48,25 @@ country_decisions = {
 				province_id = 185	# Othe
 				province_id = 186	# Champagne
 				province_id = 4387	# Angoumois
+
+				AND = {
+					region = france_region
+					root = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 15
+								region = france_region
+								is_core = root
+							}
+						}
+						owns_core_province = 183
+						owns_core_province = 184
+						owns_core_province = 186
+					}
+				}
+				province_id = 183	# ùle-de-France
+				province_id = 184	# Orlùannais
+				province_id = 186	# Champagne
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -58,17 +78,30 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no			
 			NOT = { exists = FRA }
+			#owns_core_province = 184	# Orlùannais
+			#owns_core_province = 186	# Champagne
+			#owns_core_province = 183	# ùle-de-France
+			#183 = { 					# ùle-de-France / Paris
+			#	is_state = yes
+			#}
+			#num_of_owned_provinces_with = {
+			#	value = 15
+			#	region = france_region
+			#	is_core = root
+			#}
+
+			#5s-minors-mod
 			owns_core_province = 177	# Maine
 			owns_core_province = 179	# Blois
 			owns_core_province = 182	# Vermandois
 			owns_core_province = 183	# Œle-de-France
 			owns_core_province = 184	# OrlÈannais
 			owns_core_province = 185	# Othe
-			owns_core_province = 186	# Champagne		
+			owns_core_province = 186	# Champagne1
 			owns_core_province = 4387	# Angoumois
 		}
 		effect = {
-			183 = { #Œle-de-France
+			183 = { #Œle-de-France  #5s-minors-mod
 				move_capital_effect = yes
 				change_province_name = "Paris"
 				rename_capital = "Paris"
@@ -77,9 +110,8 @@ country_decisions = {
 				add_base_manpower = 2
 			}
 			change_tag = FRA
-			on_change_tag_effect = yes
-			restore_country_name = yes
 			swap_non_generic_missions = yes
+			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {

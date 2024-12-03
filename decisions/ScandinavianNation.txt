@@ -23,7 +23,7 @@ country_decisions = {
 				AND = {
 					ai = yes
 					num_of_cities = 10
-					adm_tech = 15 #5s
+					adm_tech = 15 #5s-minors-mod
 				}
 			}
 			is_colonial_nation = no
@@ -56,7 +56,7 @@ country_decisions = {
 					has_dlc = "Lions of the North"
 				}
 				OR = {
-					adm_tech = 15 #5s
+					adm_tech = 15 #5s-minors-mod
 					custom_trigger_tooltip = {
 						tooltip = scandinavian_nation_tt
 						has_country_flag = can_form_scandinavia_earlier
@@ -64,7 +64,7 @@ country_decisions = {
 				}
 			}
 			else = {
-				adm_tech = 15 #5s
+				adm_tech = 15 #5s-minors-mod
 			}
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
@@ -82,13 +82,13 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = SCA
+			swap_non_generic_missions = yes
 			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = { NOT = { government_rank = 2 } }
 				set_government_rank = 2
 			}
-			swap_non_generic_missions = yes
 			if = {
 				limit = {
 					has_dlc = "Lions of the North"
@@ -325,6 +325,7 @@ country_decisions = {
 					religion = norse_pagan_reformed
 				}
 				override_country_name = NORTH_SEA_EMPIRE
+				set_country_flag = renamed_to_north_sea_empire
 				set_country_flag = has_overriden_color_flag
 				change_country_color = { color = { 202 245 251 } }
 			}
@@ -334,6 +335,7 @@ country_decisions = {
 						has_reform = danish_archkingdom
 					}
 					override_country_name = KLU
+					set_country_flag = is_KLU_flag
 					set_country_flag = has_overriden_color_flag
 					change_country_color = { color = { 255 212 42 } }
 				}

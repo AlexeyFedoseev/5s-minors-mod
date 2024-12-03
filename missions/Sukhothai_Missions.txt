@@ -21,7 +21,7 @@ suk_1 = {
 			is_at_war = no
 			is_free_or_tributary_trigger = yes
 			owns_core_province = 601
-			custom_trigger_tooltip = { #5s
+			custom_trigger_tooltip = { #5s-minors-mod
 				tooltip = obj_humiliate_rival_tooltip
 				has_country_flag = humiliated_rival
 			}

@@ -75,7 +75,7 @@ country_decisions = {
 			}
 			change_tag = PEU
 			on_change_tag_effect = yes
-			if = {
+			if = { #5s-minors-mod
 				limit = {
 					has_custom_ideas = no
 				}

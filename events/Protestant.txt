@@ -35,7 +35,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 8000 #5s
+		months = 8000 #5s-minors-mod
 		
 		modifier = {
 			factor = 2

@@ -7077,11 +7077,11 @@ ARM_ideas = {
 		hostile_attrition = 1
 	}
 	
-	trigger = {
-		OR = {
+	trigger = {#5s-minors-mod
+		#OR = {
 			tag = ARM
-			tag = MLK
-		}
+		#	tag = MLK
+		#}
 	}
 	free = yes		#will be added at load.
 	

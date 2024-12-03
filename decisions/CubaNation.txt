@@ -88,7 +88,7 @@ country_decisions = {
 				restore_old_nation_on_formation_effect = yes
 				remove_non_electors_emperors_from_empire_effect = yes
 			}
-			if = {
+			if = { #5s-minors-mod
 				limit = {
 					has_custom_ideas = no
 				}

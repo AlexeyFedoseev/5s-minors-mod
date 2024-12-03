@@ -2,9 +2,20 @@ tim_reconquest_persia = {
 	slot = 1
 	generic = no
 	ai = yes
+	potential_on_load = {
+		NOT = {
+			AND = {
+				has_dlc = "Winds of Change"
+				tag = TIM
+			}
+		}
+	}
 	potential = {
 		OR = {
-			tag = TIM
+			AND = {
+				NOT = { has_dlc = "Winds of Change" }
+				tag = TIM
+			}
 			tag = TRS
 			tag = AFG
 			tag = QOM
@@ -76,14 +87,12 @@ tim_reconquest_persia = {
 						}
 					}
 				}
-				#---------5s-----------
-				army_size_percentage = 1 
-				custom_trigger_tooltip = {
+				army_size_percentage = 1 #5s-minors-mod
+				custom_trigger_tooltip = { #5s-minors-mod
 					tooltip = obj_humiliate_rival_tooltip
 					has_country_flag = humiliated_rival
 				}
-				stability = 1
-				#---------------------
+				stability = 1 #5s-minors-mod
 				OR = {
 					war_with = TIM
 					is_subject = no
@@ -279,9 +288,20 @@ tim_reconquest_khorasan = {
 	slot = 3
 	generic = no
 	ai = yes
+	potential_on_load = {
+		NOT = {
+			AND = {
+				has_dlc = "Winds of Change"
+				tag = TIM
+			}
+		}
+	}
 	potential = {
 		OR = {
-			tag = TIM
+			AND = {
+				NOT = { has_dlc = "Winds of Change" }
+				tag = TIM
+			}
 			tag = TRS
 			tag = AFG
 			tag = QOM
@@ -469,9 +489,20 @@ tim_reconquest_transoxiana = {
 	slot = 5
 	generic = no
 	ai = yes
+	potential_on_load = {
+		NOT = {
+			AND = {
+				has_dlc = "Winds of Change"
+				tag = TIM
+			}
+		}
+	}
 	potential = {
 		OR = {
-			tag = TIM
+			AND = {
+				NOT = { has_dlc = "Winds of Change" }
+				tag = TIM
+			}
 			tag = TRS
 			tag = AFG
 			tag = QOM
@@ -663,9 +694,20 @@ tim_india = {
 	slot = 3
 	generic = no
 	ai = yes
+	potential_on_load = {
+		NOT = {
+			AND = {
+				has_dlc = "Winds of Change"
+				tag = TIM
+			}
+		}
+	}
 	potential = {
 		OR = {
-			tag = TIM
+			AND = {
+				NOT = { has_dlc = "Winds of Change" }
+				tag = TIM
+			}
 			tag = TRS
 			tag = AFG
 			tag = QOM

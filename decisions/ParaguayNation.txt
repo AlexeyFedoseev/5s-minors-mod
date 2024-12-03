@@ -12,7 +12,7 @@ country_decisions = {
 			OR = {
 				is_former_colonial_nation = yes
 				is_colonial_nation = yes
-				AND = {
+				AND = { #5s-minors-mod
 					NOT = {
 						OR = {
 							technology_group = north_american
@@ -70,7 +70,7 @@ country_decisions = {
 			}
 			change_tag = PRG
 			on_change_tag_effect = yes
-			if = {
+			if = { #5s-minors-mod
 				limit = {
 					has_custom_ideas = no
 				}

@@ -1,0 +1,29 @@
+
+ # missions
+ 5s_ceylon_explore_mission_title:0 "Unite our region"
+ 5s_ceylon_explore_mission_desc:0 "After the unification our region, we will get the event, with which we can choose our future expansion path."
+ flavor_cey.1.o.a:0 "Expansion to East"
+ flavor_cey.1.o.b:0 "Expansion to West"
+
+ # events 
+ flavor_cey.1.t:0 "East or West?"
+ flavor_cey.1.d:0 "After the unification of our region, we must choose the path of our future expansion - West or East?"
+ # decisions 
+ portugal_nation_title:0 "Unite Portugal"
+ portugal_nation_desc:0 "Unite Portugal"
+ korea_nation_title:0 "Unite Korea"
+ korea_nation_desc:0 "Unite Korea"
+ bengal_nation_title:0 "Restore Bengal Sultanate"
+ bengal_nation_desc:0 "Restore Bengal Sultanate"
+ restore_ming_nation_title:0 "Restore Ming Empire"
+ restore_ming_nation_desc:0 "Restore Ming Empire"
+ restore_sui_nation_title:0 "Restore Sui Empire"
+ restore_sui_nation_desc:0 "Restore Sui Empire"
+ restore_han_nation_title:0 "Restore Han Empire"
+ restore_han_nation_desc:0 "Restore Han Empire"
+ great_perm_nation_title:0 "Form Great Perm"
+ great_perm_nation_desc:0 "Form Great Perm"
+ african_nation_title:0 "Unite Africa"
+ african_nation_desk:0 "Unite Africa"
+ african_modernization_title:0 "Modernize army and society"
+ african_modernization_desc:0 "changes your technology group and units in accordance with your religion"

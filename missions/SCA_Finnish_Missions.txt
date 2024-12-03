@@ -29,7 +29,7 @@ fin_missions_1 = {
 					has_country_flag = rus_can_complete_missions_as_subject
 				}
 			}
-			if = { #5s
+			if = { #5s-minors-mod
 				limit = {
 					has_dlc = "Cradle of Civilization"
 				}
@@ -106,60 +106,60 @@ fin_missions_1 = {
 				if = { 
 					limit = { grown_by_development = 50 }
 					change_ruler_stat = {
-						stat = mil
+						type = mil
 						amount = 3
 					}
 				}
 				else_if = {
 					limit = { grown_by_development = 25 } 
 					change_ruler_stat = {
-						stat = mil
+						type = mil
 						amount = 2
 					}
 				}
 				else = {
 					change_ruler_stat = {
-						stat = mil
+						type = mil
 						amount = 1
 					}
 				}
 				if = { 
 					limit = { stability = 3 } 
 					change_ruler_stat = {
-						stat = adm
+						type = adm
 						amount = 3
 					}
 				}
 				else_if = {
 					limit = { stability = 2 } 
 					change_ruler_stat = {
-						stat = adm
+						type = adm
 						amount = 2
 					}
 				}
 				else = {
 					change_ruler_stat = {
-						stat = adm
+						type = adm
 						amount = 1
 					}
 				} 
 				if = {
 					limit = { num_of_allies = 3 } 
 					change_ruler_stat = {
-						stat = dip
+						type = dip
 						amount = 3
 					}
 				}
 				else_if = {
 					limit = { num_of_allies = 2 } 
 					change_ruler_stat = {
-						stat = dip
+						type = dip
 						amount = 2
 					}
 				}
 				else = {
 					change_ruler_stat = {
-						stat = dip
+						type = dip
 						amount = 1
 					}
 				}
@@ -337,7 +337,7 @@ fin_missions_2 = {
 			}
 			else = { 
 				change_ruler_stat = {
-					stat = dip
+					type = dip
 					amount = 1
 				}
 			}
@@ -706,7 +706,7 @@ fin_missions_4 = {
 			}
 			else = {				
 				change_ruler_stat = {
-					stat = adm
+					type = adm
 					amount = 2
 				}
 			}
@@ -758,7 +758,7 @@ fin_missions_4 = {
 			}
 			else = {
 				change_ruler_stat = {
-					stat = adm
+					type = adm
 					amount = 2
 				}
 			} 
