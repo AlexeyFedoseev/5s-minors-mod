@@ -1,114 +1,115 @@
+#5s-minors-mod
 # Muscovy and Pskov
-vassal = {
-	first = MOS
-	second = PSK
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
-
+#vassal = {
+#	first = MOS
+#	second = PSK
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
+#
 # Russia and Pskov
-vassal = {
-	first = RUS
-	second = PSK
-	start_date = 1503.4.2
-	end_date = 1510.1.19
-}
+#vassal = {
+#	first = RUS
+#	second = PSK
+#	start_date = 1503.4.2
+#	end_date = 1510.1.19
+#}
 
 # Muscovy and Yaroslavl
-vassal = {
-	first = MOS
-	second = YAR
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MOS
+#	second = YAR
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Muscovy and Beloozero
-vassal = {
-	first = MOS
-	second = BLO
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MOS
+#	second = BLO
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Muscovy and Rostov
-vassal = {
-	first = MOS
-	second = RSO
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MOS
+#	second = RSO
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Russian vassal - Qasim khanate
-vassal = {
-	first = MOS
-	second = QAS
-	start_date = 1445.7.7
-	end_date = 1503.4.1
-}
+#vassal = {
+#	first = MOS
+#	second = QAS
+#	start_date = 1445.7.7
+#	end_date = 1503.4.1
+#}
 
 # Russian vassal - Qasim khanate
-vassal = {
-	first = RUS
-	second = QAS
-	start_date = 1503.4.2
-	end_date = 1681.1.1
-}
+#vassal = {
+#	first = RUS
+#	second = QAS
+#	start_date = 1503.4.2
+#	end_date = 1681.1.1
+#}
 
 # Muscovite vassal - Great Perm
-vassal = {
-	first = MOS
-	second = PRM
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MOS
+#	second = PRM
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Russian vassal - Great Perm
-vassal = {
-	first = RUS
-	second = PRM
-	start_date = 1503.4.1
-	end_date = 1505.4.1
-}
+#vassal = {
+#	first = RUS
+#	second = PRM
+#	start_date = 1503.4.1
+#	end_date = 1505.4.1
+#}
 
 # Ivan III and Maria of Tver
-royal_marriage = {
-	first = MOS
-	second = TVE
-	start_date = 1452.6.4
-	end_date = 1467.4.22
-}
+#royal_marriage = {
+#	first = MOS
+#	second = TVE
+#	start_date = 1452.6.4
+#	end_date = 1467.4.22
+#}
 
 # Muscovy and Tver
-vassal = {
-	first = MOS
-	second = TVE
-	start_date = 1454.1.1
-	end_date = 1485.1.1
-}
+#vassal = {
+#	first = MOS
+#	second = TVE
+#	start_date = 1454.1.1
+#	end_date = 1485.1.1
+#}
 
 # Treaty of Yazhelbitsy
-vassal = {
-	first = MOS
-	second = NOV
-	start_date = 1456.2.1
-	end_date = 1470.11.8
-}
+#vassal = {
+#	first = MOS
+#	second = NOV
+#	start_date = 1456.2.1
+#	end_date = 1470.11.8
+#}
 
 # Muscovy and Ryazan
-vassal = {
-	first = MOS
-	second = RYA
-	start_date = 1456.1.1
-	end_date = 1503.4.1
-}
+#vassal = {
+#	first = MOS
+#	second = RYA
+#	start_date = 1456.1.1
+#	end_date = 1503.4.1
+#}
 
 # Russia and Ryazan
-vassal = {
-	first = RUS
-	second = RYA
-	start_date = 1503.4.2
-	end_date = 1521.1.1
-}
+#vassal = {
+#	first = RUS
+#	second = RYA
+#	start_date = 1503.4.2
+#	end_date = 1521.1.1
+#}
 
 # Anna of Muscovy and Vasily of Ryazan
 royal_marriage = {

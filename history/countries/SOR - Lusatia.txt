@@ -6,7 +6,7 @@ primary_culture = sorbian
 religion = catholic
 capital = 60	# Oberlausitz
 
-1444.1.1 = { 
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Joachim"
 		dynasty = "z Podebrad"

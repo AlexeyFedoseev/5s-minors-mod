@@ -1,10 +1,22 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
 technology_group = western
-primary_culture = prussian
+primary_culture = baltic_german
+#historical_friend = LIV #5s-minors-mod
 religion = catholic
 capital = 38	# Riga
 fixed_capital = 38 # Cannot move capital away from this province & no power cost to move to it
+#historical_friend = HSA #Lübeck	#5s-minors-mod
+#historical_friend = BRE #Bremen	#5s-minors-mod
+#historical_friend = HAM #Hamburg	#5s-minors-mod
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 20
+}
 
 #Archbishops
 1393.1.1 = {

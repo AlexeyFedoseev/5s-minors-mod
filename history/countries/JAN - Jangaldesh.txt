@@ -11,7 +11,7 @@ fixed_capital = 512 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Rao" # ??? Many small tribes that weren't unified of whom the Bhati Rajputs was most prominent, atleast some of the time...
 		dynasty = "Bhati"
-		DIP = 1
+		DIP = 1 #5s-minors-mod
 		MIL = 2
 		ADM = 0
 	}

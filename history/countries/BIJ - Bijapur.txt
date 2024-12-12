@@ -8,7 +8,7 @@ fixed_capital = 569 # Cannot move capital away from this province & no power cos
 religious_school = jafari_school
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Yusuf"
 		dynasty = "Adil Shahi"

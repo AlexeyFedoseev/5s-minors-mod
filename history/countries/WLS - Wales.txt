@@ -6,7 +6,7 @@ primary_culture = welsh
 religion = catholic
 capital = 242	# Gwynedd
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Cynan"
 		dynasty = "Caradoc"

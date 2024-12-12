@@ -18,57 +18,58 @@ alliance = {
 	end_date = 1568.1.1
 }
 
+#5s-minors-mod
 #Shiba-Oda
-alliance = {
-	first = SBA
-	second = ODA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = SBA
+#	second = ODA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Anti Uesugi Alliance
-alliance = {
-	first = STK
-	second = UTN
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
-alliance = {
-	first = STK
-	second = CBA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
-alliance = {
-	first = UTN
-	second = CBA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = STK
+#	second = UTN
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
+#alliance = {
+#	first = STK
+#	second = CBA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
+#alliance = {
+#	first = UTN
+#	second = CBA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Hosokawa-Tokugawa
-alliance = {
-	first = HSK
-	second = TKG
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = HSK
+#	second = TKG
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Hatakeyama-Tsutsui
-alliance = {
-	first = HSK
-	second = HTK
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = HSK
+#	second = HTK
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Shoni-So
-alliance = {
-	first = SHN
-	second = SOO
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = SHN
+#	second = SOO
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Marriages
 royal_marriage = {

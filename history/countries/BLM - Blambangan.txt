@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = papuan
-religion = animism
+primary_culture = papuan #5s-minors-mod
+religion = animism #5s-minors-mod
 technology_group = chinese
-capital = 2718
+capital = 2718 #5s-minors-mod
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		birth = 1418.1.1
 		name = "Menak Pentor"

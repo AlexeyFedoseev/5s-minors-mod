@@ -38,9 +38,9 @@ religious_school = hanafi_school
 		name = "Sülaymân"
 		dynasty = Dulkadiroglu
 		birth_date = 1398.1.1
-		adm = 5
+		adm = 5 #5s-minors-mod
 		dip = 4
-		mil = 4
+		mil = 4 #5s-minors-mod
 	}
 }
 

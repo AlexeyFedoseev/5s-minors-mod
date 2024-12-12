@@ -5,12 +5,12 @@ religion = shamanism
 technology_group = central_african
 unit_type = sub_saharan
 #capital = 789	# Mtetwa
-capital = 2880 #5s mod
+capital = 2880 #5s-minors-mod
 unlock_cult = mwari_cult
 unlock_cult = central_african_ancestor_cult
 unlock_cult = cwezi_cult
 
-1444.1.1 = { #5s mod
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Shaka"
 		dynasty = "Zulu"

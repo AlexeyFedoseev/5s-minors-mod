@@ -153,9 +153,9 @@ religious_school = hanafi_school
 		birth_date = 1439.1.1
 		death_date = 1485.1.1
 		claim = 80
-		adm = 6
-		dip = 6
-		mil = 6
+		adm = 6 #5s-minors-mod
+		dip = 6 #5s-minors-mod
+		mil = 6 #5s-minors-mod
 	}
 }
 

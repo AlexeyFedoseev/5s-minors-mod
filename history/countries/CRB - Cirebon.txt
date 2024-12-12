@@ -2,8 +2,8 @@ government = monarchy
 add_government_reform = autocracy_reform
 technology_group = chinese
 primary_culture = javanese
-religion = animism
-capital = 624	# Banten
+religion = animism #5s-minors-mod
+capital = 624	# Banten #5s-minors-mod
 
 1426.1.1 = {
 	monarch = {

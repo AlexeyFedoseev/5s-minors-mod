@@ -1,11 +1,11 @@
 government = monarchy
-add_government_reform = bulgarian_tsardom_reform
+add_government_reform = bulgarian_tsardom_reform #5s-minors-mod
 technology_group = eastern
 primary_culture = bulgarian
 religion = orthodox
 capital = 150	# Sofia
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Petar"
 		dynasty = "Cometopuli"

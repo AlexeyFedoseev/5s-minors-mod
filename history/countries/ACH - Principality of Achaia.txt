@@ -58,12 +58,12 @@ capital = 1773	# Mystras
 	}
 }
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Centurione II"
-		dynasty = "Tocco"
-		birth_date = 1404.1.1
-		dip = 3
+		dynasty = "Tocco" #5s-minors-mod
+		birth_date = 1404.1.1 #5s-minors-mod
+		dip = 3 #5s-minors-mod
 		adm = 0
 		mil = 0
 	}

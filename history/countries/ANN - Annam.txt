@@ -1,12 +1,12 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = vietnamese
-religion = buddhism
+religion = mahayana
 technology_group = chinese
 capital = 2373 # Hue
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Jianti"
 		dynasty = "Nguyen"

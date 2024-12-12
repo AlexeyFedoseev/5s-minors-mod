@@ -1,12 +1,12 @@
 government = monarchy
-add_government_reform = bohemian_elective_kingdom_reform
+add_government_reform = bohemian_elective_kingdom_reform #5s-minors-mod
 primary_culture = czech
 religion = catholic
 government_rank = 1
 capital = 4237 # Olomouc
 technology_group = western
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Karel"
 		dynasty = "z Podebrad"

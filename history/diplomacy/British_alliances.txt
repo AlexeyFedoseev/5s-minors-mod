@@ -1,10 +1,11 @@
+#5s-minors-mod
 #Scotland-Isles
-vassal = {
-	first = SCO
-	second = LOI
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = SCO
+#	second = LOI
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 
 # England-Scotland
@@ -71,13 +72,14 @@ alliance = {
 	end_date = 1491.12.6
 }
 
+#5s-minors-mod
 # The Anglo-Portuguese alliance
-alliance = {
-	first = ENG
-	second = POR
-	start_date = 1373.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = ENG
+#	second = POR
+#	start_date = 1373.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # The triple alliance
 alliance = {

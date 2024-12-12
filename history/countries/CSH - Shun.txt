@@ -6,7 +6,7 @@ primary_culture = xibei
 capital = 689 # Fengyuan
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Gong"
 		dynasty = "Li"

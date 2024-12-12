@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "Khalji attack on Delhi"
 #war_goal = {
 #	type = take_border

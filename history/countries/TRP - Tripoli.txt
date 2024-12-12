@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = barbary_sultanate_reform
+add_government_reform = iqta
 technology_group = muslim
 religion = sunni
 primary_culture = tunisian
@@ -11,7 +11,7 @@ religious_school = maliki_school
 #Based in Djerba
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "'Abd al-Malik"
 		dynasty = "Yakubid"
@@ -24,13 +24,13 @@ religious_school = maliki_school
 
 1503.1.1 = {
 	monarch = {
-		name = "Oru� Reis"
+		name = "Oruç Reis"
 		dynasty = "Yakubid"
 		culture = greek
 		adm = 2
 		dip = 4
 		mil = 5
-		leader = {	name = "Oru� Reis"            	type = admiral	fire = 1	shock = 4	manuever = 5	siege = 0	death_date = 1516.1.1 }
+		leader = {	name = "Oruç Reis"            	type = admiral	fire = 1	shock = 4	manuever = 5	siege = 0	death_date = 1516.1.1 }
 	}
 	capital = 353	# Djerba
 }
@@ -490,8 +490,8 @@ add_government_reform = autocracy_reform
 
 1745.11.4 = {
 	heir = {
-		name = "'Al�"
-		monarch_name = "'Al� I"
+		name = "'Alî"
+		monarch_name = "'Alî I"
 		dynasty = "Karamanli"
 		birth_date = 1730.1.1
 		death_date = 1793.7.30
@@ -504,7 +504,7 @@ add_government_reform = autocracy_reform
 
 1754.7.25 = {
 	monarch = {
-		name = "'Al� I"
+		name = "'Alî I"
 		dynasty = "Karamanli"
 		adm = 3
 		dip = 1
@@ -514,8 +514,8 @@ add_government_reform = autocracy_reform
 
 1754.7.25 = {
 	heir = {
-		name = "'Al� Borgul"
-		monarch_name = "'Al� Borgul"
+		name = "'Alî Borgul"
+		monarch_name = "'Alî Borgul"
 		dynasty = "Karamanli"
 		birth_date = 1750.1.1
 		death_date = 1795.1.22
@@ -528,7 +528,7 @@ add_government_reform = autocracy_reform
 
 1793.7.30 = {
 	monarch = {
-		name = "'Al� Borgul"
+		name = "'Alî Borgul"
 		dynasty = "Karamanli"
 		adm = 1
 		dip = 2

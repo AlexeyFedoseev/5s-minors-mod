@@ -3,10 +3,19 @@ add_government_reform = autocracy_reform
 primary_culture = armenian
 religion = coptic
 technology_group = eastern
-capital = 2205 # Nakhchivan
+capital = 2205 # Nakhchivan # ???
 
 
-1444.1.1 = {
+1390.1.1 = {
+	every_province = {
+		limit = { region = persia_region }
+		ROOT = { discover_province = PREV }
+	}
+	discover_province = 4170 
+	discover_province = 4172
+}
+
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ashot"
 		dynasty = "Tumanishvili"

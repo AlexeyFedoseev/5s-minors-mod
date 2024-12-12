@@ -74,9 +74,9 @@ capital = 509	# Kangra
 		birth_date = 1400.1.1
 		death_date = 1450.1.1
 		claim = 95
-		DIP = 4
-		ADM = 4
-		MIL = 4
+		DIP = 4 #5s-minors-mod
+		ADM = 4 #5s-minors-mod
+		MIL = 4 #5s-minors-mod
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 509	# Kangra
 	monarch = {
 		name = "Sansar Chand I"
 		dynasty = "Katoch"
-		DIP = 4
-		ADM = 4
-		MIL = 4
+		DIP = 4 #5s-minors-mod
+		ADM = 4 #5s-minors-mod
+		MIL = 4 #5s-minors-mod
 	}
 }
 
@@ -98,9 +98,9 @@ capital = 509	# Kangra
 		birth_date = 1420.1.1
 		death_date = 1465.1.1
 		claim = 95
-		DIP = 4
-		ADM = 3
-		MIL = 4
+		DIP = 4 #5s-minors-mod
+		ADM = 3 #5s-minors-mod
+		MIL = 4 #5s-minors-mod
 	}
 }
 

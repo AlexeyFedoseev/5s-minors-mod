@@ -6,13 +6,10 @@ primary_culture = sicilian
 capital = 125	# Palermo
 
 
-
-
-
 1377.1.28 = {
 	monarch = { 
 		name = "Maria I"
-		dynasty = "de Trastamara"
+		dynasty = "de Trastamara" #5s-minors-mod
 		dip = 3
 		mil = 4
 		adm = 2
@@ -20,7 +17,7 @@ capital = 125	# Palermo
 	}
 }
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Isabel"
 		dynasty = "de Trastamara"

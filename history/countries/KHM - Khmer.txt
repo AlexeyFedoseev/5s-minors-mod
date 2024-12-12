@@ -3,20 +3,19 @@ add_government_reform = mandala_reform
 primary_culture = khmer
 religion = buddhism
 technology_group = chinese
-capital = 604 # Phnom Penh
+capital = 604 # Phnom Penh #5s-minors-mod
 
 
-1444.1.1 = {
-	monarch = {
-		name = "Barom Reachea II"
-		dynasty = "Khmer"
-		birth_date = 1424.1.1
-		adm = 5
-		dip = 4
-		mil = 6
-	}
-}
-
+#1393.1.1 = {
+#	monarch = {
+#		name = "Barom Reachea II"
+#		dynasty = "Khmer"
+#		adm = 3
+#		dip = 1
+#		mil = 1
+#	}
+#}
+#
 #1422.1.1 = {	
 #	heir = {
 #		name = "Narayanaraja"
@@ -31,6 +30,17 @@ capital = 604 # Phnom Penh
 #	}
 #}
 
+
+1444.1.1 = { #5s-minors-mod
+	monarch = { #
+		name = "Barom Reachea II" #
+		dynasty = "Khmer" #
+		birth_date = 1424.1.1
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
 1463.1.1 = {
 	monarch = {
 		name = "Noreay Ramathipatei"

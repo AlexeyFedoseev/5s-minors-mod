@@ -11,13 +11,13 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 #Very independent feudatories of Vijayanagara, often ignoring the empire or in rebelion against it
 #Have not been able to find specific ummatur rulers
 
-1419.1.1 = {
+1419.1.1 = { #5s-minors-mod
 	monarch = {
-		name = "Yarik"
-		dynasty = "Random Pomojet"
-		birth_date = 1414.11.01
-		ADM = 3
-		DIP = 2
+		name = "Yarik" #5s-minors-mod
+		dynasty = "Random Pomojet" #5s-minors-mod
+		birth_date = 1414.11.01 #5s-minors-mod
+		ADM = 3 #5s-minors-mod
+		DIP = 2 #5s-minors-mod
 		MIL = 3
 	}
 	clear_scripted_personalities = yes

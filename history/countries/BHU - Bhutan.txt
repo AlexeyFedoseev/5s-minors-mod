@@ -6,7 +6,7 @@ primary_culture = tibetan
 capital = 565	# Thimphu
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ngawang Jungney"
         birth_date = 1407.3.6

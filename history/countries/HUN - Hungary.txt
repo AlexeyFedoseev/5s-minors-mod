@@ -1,9 +1,17 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = apostolic_kingdom
 primary_culture = hungarian
+add_accepted_culture = slovak # ???
+add_accepted_culture = transylvanian # ???
 religion = catholic
 technology_group = eastern
 capital = 153 # Buda
+#historical_friend = HAB #5s-minors-mod
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
 
 1387.3.31 = {
 	monarch = {
@@ -24,7 +32,6 @@ capital = 153 # Buda
 
 1444.11.10 = {
 	monarch = {
-		name = "(Regency Council)"
 		adm = 0
 		mil = 0
 		dip = 0
@@ -139,7 +146,6 @@ add_government_reform = autocracy_reform }
 
 1602.1.1 = {
 	monarch = {
-		name = "Interregnum"
 		regent = yes
 		adm = 0
 		dip = 0

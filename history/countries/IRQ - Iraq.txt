@@ -6,7 +6,7 @@ technology_group = muslim
 capital = 410	# Bagdad
 religious_school = jafari_school
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "'al-Malik"
 		dynasty = "Jaili"

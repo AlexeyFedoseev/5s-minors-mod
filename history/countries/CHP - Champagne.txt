@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = feudalism_reform #5s-minors-mod
 government_rank = 1
 technology_group = western
 religion = catholic
@@ -8,11 +8,11 @@ capital = 186	# Reims
 fixed_capital = 186 # Cannot move capital away from this province & no power cost to move to it
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Henri"
 		dynasty = "de Valois"
-        	birth_date = 1418.3.6
+        birth_date = 1418.3.6
 		adm = 5
 		dip = 6
 		mil = 3

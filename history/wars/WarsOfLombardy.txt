@@ -1,5 +1,5 @@
+#5s-minors-mod
 #name = "War of Lombardy"
-
 #war_goal = {
 #	type = take_claim
 #	casus_belli = cb_conquest

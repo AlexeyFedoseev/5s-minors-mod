@@ -5,7 +5,7 @@ religion = catholic
 technology_group = western
 capital = 207 #Asturias
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Fernando"
 		dynasty = "de Trastamara"

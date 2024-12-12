@@ -1,12 +1,12 @@
 #Shah Rokhs Empire
-
+#5s-minors-mod
 #Ulugh Begh
-vassal = {
-	first = TIM
-	second = TRS
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = TIM
+#	second = TRS
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 #Muhammad bin Baysonqor
 #Starts as independent as Shah Rukh/Goharshad has already decided to move against him in late 1444.
 # vassal = {
@@ -16,36 +16,36 @@ vassal = {
 	# end_date = 1446.1.1 #Shah Rokh falls ill in 1444, Muhammad sees his chance and rebels on the invitation of the Isfahan city council in 1446.
 # }
 #Sons of Soyurghatmish
-vassal = {
-	first = TIM
-	second = AFG
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = TIM
+#	second = AFG
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 #Abdallah bin Ibrahim, the Child ruler.
-vassal = {
-	first = TIM
-	second = FRS
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = TIM
+#	second = FRS
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 #Babur bin Baysonqor
-vassal = {
-	first = TIM
-	second = KHO
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = TIM
+#	second = KHO
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #End of Timurid Princes
 
 #Atabegs of Samtskhe under Georgia
-guarantee = {
-	first = GEO
-	second = SME
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#guarantee = {
+#	first = GEO
+#	second = SME
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Safavid Order
 #vassal = {
@@ -69,32 +69,32 @@ vassal = {
 	start_date = 1747.1.1
 	end_date = 1808.1.1
 }
-
+#5s-minors-mod
 #Kurdish Principalities generally autonomous under Qara Qoyunlu
-vassal = {
-	first = QAR
-	second = BTL
-	start_date = 1435.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = QAR
+#	second = BTL
+#	start_date = 1435.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Melikdoms of Kharabak
-
-vassal = {
-	first = QAR
-	second = MLK
-	start_date = 1435.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#5s-minors-mod
+#vassal = {
+#	first = QAR
+#	second = MLK
+#	start_date = 1435.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Biapis
 
-alliance = {
-	first = ARL
-	second = KRY
-	start_date = 1440.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#alliance = {
+#	first = ARL
+#	second = KRY
+#	start_date = 1440.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = PER
@@ -117,14 +117,14 @@ vassal = {
 	start_date = 1504.1.1
 	end_date = 1579.1.1 #Invaded by Biapis
 }
-
+#5s-minors-mod
 #Avar Khanate under the Shamkals
-vassal = {
-	first = GAZ
-	second = AVR
-	start_date = 1435.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = GAZ
+#	second = AVR
+#	start_date = 1435.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Basra Pashas
 vassal = {
@@ -157,14 +157,14 @@ union = {
 	start_date = 1461.1.1
 	end_date = 1469.8.27
 }
-
+#5s-minors-mod
 #Ardalan
-vassal = {
-	first = QOM
-	second = ARD
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = QOM
+#	second = ARD
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = QAR
@@ -231,22 +231,22 @@ vassal = {
 	start_date = 1792.1.1
 	end_date = 1809.1.1
 }
-
+#5s-minors-mod
 #Luristan
-vassal = {
-	first = QOM
-	second = LRI
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = QOM
+#	second = LRI
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Sistan
-vassal = {
-	first = TIM
-	second = SIS
-	start_date = 1444.1.1 #1383 
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = TIM
+#	second = SIS
+#	start_date = 1444.1.1 #1383 
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = KHO
@@ -267,22 +267,23 @@ vassal = {
 	second = SIS
 	start_date = 1510.1.1
 	end_date = 1537.1.1 #Annexed by Safavids
-} 
+}
 
+#5s-minors-mod
 # Cyprus, a Mamluk tributary
-guarantee = {
-	first = MAM
-	second = CYP
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#guarantee = {
+#	first = MAM
+#	second = CYP
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = { #Viceroy of the Hejaz
-	first = MAM
-	second = HED
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = { #Viceroy of the Hejaz
+#	first = MAM
+#	second = HED
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = { #Mamluks fall
 	first = TUR
@@ -292,12 +293,12 @@ vassal = { #Mamluks fall
 }
 
 #Hejaz protected by the Mamluks
-guarantee = {
-	first = MAM
-	second = MDA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#guarantee = {
+#	first = MAM
+#	second = MDA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Hormuz under the Portuguese
 vassal = {
@@ -308,12 +309,12 @@ vassal = {
 }
 
 #Amir al Arab
-vassal = {
-	first = MAM
-	second = FAD
-	start_date = 1444.1.1 # 5s league minors mod
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MAM
+#	second = FAD
+#	start_date = 1444.1.1 # 5s league minors mod
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Mikhlaf subservient to the Zaidi Imams
 

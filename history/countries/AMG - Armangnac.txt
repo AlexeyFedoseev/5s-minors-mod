@@ -1,5 +1,6 @@
 government = monarchy
-add_government_reform = feudalism_reform
+#add_government_reform = appanage_reform #5s-minors-mod
+add_government_reform = feudalism_reform #5s-minors-mod
 technology_group = western
 primary_culture = gascon
 religion = catholic
@@ -25,9 +26,9 @@ fixed_capital = 175 # Cannot move capital away from this province & no power cos
 		claim = 95
 		birth_date = 1396.10.15
 		death_date = 1450.11.5
-		adm = 3
-		dip = 4
-		mil = 4
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 

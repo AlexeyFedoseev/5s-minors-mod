@@ -1,12 +1,12 @@
 government = monarchy
-add_government_reform = chinese_warlord 
+add_government_reform = chinese_warlord
 technology_group = chinese
 religion = confucianism
 primary_culture = xibei
 capital = 700	#Xi'an
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ruxiu"
 		dynasty = "Qin"

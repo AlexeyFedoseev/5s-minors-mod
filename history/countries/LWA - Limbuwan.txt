@@ -10,9 +10,9 @@ capital = 4483	#Morang
 	monarch = {
 		name = "Sangla"
 		dynasty = "Ing"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+		ADM = 4 #5s-minors-mod
+		DIP = 4 #5s-minors-mod
+		MIL = 3 #5s-minors-mod
 	}
 }
 

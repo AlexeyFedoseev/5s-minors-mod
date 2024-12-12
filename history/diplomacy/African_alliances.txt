@@ -1,10 +1,11 @@
+#5s-minors-mod
 #Maravi State System
-vassal = {
-	first = MRA
-	second = LDU
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MRA
+#	second = LDU
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = MRA
@@ -19,14 +20,14 @@ vassal = {
 	start_date = 1550.1.1
 	end_date = 1690.1.1
 }
-
+#5s-minors-mod
 #Zimbabwe
-vassal = {
-	first = ZIM
-	second = RZW
-	start_date = 1440.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = ZIM
+#	second = RZW
+#	start_date = 1440.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = POR
@@ -55,14 +56,14 @@ vassal = {
 	start_date = 1712.1.1
 	end_date = 1720.1.1
 }
-
+#5s-minors-mod
 #Hafsids - Fezzan
-guarantee = {
-	first = TUN
-	second = FZA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#guarantee = {
+#	first = TUN
+#	second = FZA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Tlemcen vassal of the Hafsids
 vassal = {
@@ -144,13 +145,13 @@ march = {
 }
 
 #Kilwan Vassals
-
-vassal = {
-	first = ZAN
-	second = SFA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#5s-minors-mod
+#vassal = {
+#	first = ZAN
+#	second = SFA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = POR
@@ -174,13 +175,13 @@ vassal = {
 }
 
 #Ajuuran Vassal
-
-vassal = {
-	first = AJU
-	second = MDI
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#5s-minors-mod
+#vassal = {
+#	first = AJU
+#	second = MDI
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Kongo
 
@@ -191,19 +192,19 @@ vassal = {
 	end_date = 1641.1.1
 }
 
-vassal = {
-	first = KON
-	second = NDO
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = KON
+#	second = NDO
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = {
-	first = KON
-	second = LOA
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = KON
+#	second = LOA
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = POR
@@ -221,22 +222,22 @@ vassal = {
 	start_date = 1520.1.1
 	end_date = 1620.1.1
 }
-
+#5s-minors-mod
 #Damot
-vassal = {
-	first = ETH
-	second = DAM
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = ETH
+#	second = DAM
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Hadiya
-vassal = {
-	first = ETH
-	second = HDY
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = ETH
+#	second = HDY
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Malikate of Dongola
 

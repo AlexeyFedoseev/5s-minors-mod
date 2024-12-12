@@ -7,7 +7,7 @@ capital = 1772 # Nitra
 government_rank = 1
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Karol"
 		dynasty = "Zichy"

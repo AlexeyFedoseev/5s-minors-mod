@@ -1,12 +1,13 @@
 government = monarchy
+#add_government_reform = iqta #5s-minors-mod
+dd_government_reform = feudal_theocracy  #5s-minors-mod
 government_rank = 1
 primary_culture = persian
-religion = zoroastrian 
+religion = zoroastrian #5s-minors-mod
 technology_group = muslim
 capital = 433 # Kerman
-add_government_reform = autocracy_reform
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Karim"
 		dynasty = "Afsharid"

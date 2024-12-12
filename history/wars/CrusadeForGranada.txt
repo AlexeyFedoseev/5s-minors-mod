@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "Crusade for Granada"
 #war_goal = {
 #	type = superiority_crusade

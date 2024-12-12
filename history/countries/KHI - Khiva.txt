@@ -9,7 +9,7 @@ capital = 1973	# Urgench
 fixed_capital = 1973 # Cannot move capital away from this province & no power cost to move to it
 religious_school = hanafi_school
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ilbars"
 		dynasty = "Arabshahid"

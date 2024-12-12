@@ -8,7 +8,7 @@ fixed_capital = 544 # Cannot move capital away from this province & no power cos
 religious_school = hanafi_school
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Burhan Shah I"
 		dynasty = "Nizam Shahi"

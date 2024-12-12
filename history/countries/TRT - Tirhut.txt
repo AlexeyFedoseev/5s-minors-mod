@@ -100,9 +100,9 @@ capital = 2047	# Tirhut
 		birth_date = 1420.1.1
 		death_Date = 1480.1.1
 		claim = 95
-		adm = 6
-		dip = 5
-		mil = 6
+		adm = 6 #5s-minors-mod
+		dip = 5 #5s-minors-mod
+		mil = 6 #5s-minors-mod
 	}
 }
 

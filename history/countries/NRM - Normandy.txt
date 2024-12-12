@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = feudalism_reform #5s-minors-mod
 government_rank = 1
 technology_group = western
 primary_culture = normand
@@ -7,7 +7,7 @@ add_accepted_culture = cosmopolitan_french
 religion = catholic
 capital = 168	# Caen
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Edouard"
 		dynasty = "de Valois"

@@ -165,14 +165,14 @@ vassal = {
 	start_date = 1529.1.1
 	end_date = 1610.1.1
 }
-
+#5s-minors-mod
 #Jaffna
-vassal = {
-	first = VIJ
-	second = JFN
-	start_date = 1432.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = VIJ
+#	second = JFN
+#	start_date = 1432.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#
 
 vassal = {
 	first = CEY
@@ -180,14 +180,14 @@ vassal = {
 	start_date = 1450.1.1
 	end_date = 1467.1.1
 }
-
+#5s-minors-mod
 #Kandy
-vassal = {
-	first = CEY
-	second = KND
-	start_date = 1440.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = CEY
+#	second = KND
+#	start_date = 1440.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 alliance = {
 	first = NED
@@ -432,14 +432,14 @@ vassal = {
 	start_date = 1681.1.1
 	end_date = 1707.3.15
 }
-
+#5s-minors-mod
 #Hadoti (Bundi & Kota)
-vassal = {
-	first = MER
-	second = HAD
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MER
+#	second = HAD
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = MER
@@ -507,23 +507,23 @@ vassal = {
 	start_date = 1818.1.1
 	end_date = 1858.1.1
 }
-
+#5s-minors-mod
 #Bahlul Lodi's Punjabi Domain
-vassal = {
-	first = DLH
-	second = SRH
-	start_date = 1443.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = DLH
+#	second = SRH
+#	start_date = 1443.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Bikaner
 
-vassal = {
-	first = DLH
-	second = JAN
-	start_date = 1414.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = DLH
+#	second = JAN
+#	start_date = 1414.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = MUG
@@ -676,21 +676,21 @@ vassal = {
 }
 
 #Bundelkhand
-
+#5s-minors-mod
 #Bundelkhand overlord
-vassal = {
-	first = MLW
-	second = KLP
-	start_date = 1443.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MLW
+#	second = KLP
+#	start_date = 1443.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = {
-	first = MLW
-	second = BND
-	start_date = 1443.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MLW
+#	second = BND
+#	start_date = 1443.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Bundelkhand overlord
 vassal = {
@@ -709,13 +709,13 @@ vassal = {
 }
 
 #Bagelkhand
-
-vassal = {
-	first = JNP
-	second = BGL
-	start_date = 1413.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#5s-minors-mod
+#vassal = {
+#	first = JNP
+#	second = BGL
+#	start_date = 1413.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = DLH
@@ -761,14 +761,14 @@ vassal = {
 }
 
 #Gondwana
-
+#5s-minors-mod
 #Gondwana overlord
-vassal = {
-	first = MLW
-	second = GDW
-	start_date = 1441.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = MLW
+#	second = GDW
+#	start_date = 1441.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Suri Empire (Bengal)
 
@@ -820,34 +820,34 @@ vassal = {
 }
 
 #Orissa & Garjats
+#5s-minors-mod
+#vassal = { #Garjat
+#	first = ORI
+#	second = GRJ 
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = { #Garjat
-	first = ORI
-	second = GRJ 
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = { #Parlakhimidi
+#	first = ORI
+#	second = PRD
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = { #Parlakhimidi
-	first = ORI
-	second = PRD
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = { #Keonhjar
+#	first = ORI
+#	second = KJH
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
-vassal = { #Keonhjar
-	first = ORI
-	second = KJH
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
-
-vassal = { #Jeypore
-	first = ORI
-	second = JPR
-	start_date = 1444.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = { #Jeypore
+#	first = ORI
+#	second = JPR
+#	start_date = 1444.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 vassal = {
 	first = BNG
@@ -878,13 +878,13 @@ vassal = {
 }
 
 #Telingana
-
-vassal = {
-	first = BAH
-	second = TLG
-	start_date = 1433.1.1 #Defeated by Bahmanis, loses strongholds of Rachakonda and Warangal.
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#5s-minors-mod
+#vassal = {
+#	first = BAH
+#	second = TLG
+#	start_date = 1433.1.1 #Defeated by Bahmanis, loses strongholds of Rachakonda and Warangal.
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Hyderabad
 
@@ -1178,14 +1178,14 @@ vassal = {
 }
 
 #Gujarat
-
+#5s-minors-mod
 #Vassal of Gujarat
-vassal = {
-	first = GUJ
-	second = KHD
-	start_date = 1418.1.1
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#vassal = {
+#	first = GUJ
+#	second = KHD
+#	start_date = 1418.1.1
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 #Anti-Portuguese Coalition
 alliance = {

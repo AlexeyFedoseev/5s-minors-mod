@@ -21,7 +21,7 @@ capital = 306	# Nizhny Novgorod
 # 1392 to Muscowy
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Dmitry"
 		dynasty = "Rurikovich"

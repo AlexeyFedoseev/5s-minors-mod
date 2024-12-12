@@ -29,14 +29,14 @@ union = {
 	start_date = 1504.11.27
 	end_date = 1506.9.25
 }
-
+#5s-minors-mod
 # Aragon and Sicily, Alfons V/Alfonso I
-union = {
-	first = ARA
-	second = NAP
-	start_date = 1442.3.3
-	end_date = 1444.1.2 # 5s league minors mod
-}
+#union = {
+#	first = ARA
+#	second = NAP
+#	start_date = 1442.3.3
+#	end_date = 1444.1.2 # 5s league minors mod
+#}
 
 # Aragon and Austria (League of Venice)
 alliance = {
@@ -173,14 +173,14 @@ union = {
 	start_date = 1401.5.26
 	end_date = 1409.7.25
 }
-
+#5s-minors-mod
 # Edward and Leonor of Aragon
-royal_marriage = {
-	first = POR
-	second = ARA
-	start_date = 1428.9.22
-	end_date = 1438.9.13
-}
+#royal_marriage = {
+#	first = POR
+#	second = ARA
+#	start_date = 1428.9.22
+#	end_date = 1438.9.13
+#}
 
 # Henry IV of Castille and Joana of Portugal
 royal_marriage = {

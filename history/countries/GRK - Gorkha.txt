@@ -21,9 +21,9 @@ capital = 4485	#Palpa
 	monarch = {
 		name = "Chandra"
 		dynasty = "Sen"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+		ADM = 4 #5s-minors-mod
+		DIP = 3 #5s-minors-mod
+		MIL = 3 #5s-minors-mod
 	}
 }
 

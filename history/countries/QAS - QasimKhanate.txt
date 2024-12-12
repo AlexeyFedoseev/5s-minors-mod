@@ -7,7 +7,7 @@ religion = sunni
 capital = 1778	# Kasimov
 religious_school = hanafi_school
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Qasim"
 		dynasty = "Genghisid"

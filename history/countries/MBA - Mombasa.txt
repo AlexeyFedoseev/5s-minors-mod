@@ -6,6 +6,7 @@ technology_group = east_african
 unit_type = sub_saharan
 capital = 1202	# Mombasa
 fixed_capital = 1202 # Cannot move capital away from this province & no power cost to move to it
+#historical_rival = MLI #5s-minors-mod
 religious_school = shafii_school
 
 #1444 - 1589 Mvita Dynasty
@@ -84,8 +85,8 @@ religious_school = shafii_school
 
 1744.1.1 = {
 	heir = {
-		name = "'Al�"
-		monarch_name = "'Al�"
+		name = "'Alî"
+		monarch_name = "'Alî"
 		dynasty = "Al-Mazrui"
 		birth_date = 1720.1.1
 		death_Date = 1753.1.1
@@ -98,7 +99,7 @@ religious_school = shafii_school
 
 1746.1.1 = {
 	monarch = {
-		name = "'Al�"
+		name = "'Alî"
 		dynasty = "Al-Mazrui"
 		adm = 1
 		dip = 2
@@ -108,8 +109,8 @@ religious_school = shafii_school
 
 1746.1.1 = {
 	heir = {
-		name = "Mas'�d"
-		monarch_name = "Mas'�d"
+		name = "Mas'ûd"
+		monarch_name = "Mas'ûd"
 		dynasty = "Al-Mazrui"
 		birth_date = 1730.1.1
 		death_Date = 1775.1.1
@@ -122,7 +123,7 @@ religious_school = shafii_school
 
 1753.1.1 = {
 	monarch = {
-		name = "Mas'�d"
+		name = "Mas'ûd"
 		dynasty = "Al-Mazrui"
 		adm = 0
 		dip = 2
@@ -132,8 +133,8 @@ religious_school = shafii_school
 
 1753.1.1 = {
 	heir = {
-		name = "'Abd All�h"
-		monarch_name = "'Abd All�h I"
+		name = "'Abd Allâh"
+		monarch_name = "'Abd Allâh I"
 		dynasty = "Al-Mazrui"
 		birth_date = 1750.1.1
 		death_Date = 1782.1.1
@@ -146,7 +147,7 @@ religious_school = shafii_school
 
 1775.1.1 = {
 	monarch = {
-		name = "'Abd All�h I"
+		name = "'Abd Allâh I"
 		dynasty = "Al-Mazrui"
 		adm = 3
 		dip = 3
@@ -180,8 +181,8 @@ religious_school = shafii_school
 
 1782.1.1 = {
 	heir = {
-		name = "'Abd All�h"
-		monarch_name = "'Abd All�h II"
+		name = "'Abd Allâh"
+		monarch_name = "'Abd Allâh II"
 		dynasty = "Al-Mazrui"
 		birth_date = 1780.1.1
 		death_Date = 1830.1.1
@@ -194,7 +195,7 @@ religious_school = shafii_school
 
 1811.1.1 = {
 	monarch = {
-		name = "'Abd All�h II"
+		name = "'Abd Allâh II"
 		dynasty = "Al-Mazrui"
 		adm = 2
 		dip = 0

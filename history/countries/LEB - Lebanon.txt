@@ -1,12 +1,12 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = al_suryah_arabic
-religion = shiite
+religion = shiite #5s-minors-mod
 technology_group = muslim
 capital = 1855	# Sidon
-religious_school = ismaili_school
+religious_school = ismaili_school #5s-minors-mod
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "al-Kamil"
 		dynasty = "Katkhuda"

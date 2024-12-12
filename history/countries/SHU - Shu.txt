@@ -1,12 +1,12 @@
 government = monarchy
-add_government_reform = chinese_warlord 
+add_government_reform = chinese_warlord
 technology_group = chinese
 religion = confucianism
 primary_culture = sichuanese
 capital = 679	#Chengdu
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Fu"
 		dynasty = "Shu"

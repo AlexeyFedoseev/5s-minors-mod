@@ -1,5 +1,5 @@
-government = republic
-add_government_reform = merchants_reform
+government = republic #5s-minors-mod
+add_government_reform = merchants_reform #5s-minors-mod
 primary_culture = polish
 religion = catholic
 technology_group = eastern
@@ -12,7 +12,7 @@ fixed_capital = 262 # Cannot move capital away from this province & no power cos
 
 1750.1.1 = { set_legacy_government = constitutional_republic }
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Isabel"
 		dynasty = "Jagleon"

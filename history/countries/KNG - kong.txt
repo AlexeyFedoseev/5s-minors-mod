@@ -1,7 +1,7 @@
 government = tribal
 add_government_reform = tribal_kingdom
 primary_culture = dyola
-religion = shamanism #Fetishism
+religion = sunni
 technology_group = sub_saharan
 unlock_cult = yemoja_cult
 unlock_cult = roog_cult
@@ -92,7 +92,7 @@ religious_school = shafii_school
 
 1660.1.1 = {
 	monarch = {
-		name = "Lasiri Gomb�l�"
+		name = "Lasiri Gombélé"
 		dynasty = "Gorogo"
 		DIP = 2
 		ADM = 1

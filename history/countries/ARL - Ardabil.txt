@@ -13,7 +13,7 @@ religious_school = jafari_school
 	monarch = {
 		name = "Jafar"
 		dynasty = "Safavid"
-		adm = 3
+		adm = 3 #5s-minors-mod
 		dip = 4
 		mil = 2
 	}

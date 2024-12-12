@@ -4,8 +4,23 @@ government_rank = 1
 primary_culture = prussian
 religion = catholic
 technology_group = western
-capital = 41	# Konigsberg
+#historical_friend = LIV 	#5s-minors-mod
+#historical_rival = POL		#5s-minors-mod
+capital = 41 #5s-minors-mod
 add_army_professionalism = 0.1
+
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 25
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -15
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = -10
+}
 
 1393.1.1 = {
 	monarch = {
@@ -40,7 +55,7 @@ add_army_professionalism = 0.1
 
 1413.1.1 = {
 	monarch = {
-		name = "Michael K�chmeister"
+		name = "Michael Küchmeister"
 		birth_date = 1365.1.1
 		adm = 2
 		dip = 1
@@ -82,7 +97,7 @@ add_army_professionalism = 0.1
 	}
 }
 
-1466.10.19 = { capital = 41 government_rank = 1 } # K�nigsberg
+1466.10.19 = { capital = 41 government_rank = 1 } # Königsberg
 
 1467.4.5 = {
 	monarch = {

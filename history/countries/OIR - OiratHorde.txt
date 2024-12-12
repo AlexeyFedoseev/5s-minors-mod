@@ -32,7 +32,7 @@ add_accepted_culture = khalkha
 		name = "Esen"
 		monarch_name = "Esen"
 		dynasty = "Choros"
-		birth_date = 1393.1.1
+		birth_date = 1393.1.1 #5s-minors-mod
 		death_Date = 1455.1.1
 		claim = 95
 		adm = 3
@@ -48,11 +48,10 @@ add_accepted_culture = khalkha
 		adm = 3
 		dip = 3
 		mil = 5
-		birth_date = 1411.1.1
+		birth_date = 1393.1.1 #5s-minors-mod
 		leader = {
 			name = "Esen Taishi"
 			type = general
-
 			fire = 2
 			shock = 5
 			manuever = 5
@@ -137,7 +136,7 @@ add_accepted_culture = khalkha
 
 1590.1.1 = {
 	monarch = {
-		name = "G�shi"
+		name = "Güshi"
 		dynasty = "Choros"
 		adm = 1
 		dip = 1
@@ -171,7 +170,7 @@ add_accepted_culture = khalkha
 
 1623.1.1 = { capital = 714 }
 
-1630.1.1 = {leader = {	name = "G�shi Khan"              	type = general	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1655.1.1 } }
+1630.1.1 = {leader = {	name = "Güshi Khan"              	type = general	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1655.1.1 } }
 
 
 1634.1.1 = {

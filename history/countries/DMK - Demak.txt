@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = javanese
-religion = animism
+religion = animism #5s-minors-mod
 technology_group = chinese
-capital = 633	# Flores
+capital = 633	# Flores #5s-minors-mod
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		birth = 1412.1.1
 		name = "Raden Patah"

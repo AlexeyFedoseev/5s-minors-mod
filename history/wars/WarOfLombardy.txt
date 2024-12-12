@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "War of Lombardy"
 #
 #war_goal = {

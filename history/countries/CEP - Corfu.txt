@@ -45,7 +45,7 @@ fixed_capital = 142 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Carlos II"
 		dynasty ="Dagout"
-		adm = 2
+		adm = 2 #5s-minors-mod
 		dip = 0
 		mil = 1
 	}

@@ -7,7 +7,7 @@ technology_group = muslim
 capital = 432 # Kerman
 religious_school = ismaili_school
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "'Adel"
 		dynasty = "Sahandlu"

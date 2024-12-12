@@ -1,12 +1,12 @@
-government = republic
-add_government_reform = pirate_republic_reform
+government = republic #5s-minors-mod
+add_government_reform = pirate_republic_reform #5s-minors-mod
 government_rank = 1
 technology_group = western
 primary_culture = pommeranian
 religion = catholic
 capital = 4745	# Rügen
 
-1444.1.1 = { 
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Eryk"
 		dynasty = "von Podewils"

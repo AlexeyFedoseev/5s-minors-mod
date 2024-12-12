@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = moluccan
-religion = animism
+primary_culture = moluccan #5s-minors-mod
+religion = animism #5s-minors-mod
 technology_group = chinese
-capital = 647	# Karta
+capital = 647	#5s-minors-mod
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		birth = 1407.1.1
 		name = "Rajasavardhana"

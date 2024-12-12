@@ -7,6 +7,7 @@ unlock_cult = nyame_cult
 religion = sunni
 primary_culture = kanuri
 capital = 1157	# Gatiga, Gazargamu
+#historical_rival = YAO #5s-minors-mod
 religious_school = maliki_school
 
 #Sultans
@@ -120,7 +121,7 @@ religious_school = maliki_school
 	monarch = {
 		name = "Kadai"
 		dynasty = "Sayfawa"
-		dip = 1
+		dip = 1 #5s-minors-mod
 		adm = 1
 		mil = 1
 	}

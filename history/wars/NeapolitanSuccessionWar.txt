@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "Neapolitan Succession War"
 #succession = NAP
 #war_goal = {

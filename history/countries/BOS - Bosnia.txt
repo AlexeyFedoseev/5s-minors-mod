@@ -1,10 +1,11 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = serbian
+primary_culture = bosnian
 add_accepted_culture = croatian
 religion = catholic
 technology_group = eastern
 capital = 3002	# Sarajevo
+#historical_friend = SER #5s-minors-mod
 
 1389.1.1 = {
 	government_rank = 1
@@ -92,12 +93,12 @@ capital = 3002	# Sarajevo
 
 1443.6.23 = {
 	monarch = {
-		name = "Stjepan Tomas Ostojic"
+		name = "Stjepan Tomaš Ostojic"
 		dynasty = "Kotromanic"
 		birth_date = 1412.7.10
 		adm = 0
 		dip = 0
-		mil = 3
+		mil = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = careful_personality
@@ -105,8 +106,8 @@ capital = 3002	# Sarajevo
 
 1443.6.23 = {
 	heir = {
-		name = "Stjepan Tomasevic"
-		monarch_name = "Stjepan Tomasevic"
+		name = "Stjepan Tomaševic"
+		monarch_name = "Stjepan Tomaševic"
 		dynasty = "Kotromanic"
 		birth_date = 1438.1.1
 		death_date = 1463.6.5
@@ -119,7 +120,7 @@ capital = 3002	# Sarajevo
 
 1461.7.11 = {
 	monarch = {
-		name = "Stjepan Toma�evic"
+		name = "Stjepan Tomaševic"
 		dynasty = "Kotromanic"
 		birth_date = 1438.1.1
 		adm = 3

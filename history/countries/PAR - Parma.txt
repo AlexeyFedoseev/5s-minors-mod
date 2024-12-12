@@ -8,7 +8,7 @@ capital = 105	# Parma
 fixed_capital = 105 # Cannot move capital away from this province & no power cost to move to it
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Antonio"
 		dynasty = "Visconti"

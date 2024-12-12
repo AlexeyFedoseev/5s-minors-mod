@@ -7,13 +7,14 @@ unlock_cult = yemoja_cult
 unlock_cult = roog_cult
 unlock_cult = nyame_cult
 capital = 2288	# Niani
+#historical_rival = KBO #5s-minors-mod
 religious_school = maliki_school
 
 #Hypothetical rulers, from a genealogy of the XXth century sultan.
 
 1444.1.1 = {
 	monarch = {
-		name = "K�da"
+		name = "Kêda"
 		dynasty = "Mahamat"
 		dip = 2
 		adm = 1
@@ -65,7 +66,7 @@ religious_school = maliki_school
 
 1576.1.1 = {
 	monarch = {
-		name = "Tsh�roma"
+		name = "Tshéroma"
 		dynasty = "Mahamat"
 		dip = 2
 		adm = 1
@@ -75,7 +76,7 @@ religious_school = maliki_school
 
 1599.1.1 = {
 	monarch = {
-		name = "Madgash�"
+		name = "Madgashé"
 		dynasty = "Mahamat"
 		dip = 2
 		adm = 1
@@ -137,7 +138,7 @@ religious_school = maliki_school
 
 1761.1.1 = {
 	monarch = {
-		name = "Balkash�"
+		name = "Balkashé"
 		dynasty = "Mahamat"
 		dip = 2
 		adm = 1

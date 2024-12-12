@@ -8,6 +8,10 @@ add_accepted_culture = marathi
 add_accepted_culture = telegu
 religious_school = jafari_school
 
+change_rajputs_or_marathas_or_nobles_land_share_effect = {
+	share = 3
+}
+
 1397.1.1 = {
 	monarch = {
 		name = "Taj ud-Din Firuz"
@@ -64,9 +68,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Ala ud-Din Ahmad Shah II"
 		dynasty = "Bahmanid"
-		DIP = 2
-		ADM = 3
-		MIL = 4
+		DIP = 2 #5s-minors-mod
+		ADM = 3 #5s-minors-mod
+		MIL = 4 #5s-minors-mod
 	}
 	heir = {
 		name = "Ala ud-Din Humayun"

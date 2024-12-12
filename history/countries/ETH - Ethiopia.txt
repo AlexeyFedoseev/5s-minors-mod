@@ -6,6 +6,7 @@ religion = coptic
 technology_group = east_african
 unit_type = sub_saharan
 capital = 1224		# Gonder
+#add_historical_rival = ADA #5s-minors-mod
 
 change_estate_land_share = {
 	estate = estate_nobles
@@ -165,12 +166,12 @@ change_estate_land_share = {
 		name = "Zara Yakob"
 		dynasty = "Solomonid"
 		adm = 6
-		dip = 4
+		dip = 4 #5s-minors-mod
 		mil = 5
 	}
 	
 	clear_scripted_personalities = yes
-	add_ruler_personality = zealot_personality
+	add_ruler_personality = just_personality
 	add_ruler_personality = righteous_personality
 }
 

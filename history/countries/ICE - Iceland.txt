@@ -1,11 +1,11 @@
-government = monarchy
-primary_culture = norwegian
+government = monarchy #5s-minors-mod
+primary_culture = icelandic
 religion = catholic
 technology_group = western
 capital = 370 #Rejkyavik
-add_government_reform = autocracy_reform
+add_government_reform = autocracy_reform #5s-minors-mod
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Erik"
 		dynasty = "Grip"

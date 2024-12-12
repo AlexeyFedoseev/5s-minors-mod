@@ -6,7 +6,7 @@ religion = shinto
 technology_group = chinese
 capital = 4189	# Sagami
 
-1444.1.1 = { 
+1444.1.1 = {  #5s-minors-mod
 	monarch = {
 		name = "Ujinao"
 		dynasty = "Hojo"

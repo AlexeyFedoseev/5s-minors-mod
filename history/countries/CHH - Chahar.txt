@@ -6,7 +6,7 @@ primary_culture = mongol
 capital = 702	# Hohhot
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Bodi Alagh"
 		dynasty = "YakubBorjiginid"
@@ -42,8 +42,8 @@ capital = 702	# Hohhot
 
 1524.1.1 = {
 	heir = {
-		name = "Darayisung G�deng"
-		monarch_name = "Darayisung G�deng"
+		name = "Darayisung Gödeng"
+		monarch_name = "Darayisung Gödeng"
 		dynasty = "Borjigin"
 		birth_date = 1520.1.1
 		death_Date = 1557.1.1
@@ -56,7 +56,7 @@ capital = 702	# Hohhot
 
 1547.1.1 = {
 	monarch = {
-		name = "Darayisung G�deng"
+		name = "Darayisung Gödeng"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 2
@@ -66,8 +66,8 @@ capital = 702	# Hohhot
 
 1547.1.1 = {
 	heir = {
-		name = "T�men Jasaghtu"
-		monarch_name = "T�men Jasaghtu"
+		name = "Tümen Jasaghtu"
+		monarch_name = "Tümen Jasaghtu"
 		dynasty = "Borjigin"
 		birth_date = 1547.1.1
 		death_date = 1592.1.1
@@ -91,7 +91,7 @@ capital = 702	# Hohhot
 
 1582.1.1 = {
 	monarch = {
-		name = "T�men Jasaghtu"
+		name = "Tümen Jasaghtu"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 2

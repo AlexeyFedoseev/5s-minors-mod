@@ -1,12 +1,12 @@
 government = monarchy
-add_government_reform = chinese_warlord 
+add_government_reform = chinese_warlord #5s-minors-mod 
 primary_culture = miao
-religion = confucianism
+religion = confucianism #5s-minors-mod
 technology_group = chinese
 capital = 2174	# Umung
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Zongren"
 		dynasty = "Miao"

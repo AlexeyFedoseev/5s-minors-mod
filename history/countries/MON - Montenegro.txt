@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = serbian_despotate_reform
+add_government_reform = serbian_despotate_reform #5s-minors-mod
 government_rank = 1
 technology_group = eastern
 primary_culture = serbian

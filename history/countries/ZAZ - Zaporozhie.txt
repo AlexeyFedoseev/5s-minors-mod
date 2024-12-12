@@ -1,11 +1,11 @@
 government = republic
 add_government_reform = cossacks_reform
-technology_group = nomad_group
+technology_group = nomad_group #5s-minors-mod
 religion = orthodox
 primary_culture = ruthenian
 capital = 283	# Zaporozhia
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Samoylo Koshka"
         birth_date = 1411.3.6

@@ -3,15 +3,17 @@ add_government_reform = steppe_horde
 primary_culture = mishary
 religion = sunni
 technology_group = nomad_group
-capital = 466	# Sarai
+capital = 466	#Sarai
+#historical_rival = TUR #5s-minors-mod
+#historical_rival = KAZ #5s-minors-mod
 religious_school = hanafi_school
 
 1432.1.1 = {
 	monarch = {
-		name = "Kuchuk Muhammad"
+		name = "Küchük Muhammad"
 		dynasty = "Genghisid"
-		adm = 3
-		dip = 1
+		adm = 3 #5s-minors-mod
+		dip = 1 #5s-minors-mod
 		mil = 2
 	}
 }

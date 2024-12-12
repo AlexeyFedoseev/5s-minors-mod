@@ -7,7 +7,7 @@ primary_culture = tamil
 capital = 4420
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Muhammad Sa'adat"
 		dynasty = "Saadatullahid"

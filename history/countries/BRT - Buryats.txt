@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = buryat
 religion = tengri_pagan_reformed
 technology_group = chinese
-capital = 2434
+capital = 2434 #5s-minors-mod
 
 
 1444.11.11 = {

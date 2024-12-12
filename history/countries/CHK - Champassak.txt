@@ -8,7 +8,7 @@ capital = 4839	# Champassak
 
 # Champassak (splinter-kingdom of Lan Xang)	
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Nan Rat"
 		dynasty = "Champasak"

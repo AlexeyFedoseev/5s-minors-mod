@@ -4,8 +4,11 @@ government_rank = 1
 primary_culture = russian
 religion = orthodox
 technology_group = eastern
+#historical_rival = NOV  #5s-minors-mod
 capital = 295 # Moskva
 fixed_capital = 295 # Cannot move capital away from this province & no power cost to move to it
+#historical_rival = GOL  #5s-minors-mod
+#national_focus = ADM  #5s-minors-mod
 
 1389.5.19 = {
 	monarch = {

@@ -7,7 +7,7 @@ primary_culture = jharkhandi
 capital = 2098	# Garha
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Garagnath"
 		dynasty = "Raksel"

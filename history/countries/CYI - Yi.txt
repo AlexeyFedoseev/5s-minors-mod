@@ -1,11 +1,12 @@
 government = monarchy
-add_government_reform = chinese_warlord 
+add_government_reform = chinese_warlord #5s-minors-mod
 primary_culture = yi
-religion = confucianism
+religion = confucianism #5s-minors-mod
 technology_group = chinese
 capital = 675	# Umung
 
-1444.1.1 = {
+
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Zonglian"
 		dynasty = "Yi"

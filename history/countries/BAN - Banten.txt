@@ -1,12 +1,12 @@
 government = monarchy
 add_government_reform = autocracy_reform
 technology_group = chinese
-primary_culture = sulawesi
-religion = animism
-capital = 644
+primary_culture = sulawesi #5s-minors-mod
+religion = animism #5s-minors-mod
+capital = 644 #5s-minors-mod
 religious_school = shafii_school
 
-1444.1.1 = { 
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Yusuf Pasaran"
 		dynasty = "Poso"

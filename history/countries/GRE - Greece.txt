@@ -3,9 +3,9 @@ add_government_reform = feudalism_reform
 technology_group = eastern
 primary_culture = greek
 religion = orthodox
-capital = 151 # Constantinople
+capital = 151 # Constantinople #5s-minors-mod
 
-1444.7.21 = {
+1444.7.21 = { #5s-minors-mod
 	monarch = {
 		name = "Ioannes VIII"
 		dynasty = "Palaiologos"

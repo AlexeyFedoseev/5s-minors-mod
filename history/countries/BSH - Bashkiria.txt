@@ -6,7 +6,7 @@ technology_group = nomad_group
 capital = 475	# Bashkortostan
 religious_school = hanafi_school
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ak Kobek"
 		dynasty = "Vylka"

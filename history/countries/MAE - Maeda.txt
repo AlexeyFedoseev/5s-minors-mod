@@ -6,7 +6,7 @@ religion = shinto
 technology_group = chinese
 capital = 1837	# Etchu
 	
-1444.1.1 = { 
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Toshiie"
 		dynasty = "Maeda"

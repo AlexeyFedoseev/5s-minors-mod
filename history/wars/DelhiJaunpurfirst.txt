@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "Delhi-Jaunpuri war" #one of many really
 #war_goal = {
 #	type = take_claim

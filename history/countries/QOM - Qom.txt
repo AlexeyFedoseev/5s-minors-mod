@@ -8,6 +8,10 @@ technology_group = muslim
 capital = 2213 # Qom
 religious_school = ismaili_school
 
+#5s-minors-mod
+#add_army_tradition = 20			#Years of fighting and infighting before the game start.
+#add_army_professionalism = 0.05
+
 1442.1.1 = { #Appointed as governor of Sultaniyya, Qazvin, Rayy and Qom, but takes up tribute from Kashan, Qazvin, Sari, Isfahan, Natanz, Firuzkuh, Sultaniyya, Tarum, Azerbaijan as well.
 	religion = sunni
 	religious_school = hanafi_school
@@ -16,9 +20,9 @@ religious_school = ismaili_school
 		name = "Muhammad bin Baysonqor"
 		birth_date = 1417.1.1
 		dynasty = "Timurid"
-		adm = 4
-		dip = 3
-		mil = 5
+		adm = 3
+		dip = 2
+		mil = 4
 		culture = uzbehk
 		religion = sunni
 	}

@@ -1,3 +1,4 @@
+#5s-minors-mod
 #name = "Gondwani War"
 #war_goal = {
 #	type = take_claim

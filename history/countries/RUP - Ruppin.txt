@@ -6,7 +6,7 @@ primary_culture = saxon
 religion = catholic
 capital = 51	# Ruppin
 
-1444.1.1 = { 
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Ulrich"
 		dynasty = "von Hohenzollern"

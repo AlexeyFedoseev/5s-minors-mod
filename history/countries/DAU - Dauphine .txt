@@ -1,12 +1,13 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = feudalism_reform #5s-minors-mod
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = occitain
 capital = 204	# Grenoble
 
-1442.1.16 = {
+
+1442.1.16 = { #5s-minors-mod
 	monarch = {
 		name = "Jeanne"
 		dynasty = "de la Tour"

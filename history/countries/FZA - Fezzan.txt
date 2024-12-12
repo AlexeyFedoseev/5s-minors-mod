@@ -14,7 +14,7 @@ religious_school = maliki_school
 		dynasty = "Banu Sulaym"
 		adm = 0
 		dip = 0
-		mil = 3
+		mil = 3 #5s-minors-mod
 	}
 }
 

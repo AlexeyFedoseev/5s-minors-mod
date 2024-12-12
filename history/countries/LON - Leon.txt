@@ -6,7 +6,7 @@ technology_group = western
 capital = 208 #Leon
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Carlos"
 		dynasty = "de Trastamara"

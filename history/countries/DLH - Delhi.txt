@@ -11,9 +11,9 @@ religious_school = hanafi_school
 	monarch = {
 		name = "Mohammed Shah IV"
 		dynasty = "Sayyid"
-		ADM = 4
-		DIP = 3
-		MIL = 6
+		ADM = 4 #5s-minors-mod
+		DIP = 3 #5s-minors-mod
+		MIL = 6 #5s-minors-mod
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality

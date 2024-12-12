@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = feudalism_reform #5s-minors-mod
 government_rank = 1
 technology_group = western
 primary_culture = gascon
@@ -8,7 +8,7 @@ religion = catholic
 capital = 174 	# Bordeaux
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Henri III"
 		dynasty = "de la Tour"

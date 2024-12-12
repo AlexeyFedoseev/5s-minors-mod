@@ -8,7 +8,7 @@ religion = shamanism #Fetishism
 primary_culture = bambara
 capital = 1123	# Segu
 
-1444.1.1 = { #5s mod
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Barama N'Golo"
 		dynasty = "Coulibaly"

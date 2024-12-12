@@ -6,7 +6,7 @@ primary_culture = ruthenian
 capital = 279	# Volhynia
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Yuriy"
 		dynasty = "Obolensky"

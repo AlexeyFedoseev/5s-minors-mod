@@ -6,7 +6,7 @@ religion = shiite
 capital = 2061 # Rohilkhand / Katehar
 
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Alaaddin"
 		dynasty = "Rohilla"

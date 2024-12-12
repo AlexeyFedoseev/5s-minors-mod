@@ -1,10 +1,15 @@
 government = republic
 add_government_reform = pirate_republic_reform
+#technology_group = western
+#religion = protestant
+#primary_culture = english
+capital = 4024
 government_rank = 1
+
+#5s-minors-mod
 technology_group = east_african
 religion = shamanism #Fetishism
 primary_culture = madagasque
-capital = 4024
 unit_type = sub_saharan
 unlock_cult = enkai_cult
 unlock_cult = waaq_cult

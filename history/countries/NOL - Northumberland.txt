@@ -5,7 +5,7 @@ primary_culture = english
 religion = catholic
 capital = 246	# Newcastle
 
-1444.1.1 = {
+1444.1.1 = { #5s-minors-mod
 	monarch = {
 		name = "Christopher"
 		dynasty = "Lancaster"
