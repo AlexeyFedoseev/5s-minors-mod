@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = chinese_warlord #5s-minors-mod
 primary_culture = yi
-religion = confucianism #5s-minors-mod
+religion = animism
 technology_group = chinese
 capital = 675	# Umung
 

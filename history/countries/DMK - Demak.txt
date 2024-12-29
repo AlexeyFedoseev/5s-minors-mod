@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = javanese
+primary_culture = nusa_tenggara	#5s-minors-mod
 religion = animism #5s-minors-mod
 technology_group = chinese
 capital = 633	# Flores #5s-minors-mod

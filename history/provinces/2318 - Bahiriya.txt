@@ -6,7 +6,7 @@
 owner = MAK			#5s-minors-mod
 controller = MAK 	#5s-minors-mod
 add_core = MAK		#5s-minors-mod
-culture = nubian	# ???
+culture = al_misr_arabic	#5s-minors-mod
 religion = sunni
 capital = "el Qasr"
 is_city = yes

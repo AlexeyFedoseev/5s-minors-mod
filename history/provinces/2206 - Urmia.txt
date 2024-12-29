@@ -4,7 +4,6 @@
 #controller = QAR	#5s-minors-mod
 owner = MGR			#5s-minors-mod
 controller = MGR	#5s-minors-mod
-add_core = BHT		# ???
 add_core = MGR		#5s-minors-mod
 culture = kurdish
 religion = sunni

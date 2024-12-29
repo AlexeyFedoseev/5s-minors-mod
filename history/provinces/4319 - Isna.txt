@@ -5,7 +5,7 @@
 owner = MAK			#5s-minors-mod
 controller = MAK	#5s-minors-mod
 add_core = MAK		#5s-minors-mod
-culture = nubian # ???
+culture = al_misr_arabic
 religion = sunni
 capital = "Isna"
 trade_goods = livestock

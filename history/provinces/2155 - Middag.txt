@@ -3,8 +3,8 @@
 owner = FRM			#5s-minors-mod
 controller = FRM	#5s-minors-mod
 add_core = FRM		#5s-minors-mod
-culture = chimin		# ???
-religion = confucianism	# ???
+culture = chimin			#5s-minors-mod
+religion = confucianism		#5s-minors-mod
 capital = "Middag"
 #trade_goods = unknown			#5s-minors-mod
 trade_goods = tropical_wood		#5s-minors-mod

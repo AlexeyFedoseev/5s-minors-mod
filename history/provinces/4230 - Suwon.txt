@@ -2,10 +2,10 @@
 
 #owner = KOR		#5s-minors-mod
 #controller = KOR	#5s-minors-mod
-owner = GOG			#5s-minors-mod
-controller = GOG	#5s-minors-mod
-add_core = GOG		#5s-minors-mod
+owner = BAE			#5s-minors-mod
+controller = BAE	#5s-minors-mod
 add_core = BAE		#5s-minors-mod
+add_core = GOG		#5s-minors-mod
 culture = korean
 religion = confucianism
 capital = "Suwon"

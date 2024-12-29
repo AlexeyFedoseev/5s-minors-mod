@@ -5,7 +5,7 @@
 owner = CRN			#5s-minors-mod
 controller = CRN	#5s-minors-mod
 add_core = CRN		#5s-minors-mod
-culture = welsh		# ???
+culture = cornish
 religion = catholic
 hre = no
 base_tax = 1

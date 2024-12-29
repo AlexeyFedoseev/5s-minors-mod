@@ -3,7 +3,7 @@
 owner = CRB			#5s-minors-mod
 controller = CRB	#5s-minors-mod
 add_core = CRB 		#5s-minors-mod
-culture = javanese	# ???
+culture = nusa_tenggara
 religion = animism
 capital = "Lifau"
 #trade_goods = unknown	#5s-minors-mod

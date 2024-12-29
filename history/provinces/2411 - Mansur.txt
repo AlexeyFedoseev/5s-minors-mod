@@ -5,8 +5,8 @@
 owner = ZAZ			#5s-minors-mod
 controller = ZAZ	#5s-minors-mod
 add_core = ZAZ		#5s-minors-mod
-culture = crimean	# ???
-religion = sunni
+culture = crimean
+religion = orthodox		#5s-minors-mod
 hre = no
 base_tax = 3 
 base_production = 3

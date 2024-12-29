@@ -5,7 +5,7 @@
 owner = ALB			#5s-minors-mod
 controller = ALB	#5s-minors-mod
 add_core = ALB		#5s-minors-mod
-culture = serbian	# ???
+culture = bulgarian
 religion = orthodox
 capital = "Ohrid"
 trade_goods = wool

@@ -6,8 +6,8 @@
 owner = CSH			#5s-minors-mod
 controller = CSH	#5s-minors-mod
 add_core = CSH		#5s-minors-mod
-culture = xibei				# ???
-religion = confucianism		# ???
+culture = tibetan
+religion = vajrayana
 capital = "Taozhou"
 trade_goods = chinaware
 hre = no

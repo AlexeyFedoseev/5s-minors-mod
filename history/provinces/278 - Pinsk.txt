@@ -1,6 +1,6 @@
 #278 - Pinsk
 
-#owner = LIT		#5s-minors-mod # ???
+#owner = LIT		#5s-minors-mod
 #controller = LIT  	#5s-minors-mod
 owner = MSK			#5s-minors-mod
 controller = MSK  	#5s-minors-mod

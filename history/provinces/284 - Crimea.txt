@@ -5,8 +5,8 @@
 owner = FEO			#5s-minors-mod
 controller = FEO	#5s-minors-mod
 add_core = FEO		#5s-minors-mod
-culture = goths			# ???
-religion = orthodox		# ???
+culture = goths			#5s-minors-mod
+religion = orthodox		#5s-minors-mod
 hre = no
 base_tax = 6
 base_production = 6

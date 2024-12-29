@@ -3,7 +3,7 @@
 owner = DMK			#5s-minors-mod
 controller = DMK	#5s-minors-mod
 add_core = DMK 		#5s-minors-mod
-culture = javanese	# ???
+culture = nusa_tenggara
 religion = animism
 capital = "Lombok"
 #trade_goods = unknown	#5s-minors-mod
@@ -19,25 +19,6 @@ is_city = yes				#5s-minors-mod
 
 
 discovered_by = chinese
-#discovered_by = MAJ		# ???
-#discovered_by = MKS
-#discovered_by = BLI
-#discovered_by = BAN
-#discovered_by = BEI
-#discovered_by = BLM
-#discovered_by = BTN
-#discovered_by = CRB
-#discovered_by = DMK
-#discovered_by = PLB
-#discovered_by = SUN
-#discovered_by = KUT
-#discovered_by = BNJ
-#discovered_by = LFA
-#discovered_by = LNO
-#discovered_by = LUW
-#discovered_by = MGD
-#discovered_by = TER
-#discovered_by = TID
 
 1512.1.1 = { discovered_by = POR }
 

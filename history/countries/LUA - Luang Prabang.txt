@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
 primary_culture = lao
-religion = buddhism
+religion = animism	#5s-minors-mod
 technology_group = chinese
 capital = 615	# Luang Prabang
 

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
 technology_group = chinese
-primary_culture = javanese
+primary_culture = nusa_tenggara	#5s-minors-mod
 religion = animism #5s-minors-mod
 capital = 624	# Banten #5s-minors-mod
 

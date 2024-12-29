@@ -5,7 +5,7 @@
 owner = TRS			#5s-minors-mod
 controller = TRS	#5s-minors-mod
 add_core = TRS		#5s-minors-mod
-culture = uzbehk	# ???
+culture = turkmeni
 religion = sunni
 capital = "Merv"
 trade_goods = cotton

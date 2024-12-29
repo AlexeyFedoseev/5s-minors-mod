@@ -3,6 +3,7 @@ add_government_reform = cossacks_reform
 technology_group = nomad_group #5s-minors-mod
 religion = orthodox
 primary_culture = ruthenian
+add_accepted_culture = crimean #5s-minors-mod 
 capital = 283	# Zaporozhia
 
 1444.1.1 = { #5s-minors-mod
