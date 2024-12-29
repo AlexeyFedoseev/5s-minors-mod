@@ -1,8 +1,10 @@
 #399 - Suhar
 
-owner = SHR
-controller = SHR
-add_core = SHR
+#owner = ORM		#5s-minors-mod
+#controller = ORM	#5s-minors-mod
+owner = SHR			#5s-minors-mod
+controller = SHR	#5s-minors-mod
+add_core = SHR		#5s-minors-mod
 culture = omani_culture
 religion = ibadi
 capital = "Suhar"
@@ -12,6 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = ORM		#5s-minors-mod
+#add_core = OMA		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
@@ -20,7 +24,7 @@ discovered_by = east_african
 
 
 1480.1.1 = { discovered_by = TUR }
-1488.1.1 = { discovered_by = POR } # P�ro da Covilh�
+1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
 1500.1.1 = { discovered_by = TUR }
 1507.6.1 = {
 	owner = POR

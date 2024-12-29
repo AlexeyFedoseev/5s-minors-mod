@@ -1,7 +1,8 @@
 government = tribal
 add_government_reform = tribal_kingdom
 primary_culture = tibetan
-add_accepted_culture = kashmiri # ???
+add_accepted_culture = kashmiri
+add_accepted_culture = uyghur
 religion = vajrayana
 technology_group = indian
 capital = 2074	# Ladakh

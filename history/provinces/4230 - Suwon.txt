@@ -1,9 +1,11 @@
 #4230 - Suwon
 
-owner = GOG
-controller = GOG
-add_core = GOG
-add_core = BAE
+#owner = KOR		#5s-minors-mod
+#controller = KOR	#5s-minors-mod
+owner = GOG			#5s-minors-mod
+controller = GOG	#5s-minors-mod
+add_core = GOG		#5s-minors-mod
+add_core = BAE		#5s-minors-mod
 culture = korean
 religion = confucianism
 capital = "Suwon"
@@ -13,9 +15,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+#add_core = KOR		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
-estate = estate_nobles
 
 1519.1.1 = { discovered_by = POR } # Tome Pires
 1592.6.11 = { controller = ODA unrest = 5 } # Japanese invasion

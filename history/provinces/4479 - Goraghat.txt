@@ -1,8 +1,10 @@
 #4479 - Goraghat
 
-owner = NAD
-controller = NAD
-add_core = NAD
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = NAD			#5s-minors-mod
+controller = NAD	#5s-minors-mod
+add_core = NAD		#5s-minors-mod
 culture = bengali
 religion = hinduism
 capital = "Goraghat"
@@ -12,6 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = BNG		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

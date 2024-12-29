@@ -1,8 +1,10 @@
 #302 - Tambow
 
-owner = QAS
-controller = QAS
-add_core = QAS
+#owner = GOL		#5s-minors-mod
+#controller = GOL	#5s-minors-mod
+owner = QAS			#5s-minors-mod
+controller = QAS	#5s-minors-mod
+add_core = QAS		#5s-minors-mod
 culture = mishary
 religion = sunni
 hre = no
@@ -12,6 +14,10 @@ trade_goods = iron
 base_manpower = 3
 capital = "Tambov"
 is_city = yes
+#add_core = GOL		#5s-minors-mod
+
+
+
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

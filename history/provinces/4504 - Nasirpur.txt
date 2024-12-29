@@ -1,8 +1,10 @@
 #4504 - Nasirpur
 
-owner = KAT
-controller = KAT
-add_core = KAT
+#owner = SND		#5s-minors-mod
+#controller = SND	#5s-minors-mod
+owner = KAT			#5s-minors-mod
+controller = KAT	#5s-minors-mod
+add_core = KAT		#5s-minors-mod
 culture = sindhi
 religion = sunni
 capital = "Nasirpur"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 1
 is_city = yes
+#add_core = SND		#5s-minors-mod
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim 

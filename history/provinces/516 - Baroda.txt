@@ -1,8 +1,10 @@
 #516 - Baroda (Baroda)
 
-owner = IDR
-controller = IDR
-add_core = IDR
+#owner = GUJ		#5s-minors-mod
+#controller = GUJ	#5s-minors-mod
+owner = IDR			#5s-minors-mod
+controller = IDR	#5s-minors-mod
+add_core = IDR		#5s-minors-mod
 culture = gujarati
 religion = hinduism
 capital = "Baroda"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-estate = estate_nobles
+#add_core = GUJ		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

@@ -1,9 +1,10 @@
 #423 - Kartli
 
-owner = MLK
-controller = MLK
-add_core = MLK
-
+#owner = GEO		#5s-minors-mod
+#controller = GEO	#5s-minors-mod
+owner = MLK			#5s-minors-mod
+controller = MLK	#5s-minors-mod
+add_core = MLK		#5s-minors-mod
 culture = georgian
 religion = orthodox
 capital = "T'bilisi"
@@ -13,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-
+#add_core = GEO		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

@@ -1,8 +1,10 @@
 #166 - Schwyz
 
-owner = TTL
-controller = TTL
-add_core = TTL
+#owner = SWI		#5s-minors-mod
+#controller = SWI	#5s-minors-mod
+owner = TTL			#5s-minors-mod
+controller = TTL	#5s-minors-mod
+add_core = TTL		#5s-minors-mod
 culture = swiss
 religion = catholic
 capital = "Schwyz"
@@ -12,6 +14,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = SWI		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

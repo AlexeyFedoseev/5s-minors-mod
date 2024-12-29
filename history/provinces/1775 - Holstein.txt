@@ -1,9 +1,11 @@
 #1775 - Holstein
 
-owner = DTT
-controller = DTT
-add_core = DTT
-
+#owner = SHL		#5s-minors-mod
+#controller = SHL	#5s-minors-mod
+#add_core = SHL		#5s-minors-mod
+owner = DTT			#5s-minors-mod
+controller = DTT	#5s-minors-mod
+add_core = DTT		#5s-minors-mod
 culture = lower_saxon
 religion = catholic
 hre = yes

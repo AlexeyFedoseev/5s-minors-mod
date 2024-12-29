@@ -2,7 +2,7 @@
 
 owner = SYR
 controller = SYR
-add_core = SYR
+add_core = SYR		#5s-minors-mod
 culture = al_suryah_arabic
 religion = sunni
 capital = "Hama"
@@ -12,6 +12,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = SYR		#5s-minors-mod
+#add_core = FAD		#5s-minors-mod
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

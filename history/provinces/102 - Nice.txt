@@ -1,8 +1,11 @@
 #102 - Nice
 
-owner = GEN
-controller = GEN
-add_core = GEN
+#owner = SAV		#5s-minors-mod
+#controller = SAV	#5s-minors-mod
+#add_core = SAV		#5s-minors-mod
+owner = GEN			#5s-minors-mod
+controller = GEN	#5s-minors-mod
+add_core = GEN		#5s-minors-mod
 culture = ligurian
 religion = catholic
 hre = yes
@@ -12,6 +15,9 @@ trade_goods = fish
 base_manpower = 2
 capital = "Nice"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

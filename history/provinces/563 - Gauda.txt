@@ -1,8 +1,10 @@
 #563 - Gauda
 
-owner = KMT
-controller = KMT
-add_core = KMT
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = KMT			#5s-minors-mod
+controller = KMT	#5s-minors-mod
+add_core = KMT		#5s-minors-mod
 culture = bengali
 religion = hinduism
 capital = "Pandua"
@@ -12,6 +14,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
+#add_core = BNG		#5s-minors-mod
 fort_15th = yes
 discovered_by = indian
 discovered_by = muslim

@@ -1,8 +1,11 @@
 #Halland, contains Halmstad, Varberg.
 
-owner = GOT
-controller = GOT
-add_core = GOT
+#owner = DAN		#5s-minors-mod
+#controller = DAN	#5s-minors-mod
+#add_core = DAN		#5s-minors-mod
+owner = GOT			#5s-minors-mod
+controller = GOT	#5s-minors-mod
+add_core = GOT		#5s-minors-mod
 culture = danish
 religion = catholic
 hre = no
@@ -11,7 +14,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 capital = "Halmstad"
-estate = estate_nobles
 is_city = yes
 discovered_by = western
 discovered_by = eastern
@@ -24,5 +26,5 @@ discovered_by = ottoman
 1536.1.1 = { religion = protestant} # Unknown date
 1565.9.15 = { controller = SWE } # The Nordic Seven-year War
 1569.12.4 = { controller = DAN } # The Nordic Seven-year War
-1645.8.13 = { owner = SWE add_core = SWE  } # The Peace of Br�msebro
+1645.8.13 = { owner = SWE add_core = SWE  } # The Peace of Brömsebro
 1680.1.1 = { culture = swedish } # The population adepted to Swedish ways.

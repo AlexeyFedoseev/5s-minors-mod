@@ -1,8 +1,10 @@
 #556 - Lower Doab
 
-owner = BGL
-controller = BGL
-add_core = BGL
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = BGL			#5s-minors-mod
+controller = BGL	#5s-minors-mod
+add_core = BGL		#5s-minors-mod
 culture = avadhi
 religion = hinduism
 capital = "Allahabad"
@@ -12,6 +14,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
+#add_core = JNP		#5s-minors-mod
 add_brahmins_or_church_effect = yes
 discovered_by = indian
 discovered_by = muslim 

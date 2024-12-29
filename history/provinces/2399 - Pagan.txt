@@ -1,8 +1,10 @@
 #2399 - Pagan
 
-owner = KAL
-controller = KAL
-add_core = KAL
+#owner = AVA		#5s-minors-mod
+#controller = AVA	#5s-minors-mod
+owner = KAL			#5s-minors-mod
+controller = KAL	#5s-minors-mod
+add_core = KAL		#5s-minors-mod
 culture = burmese
 religion = buddhism
 capital = "Pagan"
@@ -12,6 +14,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = AVA		#5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = indian
 

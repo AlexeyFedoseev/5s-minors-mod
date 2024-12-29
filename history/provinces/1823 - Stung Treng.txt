@@ -1,17 +1,20 @@
 #1823 - Stung Treng
 
-owner = JAR
-controller = JAR
-add_core = JAR
+#owner = KHM		#5s-minors-mod
+#controller = KHM	#5s-minors-mod
+owner = JAR			#5s-minors-mod
+controller = JAR	#5s-minors-mod
+add_core = JAR		#5s-minors-mod
 culture = khmer
 religion = animism
 capital = "Stung Treng"
 trade_goods = grain
 hre = no
-base_tax = 4
-base_production = 4
+base_tax = 3
+base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = KHM		#5s-minors-mod
 
 
 

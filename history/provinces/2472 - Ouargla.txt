@@ -2,17 +2,17 @@
 
 owner = TGT
 controller = TGT
-add_core = TGT
-
+add_core = TGT		#5s-minors-mod
 culture = berber
 religion = ibadi
 capital = "Ouargla"
-trade_goods = gold
+trade_goods = gold		#5s-minors-mod
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = TGT		#5s-minors-mod
 
 
 

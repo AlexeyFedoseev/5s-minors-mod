@@ -1,8 +1,11 @@
 # 2112 - Andong
 
-owner = QIC
-controller = QIC
-add_core = QIC
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = QIC			#5s-minors-mod
+controller = QIC	#5s-minors-mod
+add_core = QIC		#5s-minors-mod
 culture = manchu
 religion = confucianism
 capital = "Andong"

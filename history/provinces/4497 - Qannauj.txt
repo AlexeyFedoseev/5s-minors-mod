@@ -1,8 +1,10 @@
 #4497 - Qannauj
 
-owner = ODH
-controller = ODH
-add_core = ODH
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = ODH			#5s-minors-mod
+controller = ODH	#5s-minors-mod
+add_core = ODH		#5s-minors-mod
 culture = avadhi
 religion = hinduism
 capital = "Qannauj"
@@ -12,7 +14,9 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = JNP		#5s-minors-mod
+#add_core = DLH		#5s-minors-mod
+#add_core = ODH		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 

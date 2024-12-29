@@ -1,8 +1,10 @@
 #1933 - Bari
 
-owner = SLT
-controller = SLT
-add_core = SLT
+#owner = NAP		#5s-minors-mod
+#controller = NAP	#5s-minors-mod
+owner = SLT			#5s-minors-mod
+controller = SLT	#5s-minors-mod
+add_core = SLT		#5s-minors-mod
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -12,6 +14,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
+#add_core = NAP		#5s-minors-mod
 
 
 

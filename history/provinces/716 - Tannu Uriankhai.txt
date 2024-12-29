@@ -1,8 +1,11 @@
 #716 - Tannu Tuva
 
-owner = BRT		# The Oirads united much of Mongolia
-controller = BRT
-add_core = BRT
+#owner = OIR		# The Oirads united much of Mongolia	#5s-minors-mod
+#controller = OIR	#5s-minors-mod
+#add_core = OIR		#5s-minors-mod
+owner = BRT			#5s-minors-mod
+controller = BRT	#5s-minors-mod
+add_core = BRT		#5s-minors-mod
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Tannu Uriankhai"

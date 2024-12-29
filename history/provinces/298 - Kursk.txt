@@ -1,8 +1,10 @@
 #298 - Kursk
 
-owner = OKA
-controller = OKA 
-add_core = OKA
+#owner = LIT		#5s-minors-mod
+#controller = LIT 	#5s-minors-mod
+owner = OKA			#5s-minors-mod
+controller = OKA 	#5s-minors-mod
+add_core = OKA		#5s-minors-mod
 culture = ryazanian
 religion = orthodox
 hre = no
@@ -12,6 +14,9 @@ trade_goods = grain
 base_manpower = 1
 capital = "Kursk"
 is_city = yes
+#add_core = CHR					#5s-minors-mod
+#add_core = LIT					#5s-minors-mod
+#add_local_autonomy = 25		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -2,7 +2,7 @@
 
 
 
-1444.1.1 = { discovered_by = ICE }
+1444.1.1 = { discovered_by = ICE }		#5s-minors-mod
 1610.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
 1720.1.1 = { discovered_by = DAN }

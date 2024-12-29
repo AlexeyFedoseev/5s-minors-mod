@@ -1,8 +1,10 @@
 # - Nsoyo
 
-owner = NDO
-controller = NDO
-add_core = NDO
+#owner = KON		#5s-minors-mod
+#controller = KON	#5s-minors-mod
+owner = NDO			#5s-minors-mod
+controller = NDO	#5s-minors-mod
+add_core = NDO		#5s-minors-mod
 culture = mbundu
 religion = shamanism #Fetishism
 capital = "Nsoyo"
@@ -12,7 +14,7 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-
+#add_core = KON		#5s-minors-mod
 discovered_by = central_african
 
 1481.1.1 = { discovered_by = POR } # Bartolomeu Dias

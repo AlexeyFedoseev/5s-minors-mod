@@ -1,8 +1,11 @@
 #1188 - Masapa
 
-owner = RZW
-controller = RZW
-add_core = RZW
+#owner = ZIM		#5s-minors-mod
+#controller = ZIM	#5s-minors-mod
+#add_core = ZIM		#5s-minors-mod
+owner = RZW			#5s-minors-mod
+controller = RZW	#5s-minors-mod
+add_core = RZW		#5s-minors-mod
 culture = shona
 religion = shamanism
 capital = "Massapa"

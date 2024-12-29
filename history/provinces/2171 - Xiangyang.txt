@@ -1,8 +1,11 @@
 # 2171 - Xiangyang
 
-owner = CXI
-controller = CXI
-add_core = CXI
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CXI			#5s-minors-mod
+controller = CXI	#5s-minors-mod
+add_core = CXI		#5s-minors-mod
 culture = hubei
 religion = confucianism
 capital = "Xiangyang"
@@ -12,6 +15,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = CXI		#5s-minors-mod
 
 
 

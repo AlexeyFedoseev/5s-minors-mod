@@ -1,8 +1,10 @@
 #4438 - Nander
 
-owner = GOC
-controller = GOC
-add_core = GOC
+#owner = BAH		#5s-minors-mod
+#controller = BAH	#5s-minors-mod
+owner = GOC			#5s-minors-mod
+controller = GOC	#5s-minors-mod
+add_core = GOC		#5s-minors-mod
 culture = marathi
 religion = hinduism
 capital = "Nander"
@@ -12,6 +14,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = BAH		#5s-minors-mod
+#add_core = TLG		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

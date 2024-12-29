@@ -1,8 +1,11 @@
 #4786 - Prignitz
 
-owner = RUP
-controller = RUP
-add_core = RUP
+#owner = BRA		#5s-minors-mod
+#controller = BRA	#5s-minors-mod
+#add_core = BRA		#5s-minors-mod
+owner = RUP			#5s-minors-mod
+controller = RUP	#5s-minors-mod
+add_core = RUP		#5s-minors-mod
 culture = saxon
 religion = catholic
 hre = yes

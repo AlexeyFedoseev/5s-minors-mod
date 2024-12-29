@@ -2,7 +2,7 @@
 
 owner = CRO
 controller = CRO
-add_core = CRO
+add_core = CRO		#5s-minors-mod
 culture = croatian
 religion = catholic
 capital = "Varazdin"
@@ -12,7 +12,9 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 is_city = yes
-
+#add_core = HUN		#5s-minors-mod
+#add_core = CRO		#5s-minors-mod
+#add_core = CLI		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,8 +1,10 @@
 #244 - Lancashire
 
-owner = NOL
-controller = NOL
-add_core = NOL
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = NOL			#5s-minors-mod
+controller = NOL	#5s-minors-mod
+add_core = NOL		#5s-minors-mod
 culture = english
 religion = catholic
 hre = no
@@ -12,6 +14,7 @@ trade_goods = wool
 base_manpower = 2
 capital = "Lancaster"
 is_city = yes
+#add_core = ENG		#5s-minors-mod
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

@@ -1,36 +1,43 @@
 #2693 - Lombok
 
-owner = DMK
-controller = DMK
-add_core = DMK 
-culture = javanese
+owner = DMK			#5s-minors-mod
+controller = DMK	#5s-minors-mod
+add_core = DMK 		#5s-minors-mod
+culture = javanese	# ???
 religion = animism
 capital = "Lombok"
-trade_goods = spices
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = cotton	#5s-minors-mod
 hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = yes
-discovered_by = MAJ
-discovered_by = MKS
-discovered_by = BLI
-discovered_by = BAN
-discovered_by = BEI
-discovered_by = BLM
-discovered_by = BTN
-discovered_by = CRB
-discovered_by = DMK
-discovered_by = PLB
-discovered_by = SUN
-discovered_by = KUT
-discovered_by = BNJ
-discovered_by = LFA
-discovered_by = LNO
-discovered_by = LUW
-discovered_by = MGD
-discovered_by = TER
-discovered_by = TID
+#native_size = 50			#5s-minors-mod
+#native_ferocity = 7		#5s-minors-mod
+#native_hostileness = 7		#5s-minors-mod
+is_city = yes				#5s-minors-mod
+
+
+discovered_by = chinese
+#discovered_by = MAJ		# ???
+#discovered_by = MKS
+#discovered_by = BLI
+#discovered_by = BAN
+#discovered_by = BEI
+#discovered_by = BLM
+#discovered_by = BTN
+#discovered_by = CRB
+#discovered_by = DMK
+#discovered_by = PLB
+#discovered_by = SUN
+#discovered_by = KUT
+#discovered_by = BNJ
+#discovered_by = LFA
+#discovered_by = LNO
+#discovered_by = LUW
+#discovered_by = MGD
+#discovered_by = TER
+#discovered_by = TID
 
 1512.1.1 = { discovered_by = POR }
 

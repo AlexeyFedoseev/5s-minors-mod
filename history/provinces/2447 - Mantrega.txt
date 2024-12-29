@@ -1,8 +1,10 @@
 #2447 - Mantrega
 
-owner = CIR
-controller = CIR
-add_core = CIR
+#owner = GEN		#5s-minors-mod
+#controller = GEN	#5s-minors-mod
+owner = CIR			#5s-minors-mod
+controller = CIR	#5s-minors-mod
+add_core = CIR		#5s-minors-mod
 culture = pontic_greek
 religion = orthodox
 hre = no
@@ -12,6 +14,11 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Matrega"
 is_city = yes
+#add_core = GEN		#5s-minors-mod
+#add_core = CIR		#5s-minors-mod
+#add_core = CRI		#5s-minors-mod
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

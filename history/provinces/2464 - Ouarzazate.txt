@@ -1,7 +1,10 @@
 # - Ouarzazate
 
-owner = MOR
-controller = MOR
+#owner = MOR		#5s-minors-mod
+#controller = MOR	#5s-minors-mod
+owner = SOS			#5s-minors-mod
+controller = SOS	#5s-minors-mod
+add_core = SOS		#5s-minors-mod
 culture = berber
 religion = sunni
 capital = "Ouarzazate"
@@ -11,8 +14,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MOR
-add_core = SOS
+#add_core = MOR		#5s-minors-mod
+#add_core = SOS		#5s-minors-mod
+#add_core = TFL		#5s-minors-mod
 
 
 
@@ -24,7 +28,6 @@ discovered_by = ottoman
 	owner = SOS
 	controller = SOS
 	add_core = SOS
-	remove_core = MOR
 }
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = { owner = TFL controller = TFL unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.

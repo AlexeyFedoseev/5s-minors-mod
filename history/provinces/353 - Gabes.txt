@@ -1,8 +1,10 @@
 #353 - Tataouine
 
-owner = TRP
-controller = TRP 
-add_core = TRP
+#owner = TUN		#5s-minors-mod
+#controller = TUN 	#5s-minors-mod
+owner = TRP			#5s-minors-mod
+controller = TRP 	#5s-minors-mod
+add_core = TRP		#5s-minors-mod
 culture = tunisian
 religion = sunni
 capital = "Tataouine"
@@ -12,6 +14,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = TUN		#5s-minors-mod
+#add_core = TRP		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

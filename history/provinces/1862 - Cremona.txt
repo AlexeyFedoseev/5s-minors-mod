@@ -1,8 +1,10 @@
 #1862 - Cremona
 
-owner = PAR
-controller = PAR
-add_core = PAR
+#owner = MLO		#5s-minors-mod
+#controller = MLO	#5s-minors-mod
+owner = PAR			#5s-minors-mod
+controller = PAR	#5s-minors-mod
+add_core = PAR		#5s-minors-mod
 culture = lombard
 religion = catholic
 hre = yes
@@ -12,6 +14,7 @@ trade_goods = grain
 base_manpower = 4
 capital = "Cremona"
 is_city = yes	# Estimated
+#add_core = MLO		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

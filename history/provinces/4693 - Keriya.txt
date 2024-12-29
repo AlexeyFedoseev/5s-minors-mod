@@ -1,8 +1,11 @@
 # 4693 - Keriya
 
-owner = SYG
-controller = SYG
-add_core = SYG
+#owner = KAS		#5s-minors-mod
+#controller = KAS	#5s-minors-mod
+#add_core = KAS		#5s-minors-mod
+owner = SYG			#5s-minors-mod
+controller = SYG	#5s-minors-mod
+add_core = SYG		#5s-minors-mod
 culture = uyghur
 religion = sunni
 capital = "Keriya"

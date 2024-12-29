@@ -1,10 +1,12 @@
 #1079 - Viatka
 
-owner = PRM
-controller = PRM
-add_core = PRM
+#owner = MOS		#5s-minors-mod
+#controller = MOS	#5s-minors-mod
+owner = PRM			#5s-minors-mod
+controller = PRM	#5s-minors-mod
+add_core = PRM		#5s-minors-mod
 capital = "Hlynov"
-culture = uralic
+culture = uralic		# ???
 religion = orthodox
 trade_goods = copper
 hre = no
@@ -12,6 +14,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 is_city = yes
+#add_core = MOS		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = GOL

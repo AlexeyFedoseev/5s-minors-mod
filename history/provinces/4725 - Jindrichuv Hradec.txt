@@ -1,6 +1,9 @@
-owner = MVA
-controller = MVA
-add_core = MVA
+#owner = BOH		#5s-minors-mod
+#controller = BOH	#5s-minors-mod
+#add_core = BOH		#5s-minors-mod
+owner = MVA			#5s-minors-mod
+controller = MVA	#5s-minors-mod
+add_core = MVA		#5s-minors-mod
 capital = "Jindrichuv Hradec"
 culture = czech
 religion = catholic

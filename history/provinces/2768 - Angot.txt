@@ -1,8 +1,11 @@
 #2768 - Ashenge
 
-owner = AFA
-controller = AFA
-add_core = AFA
+#owner = ETH		#5s-minors-mod
+#controller = ETH	#5s-minors-mod
+#add_core = ETH		#5s-minors-mod
+owner = AFA			#5s-minors-mod
+controller = AFA	#5s-minors-mod
+add_core = AFA		#5s-minors-mod
 culture = afar
 religion = sunni
 capital = "Manadeley"

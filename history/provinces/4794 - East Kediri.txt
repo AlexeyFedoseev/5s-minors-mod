@@ -1,6 +1,9 @@
-owner = BLI
-controller = BLI
-add_core = BLI
+#owner = MAJ		#5s-minors-mod
+#controller = MAJ	#5s-minors-mod
+#add_core = MAJ		#5s-minors-mod
+owner = BLI			#5s-minors-mod
+controller = BLI	#5s-minors-mod
+add_core = BLI		#5s-minors-mod
 culture = javanese
 religion = hinduism
 capital = "Malang"
@@ -10,7 +13,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = BLM
+#add_core = BLM		#5s-minors-mod
 
 
 

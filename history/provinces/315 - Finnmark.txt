@@ -1,7 +1,9 @@
 #315 - Finnmark
 
-owner = SMI
-controller = SMI
+#owner = NOR		#5s-minors-mod
+#controller = NOR	#5s-minors-mod
+owner = SMI			#5s-minors-mod
+controller = SMI	#5s-minors-mod
 add_core = SMI
 culture = sapmi
 religion = catholic
@@ -10,9 +12,10 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = fish
-capital = "Vard�"
+capital = "Vardø"
 is_city = yes
-#			add_local_autonomy = 70
+#add_core = NOR				#5s-minors-mod
+#add_local_autonomy = 70	#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 

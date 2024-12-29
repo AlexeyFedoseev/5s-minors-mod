@@ -4,9 +4,11 @@ latent_trade_goods = {
 	coal #Isfara
 }
 
-owner = KOK
-controller = KOK
-add_core = KOK
+#owner = CHG		#5s-minors-mod
+#controller = CHG	#5s-minors-mod
+owner = KOK			#5s-minors-mod
+controller = KOK	#5s-minors-mod
+add_core = KOK		#5s-minors-mod
 culture = kirgiz
 religion = sunni
 capital = "Uzkend"
@@ -15,6 +17,8 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 4
+#add_core = KOK		#5s-minors-mod
+#add_core = CHG		#5s-minors-mod
 is_city = yes
 discovered_by = muslim
 discovered_by = indian

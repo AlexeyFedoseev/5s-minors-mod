@@ -1,8 +1,12 @@
 #Dorpat
 
-owner = LTG #5s
-controller = LTG #5s
-add_core = LTG #5s
+#owner = LIV		#5s-minors-mod
+#controller = LIV	#5s-minors-mod
+#add_core = LIV		#5s-minors-mod
+add_core = LTG
+#add_core = EST		#5s-minors-mod
+owner = LTG			#5s-minors-mod
+controller = LTG	#5s-minors-mod
 culture = estonian
 religion = catholic
 hre = no
@@ -12,7 +16,6 @@ trade_goods = naval_supplies
 base_manpower = 2
 capital = "Dorpat"
 is_city = yes
-estate = estate_nobles
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

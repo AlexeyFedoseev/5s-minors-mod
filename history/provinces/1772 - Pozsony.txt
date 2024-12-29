@@ -1,8 +1,10 @@
 #1772 - Pozsony
 
-owner = SLO
-controller = SLO
-add_core = SLO
+#owner = HUN		#5s-minors-mod
+#controller = HUN	#5s-minors-mod
+owner = SLO			#5s-minors-mod
+controller = SLO	#5s-minors-mod
+add_core = SLO		#5s-minors-mod
 culture = slovak
 religion = catholic
 capital = "Pressburg"
@@ -12,6 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+#add_core = HUN		#5s-minors-mod
+#add_core = SLO		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

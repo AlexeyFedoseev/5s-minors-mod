@@ -1,8 +1,10 @@
 #2096 - Damin
 
-owner = NGP
-controller = NGP
-add_core = NGP
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = NGP			#5s-minors-mod
+controller = NGP	#5s-minors-mod
+add_core = NGP		#5s-minors-mod
 culture = jharkhandi
 religion = hinduism
 capital = "Deogarh"

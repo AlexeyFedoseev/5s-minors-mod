@@ -1,7 +1,10 @@
 #Narva
 
-owner = EST
-controller = EST
+#owner = LIV		#5s-minors-mod
+#controller = LIV	#5s-minors-mod
+#add_core = LIV		#5s-minors-mod
+owner = EST			#5s-minors-mod
+controller = EST	#5s-minors-mod
 add_core = EST
 culture = estonian
 religion = catholic

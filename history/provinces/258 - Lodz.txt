@@ -1,7 +1,10 @@
 #258 - Lodz
 
-owner = WPL
-controller = WPL
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = WPL			#5s-minors-mod
+controller = WPL	#5s-minors-mod
+add_core = WPL		#5s-minors-mod
 capital = "Sieradz"
 culture = polish
 religion = catholic
@@ -11,7 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = WPL
+#add_core = POL		#5s-minors-mod
 
 
 discovered_by = KAZ

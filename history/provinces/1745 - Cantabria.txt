@@ -1,7 +1,10 @@
 #1745 - Cantabria
 
-owner = ASU		#Enrique III of Castille
-controller = ASU
+#owner = CAS		#Enrique III of Castille		#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+owner = ASU			#5s-minors-mod
+controller = ASU	#5s-minors-mod
 add_core = ASU
 culture = castillian
 religion = catholic

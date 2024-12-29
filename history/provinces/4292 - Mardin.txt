@@ -1,8 +1,10 @@
 #4392 - Mardin
 
-owner = HSN
-controller = HSN
-add_core = HSN
+#owner = AKK		#5s-minors-mod
+#controller = AKK	#5s-minors-mod
+owner = HSN			#5s-minors-mod
+controller = HSN	#5s-minors-mod
+add_core = HSN		#5s-minors-mod
 culture = kurdish
 religion = sunni
 capital = "Mardin"
@@ -12,6 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
+#add_core = AKK		#5s-minors-mod
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim
@@ -20,8 +23,7 @@ discovered_by = eastern
 discovered_by = nomad_group
 #fort_15th = yes #The Citadel of Mardin which withstood repeated sieges by Timur and was frequently seiged in Ottoman-Safavid conflicts.
 
-1435.1.1 = { unrest = 10 } #Ak Koyunlu Civil War
-1444.1.1 = { unrest = 0 } #5s league minors mod
+#1435.1.1 = { unrest = 10 } #Ak Koyunlu Civil War		#5s-minors-mod
 1453.1.1 = { unrest = 0 } #Ak Koyunlu Civil War
 1453.1.1 = { discovered_by = western }
 1507.1.1 = {

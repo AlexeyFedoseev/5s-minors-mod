@@ -1,8 +1,10 @@
 #343 - Fez
 
-owner = FEZ
-controller = FEZ 
-add_core = FEZ
+#owner = MOR		#5s-minors-mod
+#controller = MOR 	#5s-minors-mod
+owner = FEZ			#5s-minors-mod
+controller = FEZ 	#5s-minors-mod
+add_core = FEZ		#5s-minors-mod
 culture = moroccan
 religion = sunni
 capital = "Fez"
@@ -13,6 +15,11 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
+#add_core = MOR		#5s-minors-mod
+#add_core = FEZ		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

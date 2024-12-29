@@ -1,8 +1,11 @@
 #1768 - Lienz
 
-owner = TIR
-controller = TIR
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+owner = TIR			#5s-minors-mod
+controller = TIR	#5s-minors-mod
 add_core = TIR
+#add_core = HAB		#5s-minors-mod
 culture = austrian
 religion = catholic
 base_tax = 4 
@@ -12,6 +15,9 @@ base_manpower = 2
 capital = "Lienz" 
 is_city = yes
 hre = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

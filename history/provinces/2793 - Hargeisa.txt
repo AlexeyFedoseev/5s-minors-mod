@@ -1,8 +1,11 @@
 #2793 - Hargeisa
 
-owner = HAR
-controller = HAR
-add_core = HAR
+#owner = ADA		#5s-minors-mod
+#controller = ADA	#5s-minors-mod
+#add_core = ADA		#5s-minors-mod
+owner = HAR			#5s-minors-mod
+controller = HAR	#5s-minors-mod
+add_core = HAR		#5s-minors-mod
 culture = somali
 religion = sunni
 capital = "Hargeisa"

@@ -1,8 +1,10 @@
 #2068 - Siwistan
 
-owner = MUL
-controller = MUL
-add_core = MUL
+#owner = BAL		#5s-minors-mod
+#controller = BAL	#5s-minors-mod
+owner = MUL			#5s-minors-mod
+controller = MUL	#5s-minors-mod
+add_core = MUL		#5s-minors-mod		# ???
 culture = baluchi
 religion = sunni
 capital = "Siwi"
@@ -12,6 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = BAL		#5s-minors-mod
+#add_core = SND		#5s-minors-mod
 
 
 

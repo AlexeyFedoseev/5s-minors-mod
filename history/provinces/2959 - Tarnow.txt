@@ -1,9 +1,11 @@
 #2959 - Tarnow
 
-owner = KRA
-controller = KRA
-add_core = KRA
-capital = "Tarn�w"
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = KRA			#5s-minors-mod
+controller = KRA	#5s-minors-mod
+add_core = KRA		#5s-minors-mod
+capital = "Tarnów"
 culture = polish
 religion = catholic
 trade_goods = grain
@@ -12,7 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = POL		#5s-minors-mod
 
 
 discovered_by = KAZ

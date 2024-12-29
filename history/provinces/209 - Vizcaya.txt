@@ -1,8 +1,12 @@
 #209 - Vizcaya
 
-owner = NAV		#Juan II de Castilla
-controller = NAV
-add_core = NAV
+#owner = CAS		#Juan II de Castilla 	#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+#add_core = ASU		#5s-minors-mod
+owner = NAV			#5s-minors-mod
+controller = NAV	#5s-minors-mod
+add_core = NAV		#5s-minors-mod
 culture = basque
 religion = catholic
 hre = no
@@ -18,7 +22,12 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1516.1.23 = {	controller = SPA
+1516.1.23 = {	
+	add_core = NAV
+}
+
+1516.1.23 = {	
+	controller = SPA
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille

@@ -1,8 +1,11 @@
 # No previous file for Bendugu
 
-owner = JNN
-controller = JNN
-add_core = JNN
+#owner = MAL		#5s-minors-mod
+#controller = MAL	#5s-minors-mod
+#add_core = MAL		#5s-minors-mod
+owner = JNN			#5s-minors-mod
+controller = JNN	#5s-minors-mod
+add_core = JNN		#5s-minors-mod
 is_city = yes
 culture = bozo 
 religion = shamanism #Fetishism
@@ -16,13 +19,14 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
+#add_local_autonomy = 25	#5s-minors-mod
 
 1600.1.1 = {
 	owner = MOR
 	controller = MOR
 	add_core = MOR
 	discovered_by = MOR
-} #Collapse of Mali after the battle of Jenn�
+} #Collapse of Mali after the battle of Jenné
 1618.1.1 = {
 	owner = JNN
 	controller = JNN

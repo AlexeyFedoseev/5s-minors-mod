@@ -1,7 +1,9 @@
 #Paderborn
-owner = PAD
-controller = PAD
-add_core = PAD
+#owner = KOL		#5s-minors-mod
+#controller = KOL	#5s-minors-mod
+owner = PAD			#5s-minors-mod
+controller = PAD	#5s-minors-mod
+add_core = PAD		#5s-minors-mod
 culture = hannoverian
 religion = catholic
 trade_goods = wool
@@ -10,7 +12,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 hre = yes
-is_city = yes # Paderborn is through its history dependant on M�nster and K�ln.
+is_city = yes # Paderborn is through its history dependant on Münster and Köln.
+#add_core = KOL		#5s-minors-mod
+#add_core = PAD		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

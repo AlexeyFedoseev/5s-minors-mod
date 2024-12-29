@@ -1,8 +1,10 @@
 #4122 - Shenkursk
 
-owner = ARH 
-controller = ARH 
-add_core = ARH
+#owner = NOV 		#5s-minors-mod
+#controller = NOV 	#5s-minors-mod
+owner = ARH 		#5s-minors-mod
+controller = ARH 	#5s-minors-mod
+add_core = ARH		#5s-minors-mod
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -11,7 +13,9 @@ base_production = 1
 trade_goods = fur 
 base_manpower = 1
 capital = "Shenkursk"
+#add_local_autonomy = 50		#5s-minors-mod
 is_city = yes
+#add_core = NOV		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

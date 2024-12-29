@@ -1,8 +1,11 @@
 #807 - Abancay
 
-owner = WKA
-controller = WKA
-add_core = WKA
+#owner = CSU		#5s-minors-mod
+#controller = CSU	#5s-minors-mod
+#add_core = CSU		#5s-minors-mod
+owner = WKA			#5s-minors-mod
+controller = WKA	#5s-minors-mod
+add_core = WKA		#5s-minors-mod
 culture = inca
 religion = inti
 capital = "Abancay"
@@ -12,6 +15,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+
+
+
 discovered_by = south_american
 discovered_by = andean
 

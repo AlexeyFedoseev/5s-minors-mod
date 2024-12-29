@@ -2,7 +2,7 @@
 
 owner = SUK 
 controller = SUK
-add_core = SUK
+add_core = SUK		#5s-minors-mod
 culture = central_thai
 religion = buddhism
 capital = "Phitsanulok"
@@ -12,6 +12,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = AYU		#5s-minors-mod
+#add_core = SUK		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 

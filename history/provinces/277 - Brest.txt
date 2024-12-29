@@ -1,8 +1,10 @@
 #Brest-Litovsk
 
-owner = MSK
-controller = MSK  
-add_core = MSK
+#owner = LIT		#5s-minors-mod
+#controller = LIT  	#5s-minors-mod
+owner = MSK			#5s-minors-mod
+controller = MSK  	#5s-minors-mod
+add_core = MSK		#5s-minors-mod
 culture = byelorussian
 religion = orthodox
 hre = no
@@ -12,6 +14,7 @@ trade_goods = wool
 base_manpower = 2
 capital = "Brest-Litovsk"
 is_city = yes 
+#add_core = LIT		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

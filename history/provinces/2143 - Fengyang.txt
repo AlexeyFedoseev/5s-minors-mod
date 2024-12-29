@@ -1,8 +1,11 @@
 # 2143 - Fengyang
 
-owner = TNG
-controller = TNG
-add_core = TNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = TNG			#5s-minors-mod
+controller = TNG	#5s-minors-mod
+add_core = TNG		#5s-minors-mod
 culture = zhongyuan
 religion = confucianism
 capital = "Fengyang"

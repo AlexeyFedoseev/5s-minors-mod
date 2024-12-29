@@ -2,7 +2,7 @@
 
 owner = SYR
 controller = SYR
-add_core = SYR
+add_core = SYR		#5s-minors-mod
 culture = al_suryah_arabic
 religion = sunni
 capital = "Halab"
@@ -12,7 +12,7 @@ base_tax = 9
 base_production = 9
 base_manpower = 4
 is_city = yes
-estate = estate_burghers
+#add_core = SYR		#5s-minors-mod
 fort_15th = yes
 discovered_by = east_african
 discovered_by = muslim

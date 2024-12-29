@@ -1,9 +1,11 @@
 #1979 - Färöarna
 
-owner = ICE
-controller = ICE 
-add_core = ICE
-culture = norwegian
+#owner = NOR		#5s-minors-mod
+#controller = NOR 	#5s-minors-mod
+owner = ICE			#5s-minors-mod
+controller = ICE 	#5s-minors-mod
+add_core = ICE		#5s-minors-mod
+culture = icelandic
 religion = catholic
 hre = no
 base_tax = 1 
@@ -12,6 +14,10 @@ base_manpower = 1
 trade_goods = fish
 capital = "Torshavn"
 is_city = yes
+#add_core = NOR		#5s-minors-mod
+
+
+
 discovered_by = western
 
 

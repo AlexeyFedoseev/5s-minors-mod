@@ -1,8 +1,10 @@
 #151 - Constantinople
 
-owner = GRE
-controller = GRE
-add_core = GRE
+#owner = BYZ		#5s-minors-mod
+#controller = BYZ	#5s-minors-mod
+owner = GRE			#5s-minors-mod
+controller = GRE	#5s-minors-mod
+add_core = GRE		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Constantinople"
@@ -13,6 +15,7 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes 
+#add_core = BYZ		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -25,11 +28,21 @@ add_permanent_province_modifier = {
 	name = bosphorous_sound_toll
 	duration = -1
 }
+#add_province_modifier = {
+#	name = BYZ_depopulation
+#	duration = -1
+#}
+
+add_province_triggered_modifier = BYZ_galata
+
+
 
 1453.5.29 = {
 	owner = TUR
 	controller = TUR
 	add_core = TUR
+	remove_province_triggered_modifier = BYZ_galata
+	#remove_province_modifier = BYZ_depopulation
 } # The fall of the Byzantine Empire
 1459.1.1 = { culture = turkish religion = sunni }
 1481.6.1 = { unrest = 6 } # Civil war, Bayezid & Jem
@@ -42,7 +55,7 @@ add_permanent_province_modifier = {
 1622.6.1 = { controller = TUR unrest = 0 } # Mustafa I, estimated
 1623.1.1 = { unrest = 10 } # The empire fell into anarchy, Janissaries stormed the palace
 1625.1.1 = { unrest = 0 } # Murad tries to quell the corruption
-1651.1.1 = { unrest = 5 } # The murder of K�sem Sultana
+1651.1.1 = { unrest = 5 } # The murder of Kösem Sultana
 1652.1.1 = { unrest = 0 }
 1690.1.1 = { base_tax = 10 
 base_production = 10 } #The Decentralizing Effect of the Provincial System

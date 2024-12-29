@@ -1,7 +1,10 @@
 #50 - Uckermark + Stargard, etc
 
-owner = STE
-controller = STE
+#owner = BRA		#5s-minors-mod
+#controller = BRA	#5s-minors-mod
+#add_core = BRA		#5s-minors-mod
+owner = STE			#5s-minors-mod
+controller = STE	#5s-minors-mod
 add_core = STE
 culture = pommeranian
 religion = catholic
@@ -12,6 +15,9 @@ trade_goods = cloth
 base_manpower = 1
 capital = "Prenzlau"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

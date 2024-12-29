@@ -1,7 +1,10 @@
 #1206 - Qardho
 
-owner = MJE
-controller = MJE
+#owner = MRE		#5s-minors-mod
+#controller = MRE	#5s-minors-mod
+#add_core = MRE		#5s-minors-mod
+owner = MJE			#5s-minors-mod
+controller = MJE	#5s-minors-mod
 add_core = MJE
 culture = somali
 religion = sunni

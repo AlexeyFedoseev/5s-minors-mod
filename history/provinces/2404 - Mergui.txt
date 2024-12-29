@@ -1,8 +1,10 @@
 #2404 - Mergui
 
-owner = LIG
-controller = LIG
-add_core = LIG
+#owner = AYU		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = LIG			#5s-minors-mod
+controller = LIG	#5s-minors-mod
+add_core = LIG		#5s-minors-mod
 culture = mon
 religion = buddhism
 capital = "Mergui"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-
+#add_core = AYU		#5s-minors-mod
 
 
 

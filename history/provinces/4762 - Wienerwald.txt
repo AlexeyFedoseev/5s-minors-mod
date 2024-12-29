@@ -1,15 +1,18 @@
 #4762 - Wienerwald 
 
-owner = WIN
-controller = WIN
-add_core = WIN
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+owner = WIN			#5s-minors-mod
+controller = WIN	#5s-minors-mod
+add_core = WIN		#5s-minors-mod
 culture = austrian
 religion = catholic
 base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
-capital = "Sankt P�lten" 
+capital = "Sankt Pölten" 
 is_city = yes
 hre = yes
 discovered_by = KAZ

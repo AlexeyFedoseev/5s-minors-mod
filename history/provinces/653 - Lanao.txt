@@ -1,8 +1,8 @@
 #653 - Lanao
 
-owner = LNO
-controller = LNO
-add_core = LNO
+owner = LNO			#5s-minors-mod
+controller = LNO	#5s-minors-mod
+add_core = LNO		#5s-minors-mod
 culture = filipino
 religion = animism
 capital = "Marawi"
@@ -12,6 +12,10 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
+#owner = MGD		#5s-minors-mod
+#controller = MGD	#5s-minors-mod
+#add_core = MGD		#5s-minors-mod
+#add_core = LNO		#5s-minors-mod
 discovered_by = chinese
 
 1450.1.1 = { religion = sunni }

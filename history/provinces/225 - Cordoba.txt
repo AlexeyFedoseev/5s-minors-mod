@@ -1,16 +1,19 @@
-#225 - C�rdoba
+#225 - Córdoba
 
-owner = GRA		#Juan II of Castille
-controller = GRA
-add_core = GRA
+#owner = CAS		#Juan II of Castille		#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+owner = GRA			#5s-minors-mod
+controller = GRA	#5s-minors-mod
+add_core = GRA		#5s-minors-mod
 culture = andalucian
 religion = catholic
 hre = no
 base_tax = 4 
 base_production = 4
-trade_goods = wool
+trade_goods = grain
 base_manpower = 2
-capital = "C�rdoba" 
+capital = "Córdoba" 
 is_city = yes
 discovered_by = western
 discovered_by = muslim
@@ -23,7 +26,7 @@ discovered_by = eastern
 	controller = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andaluc�a, unlike Valencia, this was performed uneventfully.
+1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, unlike Valencia, this was performed uneventfully.
 1713.4.11 = { remove_core = CAS }
 1808.6.6 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
 1811.1.1 = { revolt = {} controller = SPA }

@@ -1,8 +1,8 @@
 #2307 - Van
 
-owner = BTL
+owner = BTL #Zahids
 controller = BTL
-add_core = BTL
+add_core = BTL		#5s-minors-mod
 culture = armenian
 religion = coptic
 capital = "Van"
@@ -12,6 +12,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = BTL		#5s-minors-mod
+#add_core = ARM		#5s-minors-mod
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

@@ -1,7 +1,10 @@
 #2783 - Hobyo
 
-owner = HOB
-controller = HOB
+#owner = AJU		#5s-minors-mod
+#controller = AJU	#5s-minors-mod
+#add_core = AJU		#5s-minors-mod
+owner = HOB			#5s-minors-mod
+controller = HOB	#5s-minors-mod
 add_core = HOB
 culture = somali
 religion = sunni

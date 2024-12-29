@@ -1,8 +1,10 @@
 #507 - Lahore
 
-owner = PTA
-controller = PTA
-add_core = PTA
+#owner = SRH		#5s-minors-mod
+#controller = SRH	#5s-minors-mod
+owner = PTA			#5s-minors-mod
+controller = PTA	#5s-minors-mod
+add_core = PTA		#5s-minors-mod
 culture = panjabi
 religion = hinduism
 capital = "Lahore"
@@ -12,7 +14,10 @@ base_tax = 10
 base_production = 10
 base_manpower = 3
 is_city = yes
-estate = estate_church
+#add_core = MUL		#5s-minors-mod
+#add_core = DLH		#5s-minors-mod
+#add_core = PUN		#5s-minors-mod
+#add_core = SRH		#5s-minors-mod
 fort_15th = yes #Lahore Fort
 #Data Durbar Complex
 discovered_by = indian

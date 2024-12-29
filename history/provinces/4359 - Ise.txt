@@ -2,7 +2,7 @@
 
 owner = KTB
 controller = KTB
-add_core = KTB
+add_core = KTB		#5s-minors-mod
 culture = japanese
 religion = shinto
 capital = "Kiriyama"
@@ -12,7 +12,8 @@ base_tax = 3
 base_manpower = 1
 base_production = 2
 is_city = yes
-
+#add_core = KTB		#5s-minors-mod
+#add_core = ISK		#5s-minors-mod
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

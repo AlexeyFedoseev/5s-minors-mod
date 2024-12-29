@@ -4,9 +4,11 @@ latent_trade_goods = {
 	coal
 }
 
-owner = TRA
-controller = TRA 
-add_core = TRA
+#owner = HUN		#5s-minors-mod
+#controller = HUN 	#5s-minors-mod
+owner = TRA			#5s-minors-mod
+controller = TRA 	#5s-minors-mod
+add_core = TRA		#5s-minors-mod
 culture = transylvanian
 religion = orthodox
 capital = "Alba Iulia"
@@ -16,6 +18,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = HUN		#5s-minors-mod
+#add_core = TRA		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

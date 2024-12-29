@@ -1,8 +1,10 @@
 #2058 - Mewar (Kotharia/Udaipur)
 
-owner = MAW
-controller = MAW
-add_core = MAW
+#owner = MER		#5s-minors-mod
+#controller = MER	#5s-minors-mod
+owner = MAW			#5s-minors-mod
+controller = MAW	#5s-minors-mod
+add_core = MAW		#5s-minors-mod
 culture = rajput
 religion = hinduism
 capital = "Kotharia"
@@ -13,6 +15,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = MER		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

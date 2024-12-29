@@ -1,8 +1,10 @@
 #335 - Melilla
 
-owner = FEZ
-controller = FEZ
-add_core = FEZ
+#owner = MOR		#5s-minors-mod
+#controller = MOR	#5s-minors-mod
+owner = FEZ			#5s-minors-mod
+controller = FEZ	#5s-minors-mod
+add_core = FEZ		#5s-minors-mod
 culture = berber
 religion = sunni
 capital = "Melilla"
@@ -12,7 +14,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-estate = estate_nobles
+#add_core = FEZ		#5s-minors-mod
+#add_core = MOR		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

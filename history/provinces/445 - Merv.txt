@@ -1,9 +1,11 @@
 #445 - Marv
 
-owner = TRS
-controller = TRS
-add_core = TRS
-culture = uzbehk
+#owner = TIM		#5s-minors-mod
+#controller = TIM	#5s-minors-mod
+owner = TRS			#5s-minors-mod
+controller = TRS	#5s-minors-mod
+add_core = TRS		#5s-minors-mod
+culture = uzbehk	# ???
 religion = sunni
 capital = "Merv"
 trade_goods = cotton
@@ -12,6 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = TIM		#5s-minors-mod
+#add_core = KHO		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

@@ -1,7 +1,10 @@
-#128 - K�rnten
+#128 - Kärnten
 
-owner = STY
-controller = STY
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+owner = STY			#5s-minors-mod
+controller = STY	#5s-minors-mod
 add_core = STY
 culture	= austrian
 religion = catholic
@@ -13,6 +16,9 @@ fort_15th = yes #Hochosterwitz Castle
 capital = "Klagenfurt" 
 is_city = yes
 hre = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,5 +1,8 @@
-owner = SYO
-controller = SYO
+#owner = KON		#5s-minors-mod
+#controller = KON	#5s-minors-mod
+#add_core = KON		#5s-minors-mod
+owner = SYO			#5s-minors-mod
+controller = SYO	#5s-minors-mod
 add_core = SYO
 culture = kongolese
 religion = shamanism #Fetishism

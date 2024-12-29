@@ -1,9 +1,7 @@
 #Ume, Åsele, Piteå Lappmarks
 
-owner = SMI
-controller = SMI
-add_core = SMI
 capital = "Arvidsjaur"
+add_core = SMI
 culture = sapmi
 religion = catholic
 hre = no
@@ -19,14 +17,15 @@ discovered_by = western
 
 
 1440.1.1 = {
-	owner = SWE
-	controller = SWE 
+	#owner = SWE		#5s-minors-mod
+	#controller = SWE 	#5s-minors-mod
+	owner = SMI			#5s-minors-mod
+	controller = SMI	#5s-minors-mod
 	add_core = SWE
 	is_city = yes
-	#add_local_autonomy = 70
+	#add_local_autonomy = 70	#5s-minors-mod
 	trade_goods = fur
 }
-1444.1.1 = { owner = SMI controller = SMI add_core = SMI remove_core = SWE } #5s league minors mod
 1607.1.1 = { capital = "Lycksele" }
 1640.1.2 = { culture = swedish }
 1640.1.2 = { religion = protestant }

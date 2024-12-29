@@ -1,8 +1,11 @@
 # No previous file for Mema
 
-owner = SOF
-controller = SOF
-add_core = SOF
+#owner = TMB		#5s-minors-mod
+#controller = TMB	#5s-minors-mod
+#add_core = TMB		#5s-minors-mod
+owner = SOF			#5s-minors-mod
+controller = SOF	#5s-minors-mod
+add_core = SOF		#5s-minors-mod
 is_city = yes
 culture = bambara 
 religion = sunni

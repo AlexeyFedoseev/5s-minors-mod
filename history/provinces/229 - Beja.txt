@@ -1,9 +1,11 @@
 #229 - Baixo Alentejo
 
-owner = BIR
-controller = BIR
-add_core = BIR
-add_claim = PRT
+#owner = POR		#5s-minors-mod
+#controller = POR	#5s-minors-mod
+owner = BIR			#5s-minors-mod
+controller = BIR	#5s-minors-mod
+add_core = BIR		#5s-minors-mod
+add_claim = PRT		#5s-minors-mod
 culture = portugese
 religion = catholic
 capital = "Beja"
@@ -13,13 +15,14 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = POR		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
 
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragan�a
+1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }
 1704.1.1 = { controller = SPA } # War of the Spanish succession
 1713.4.11 = { controller = POR } # Treaty of Utrecht

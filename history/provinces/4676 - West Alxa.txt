@@ -1,6 +1,9 @@
-owner = HMI
-controller = HMI
-add_core = HMI
+#owner = OIR		#5s-minors-mod
+#controller = OIR	#5s-minors-mod
+#add_core = OIR		#5s-minors-mod
+owner = HMI			#5s-minors-mod
+controller = HMI	#5s-minors-mod
+add_core = HMI		#5s-minors-mod
 culture = mongol
 religion = vajrayana
 capital = "Badain Jaran"

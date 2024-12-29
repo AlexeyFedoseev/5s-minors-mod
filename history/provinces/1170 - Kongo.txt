@@ -1,8 +1,10 @@
 #1170 - Kongo
 
-owner = SYO
-controller = SYO 
-add_core = SYO
+#owner = KON		#5s-minors-mod
+#controller = KON 	#5s-minors-mod
+owner = SYO			#5s-minors-mod
+controller = SYO 	#5s-minors-mod
+add_core = SYO		#5s-minors-mod
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "M'banza Kongo"
@@ -12,12 +14,11 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-extra_cost = 16
-center_of_trade = 2
-
-
+#add_core = KON		#5s-minors-mod
 discovered_by = central_african
 discovered_by = sub_saharan
+extra_cost = 16
+center_of_trade = 2
 
 1483.1.1 = { discovered_by = POR } # Diogo Cão
 1560.1.1 = { capital = "São Salvador do Congo" } # ~1976, The name is changed to Mbanza Kongo again 

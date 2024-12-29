@@ -1,8 +1,11 @@
 #1757 - Oberpfalz
 
-owner = BYT
-controller = BYT
-add_core = BYT
+#owner = PAL		#5s-minors-mod
+#controller = PAL	#5s-minors-mod
+#add_core = PAL		#5s-minors-mod
+owner = BYT			#5s-minors-mod
+controller = BYT	#5s-minors-mod
+add_core = BYT		#5s-minors-mod
 culture = bavarian
 religion = catholic
 base_tax = 3
@@ -13,6 +16,9 @@ capital	= "Amberg"
 is_city = yes
 fort_15th = yes
 hre = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

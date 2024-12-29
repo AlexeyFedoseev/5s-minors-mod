@@ -1,8 +1,10 @@
 #1120 - Bambuk
 
-owner = KBU
-controller = KBU
-add_core = KBU
+#owner = MAL		#5s-minors-mod
+#controller = MAL	#5s-minors-mod
+owner = KBU			#5s-minors-mod
+controller = KBU	#5s-minors-mod
+add_core = KBU		#5s-minors-mod
 culture = soninke
 is_city = yes
 base_manpower = 2
@@ -12,6 +14,10 @@ trade_goods = gold
 hre = no
 base_tax = 6 
 base_production = 6
+#add_core = MAL		#5s-minors-mod
+
+
+
 discovered_by = sub_saharan
 
 

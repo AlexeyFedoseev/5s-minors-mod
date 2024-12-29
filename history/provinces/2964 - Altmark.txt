@@ -1,8 +1,11 @@
 #52 - Altmark
 
-owner = LUN
-controller = LUN
-add_core = LUN
+#owner = BRA		#5s-minors-mod
+#controller = BRA	#5s-minors-mod
+#add_core = BRA		#5s-minors-mod
+owner = LUN			#5s-minors-mod
+controller = LUN	#5s-minors-mod
+add_core = LUN		#5s-minors-mod
 culture = saxon
 religion = catholic
 hre = yes
@@ -12,6 +15,9 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Stendal"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

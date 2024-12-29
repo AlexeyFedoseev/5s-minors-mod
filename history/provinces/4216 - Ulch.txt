@@ -1,9 +1,11 @@
 #4216 - Ulch
 
-owner = MYR
-controller = MYR
-add_core = MYR
-
+#owner = NHX		#5s-minors-mod
+#controller = NHX	#5s-minors-mod
+#add_core = NHX		#5s-minors-mod
+owner = MYR			#5s-minors-mod
+controller = MYR	#5s-minors-mod
+add_core = MYR		#5s-minors-mod
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Ulch"

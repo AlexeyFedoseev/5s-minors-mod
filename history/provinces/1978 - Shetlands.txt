@@ -1,8 +1,10 @@
 #1978 - Shetlands
 
-owner = ICE
-controller = ICE
-add_core = ICE
+#owner = NOR		#5s-minors-mod
+#controller = NOR	#5s-minors-mod
+owner = ICE			#5s-minors-mod
+controller = ICE	#5s-minors-mod
+add_core = ICE		#5s-minors-mod
 culture = norwegian
 religion = catholic
 hre = no
@@ -12,6 +14,10 @@ trade_goods = fish
 base_manpower = 1
 capital = "Lerwick"
 is_city = yes # Estimated
+#add_core = NOR		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,8 +1,10 @@
 #269 - Podlasia
 
-owner = MAZ
-controller = MAZ
-add_core = MAZ
+#owner = LIT		#5s-minors-mod
+#controller = LIT	#5s-minors-mod
+owner = MAZ			#5s-minors-mod
+controller = MAZ	#5s-minors-mod
+add_core = MAZ		#5s-minors-mod
 culture = polish
 religion = catholic
 hre = no
@@ -12,6 +14,7 @@ base_production = 5
 base_manpower = 3
 capital = "Drohiczyn"
 is_city = yes
+#add_core = LIT	#5s-minors-mod
 #fort_15th = yes
 discovered_by = western
 discovered_by = eastern

@@ -1,8 +1,10 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 
-owner = AHM
-controller = AHM
-add_core = AHM
+#owner = BAH		#5s-minors-mod
+#controller = BAH	#5s-minors-mod
+owner = AHM			#5s-minors-mod
+controller = AHM	#5s-minors-mod
+add_core = AHM		#5s-minors-mod
 culture = marathi
 religion = hinduism
 capital = "Chaul"
@@ -11,7 +13,10 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 2
+#add_local_autonomy = 75	#5s-minors-mod
 is_city = yes
+#add_core = BIJ		#5s-minors-mod
+#add_core = VIJ		#5s-minors-mod
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim 
@@ -22,12 +27,12 @@ discovered_by = east_african
 extra_cost = 16
 center_of_trade = 2
 
-1380.1.1 = {
-	controller = VIJ
-	owner = VIJ
-} # Taken by Harihara II
-1444.1.1 = { add_core = BAH }
-1444.1.2 = { remove_core = BAH owner = AHM controller = AHM } # 5s league minors mod
+#5s-minors-mod
+#1380.1.1 = {
+#	controller = VIJ
+#	owner = VIJ
+#} # Taken by Harihara II
+#1444.1.1 = { add_core = BAH }
 1469.1.1 = { controller = BAH } # Taken by Bahmanis
 1470.1.1 = { owner = BAH } # Taken by Bahmanis
 1490.1.1 = {

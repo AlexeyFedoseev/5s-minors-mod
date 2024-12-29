@@ -1,17 +1,24 @@
-#56 - Osnabr�ck
+#56 - Osnabrück
 
-owner = OSN
-controller = OSN
-add_core = OSN
+#owner = MUN		#5s-minors-mod
+#controller = MUN	#5s-minors-mod
+owner = OSN			#5s-minors-mod
+controller = OSN	#5s-minors-mod
+add_core = OSN		#5s-minors-mod
 culture = hannoverian
 religion = catholic
-capital = "Osnabr�ck"
+capital = "Osnabrück"
 trade_goods = salt
 hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = MUN		#5s-minors-mod
+#add_core = OSN		#5s-minors-mod
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

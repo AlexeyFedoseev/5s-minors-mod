@@ -1,8 +1,10 @@
 #2387 - Phetchaburi
 
-owner = LIG 
-controller = LIG
-add_core = LIG
+#owner = AYU 		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = LIG 		#5s-minors-mod
+controller = LIG	#5s-minors-mod
+add_core = LIG		#5s-minors-mod
 culture = central_thai
 religion = buddhism
 capital = "Phetchaburi"
@@ -12,7 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-
+#add_core = AYU		#5s-minors-mod
 
 
 

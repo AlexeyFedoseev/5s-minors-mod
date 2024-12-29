@@ -1,8 +1,10 @@
 #2306 - Mush
 
-owner = SME
-controller = SME
-add_core = SME
+#owner = AKK		#5s-minors-mod
+#controller = AKK	#5s-minors-mod
+owner = SME			#5s-minors-mod
+controller = SME	#5s-minors-mod
+add_core = SME		#5s-minors-mod
 culture = armenian
 religion = coptic
 capital = "Mus"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = AKK		#5s-minors-mod
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

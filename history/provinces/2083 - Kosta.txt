@@ -1,8 +1,10 @@
 #2083 - Kosta
 
-owner = KRK
-controller = KRK
-add_core = KRK
+#owner = VIJ		#5s-minors-mod
+#controller = VIJ	#5s-minors-mod
+owner = KRK			#5s-minors-mod
+controller = KRK	#5s-minors-mod
+add_core = KRK		#5s-minors-mod
 culture = telegu
 religion = hinduism
 capital = "Udayagiri"
@@ -12,6 +14,8 @@ base_tax = 2
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = YOR		#5s-minors-mod
+#add_core = VIJ		#5s-minors-mod
 fort_15th = yes #The Great Forts of the East - Udayagiri fort
 discovered_by = indian
 discovered_by = muslim

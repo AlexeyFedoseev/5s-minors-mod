@@ -1,8 +1,10 @@
 #2320 - Ras Gharib
 
-owner = CAR
-controller = CAR
-add_core = CAR
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = CAR			#5s-minors-mod
+controller = CAR	#5s-minors-mod
+add_core = CAR		#5s-minors-mod
 culture = al_misr_arabic
 religion = sunni
 capital = "Ras Gharib"
@@ -12,6 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = MAM		#5s-minors-mod
 
 discovered_by = western
 discovered_by = muslim

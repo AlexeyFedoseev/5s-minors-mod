@@ -1,8 +1,10 @@
 # 4728 - Pavia
 
-owner = MFA
-controller = MFA
-add_core = MFA
+#owner = MLO		#5s-minors-mod
+#controller = MLO	#5s-minors-mod
+owner = MFA			#5s-minors-mod
+controller = MFA	#5s-minors-mod
+add_core = MFA		#5s-minors-mod
 culture = lombard
 religion = catholic
 hre = yes
@@ -12,6 +14,10 @@ trade_goods = grain
 base_manpower = 5
 capital = "Pavia"
 is_city = yes	# Estimated
+#add_core = MLO		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

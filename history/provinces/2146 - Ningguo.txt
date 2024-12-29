@@ -1,8 +1,11 @@
 # 2144 - Ningguo
 
-owner = NNG
-controller = NNG
-add_core = NNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = NNG			#5s-minors-mod
+controller = NNG	#5s-minors-mod
+add_core = NNG		#5s-minors-mod
 culture = wu
 religion = confucianism
 capital = "Ningguo"

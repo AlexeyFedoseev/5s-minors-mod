@@ -1,7 +1,10 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = FIN
-controller = FIN
+#owner = SWE		#5s-minors-mod
+#controller = SWE	#5s-minors-mod
+#add_core = SWE		#5s-minors-mod
+owner = FIN			#5s-minors-mod
+controller = FIN	#5s-minors-mod
 add_core = FIN
 culture = finnish
 religion = catholic
@@ -12,6 +15,7 @@ trade_goods = fur
 base_manpower = 1
 capital = "Olofsborg"
 is_city = yes
+#fort_15th = yes
 discovered_by = western
 discovered_by = eastern
 

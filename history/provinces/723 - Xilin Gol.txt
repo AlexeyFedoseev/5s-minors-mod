@@ -1,8 +1,11 @@
 #723 - Xilin Gol
 
-owner = CHH	# The Oirads united much of Mongolia
-controller = CHH
-add_core = CHH
+#owner = KHA	# The Oirads united much of Mongolia	#5s-minors-mod
+#controller = KHA	#5s-minors-mod
+#add_core = KHA		#5s-minors-mod
+owner = CHH			#5s-minors-mod
+controller = CHH	#5s-minors-mod
+add_core = CHH		#5s-minors-mod
 culture = mongol
 religion = vajrayana
 capital = "Xilin Gol"
@@ -14,6 +17,7 @@ base_manpower = 2
 is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
+#add_core = CHH		#5s-minors-mod
 
 1552.1.1 = {
 	owner = KHA

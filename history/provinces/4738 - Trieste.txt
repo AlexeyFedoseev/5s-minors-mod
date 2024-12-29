@@ -1,8 +1,10 @@
 # 4738 - Trieste
 
-owner = AQU
-controller = AQU
-add_core = AQU
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+owner = AQU			#5s-minors-mod
+controller = AQU	#5s-minors-mod
+add_core = AQU		#5s-minors-mod
 culture = venetian 
 religion = catholic 
 hre = yes
@@ -12,6 +14,9 @@ trade_goods = fish
 base_manpower = 2    
 capital = "Trieste" 
 is_city = yes # Estimated
+#add_core = HAB		#5s-minors-mod
+#add_core = STY		#5s-minors-mod
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

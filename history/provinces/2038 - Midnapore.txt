@@ -1,8 +1,10 @@
 #2038 - Midnapore
 
-owner = MBL
-controller = MBL
-add_core = MBL
+#owner = ORI		#5s-minors-mod
+#controller = ORI	#5s-minors-mod
+owner = MBL			#5s-minors-mod
+controller = MBL	#5s-minors-mod
+add_core = MBL		#5s-minors-mod
 culture = bengali
 religion = hinduism
 capital = "Midnapore"
@@ -12,7 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-
+#add_core = ORI		#5s-minors-mod
+#add_core = BNG		#5s-minors-mod
 
 
 

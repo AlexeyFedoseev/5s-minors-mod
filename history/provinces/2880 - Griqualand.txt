@@ -1,19 +1,23 @@
 # - Griqualand
 
-owner = ZUL
-controller = ZUL
-add_core = ZUL
-is_city = yes
-culture = nguni
+owner = ZUL				#5s-minors-mod
+controller = ZUL		#5s-minors-mod
+add_core = ZUL			#5s-minors-mod
+#culture = khoisan		#5s-minors-mod
+culture = nguni			#5s-minors-mod
 religion = shamanism #Fetishism
 capital = "Kimberley"
-trade_goods = wool
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = wool		#5s-minors-mod
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-
-discovered_by = ZUL
+#native_size = 5			#5s-minors-mod
+#native_ferocity = 1		#5s-minors-mod
+#native_hostileness = 1		#5s-minors-mod
+is_city = yes				#5s-minors-mod
+discovered_by = ZUL			#5s-minors-mod
 
 
 

@@ -1,8 +1,12 @@
 # 1880 - Sundgau
 
-owner = MLH
-controller = MLH
-add_core = MLH
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+#add_core = TIR		#5s-minors-mod
+owner = MLH			#5s-minors-mod
+controller = MLH	#5s-minors-mod
+add_core = MLH		#5s-minors-mod
 capital = "Altkirch"
 is_city = yes
 culture = swabian
@@ -12,6 +16,9 @@ base_tax = 3
 base_production = 3
 trade_goods = iron
 base_manpower = 3
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

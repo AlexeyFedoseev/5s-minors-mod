@@ -1,8 +1,11 @@
 #Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
 
-owner = FIN
-controller = FIN
-add_core = FIN
+#owner = SWE		#5s-minors-mod
+#controller = SWE	#5s-minors-mod
+#add_core = SWE		#5s-minors-mod
+owner = FIN			#5s-minors-mod
+controller = FIN	#5s-minors-mod
+add_core = FIN		#5s-minors-mod
 culture = swedish
 religion = catholic
 hre = no

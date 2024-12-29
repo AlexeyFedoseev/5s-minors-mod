@@ -2,7 +2,7 @@
 
 owner = BTL #Zahids
 controller = BTL
-add_core = BTL
+add_core = BTL		#5s-minors-mod
 culture = armenian
 religion = coptic
 capital = "Bayazid"
@@ -12,6 +12,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = BTL		#5s-minors-mod
+#add_core = ARM		#5s-minors-mod
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

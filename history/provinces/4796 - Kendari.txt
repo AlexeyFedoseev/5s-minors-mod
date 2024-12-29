@@ -1,15 +1,19 @@
-owner = BTN
-controller = BTN
-add_core = BTN
+owner = BTN			#5s-minors-mod
+controller = BTN	#5s-minors-mod
+add_core = BTN		#5s-minors-mod
 culture = sulawesi
 religion = animism
 capital = "Kendari"
-trade_goods = spices
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = spices	#5s-minors-mod
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = yes
+#native_size = 60		#5s-minors-mod
+#native_ferocity = 2	#5s-minors-mod
+#native_hostileness = 5	#5s-minors-mod
+is_city = yes			#5s-minors-mod
 
 
 

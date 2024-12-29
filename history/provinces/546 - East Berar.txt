@@ -1,8 +1,10 @@
 #546 - East Berar / Nagpur
 
-owner = BRR
-controller = BRR
-add_core = BRR
+#owner = BAH		#5s-minors-mod
+#controller = BAH	#5s-minors-mod
+owner = BRR			#5s-minors-mod
+controller = BRR	#5s-minors-mod
+add_core = BRR		#5s-minors-mod
 culture = gondi
 religion = hinduism
 capital = "Wairagarh"
@@ -12,6 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = BRR		#5s-minors-mod
+#add_core = BAH		#5s-minors-mod
 add_brahmins_or_church_effect = yes
 discovered_by = nomad_group
 discovered_by = indian

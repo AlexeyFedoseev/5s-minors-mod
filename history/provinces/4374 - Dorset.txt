@@ -1,7 +1,10 @@
 #4374 - Dorset
 
-owner = CRN
-controller = CRN
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = CRN			#5s-minors-mod
+controller = CRN	#5s-minors-mod
+add_core = CRN		#5s-minors-mod
 culture = english
 religion = catholic
 hre = no
@@ -11,7 +14,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Weymouth"
 is_city = yes
-add_core = CRN
+#add_core = ENG		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

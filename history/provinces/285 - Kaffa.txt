@@ -1,8 +1,10 @@
 #285 - Kaffa
 
-owner = FEO
-controller = FEO 
-add_core = FEO
+#owner = GEN		#5s-minors-mod
+#controller = GEN 	#5s-minors-mod
+owner = FEO			#5s-minors-mod
+controller = FEO 	#5s-minors-mod
+add_core = FEO		#5s-minors-mod
 culture = pontic_greek
 religion = orthodox
 hre = no
@@ -12,6 +14,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Kaffa"
 is_city = yes
+#add_core = GEN		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

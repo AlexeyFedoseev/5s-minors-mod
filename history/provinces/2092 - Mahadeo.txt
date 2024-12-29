@@ -1,7 +1,10 @@
 #2092 - Mahadeo
 
-owner = GDW
-controller = GDW
+#owner = GDW		#5s-minors-mod
+#controller = GDW	#5s-minors-mod
+owner = MLW			#5s-minors-mod
+controller = MLW	#5s-minors-mod
+add_core = MLW		#5s-minors-mod
 culture = gondi
 religion = hinduism
 capital = "Kherla"
@@ -11,6 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = GDW					#5s-minors-mod
+#add_local_autonomy = 50		#5s-minors-mod
 
 
 
@@ -21,11 +26,11 @@ discovered_by = ottoman
 discovered_by = chinese
 
 
-1418.1.1 = {
-	controller = MLW
-	owner = MLW
-	add_core = MLW
-}
+#1418.1.1 = {		#5s-minors-mod
+#	controller = MLW
+#	owner = MLW
+#	add_core = MLW
+#}
 1467.1.1 = {
 	owner = BAH
 	controller = BAH

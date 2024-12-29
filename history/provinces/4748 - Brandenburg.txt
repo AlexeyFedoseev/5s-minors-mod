@@ -1,8 +1,11 @@
 # 4748 - Brandenburg
 
-owner = RUP
-controller = RUP
-add_core = RUP
+#owner = BRA		#5s-minors-mod
+#controller = BRA	#5s-minors-mod
+#add_core = BRA		#5s-minors-mod
+owner = RUP			#5s-minors-mod
+controller = RUP	#5s-minors-mod
+add_core = RUP		#5s-minors-mod
 culture = saxon
 religion = catholic
 hre = yes
@@ -12,6 +15,9 @@ trade_goods = iron
 base_manpower = 3
 capital = "Brandenburg an der Havel"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

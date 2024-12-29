@@ -1,8 +1,11 @@
 # No previous file for Dallol
 
-owner = HAU
-controller = HAU
-add_core = HAU
+#owner = SON		#5s-minors-mod
+#controller = SON	#5s-minors-mod
+#add_core = SON		#5s-minors-mod
+owner = HAU			#5s-minors-mod
+controller = HAU	#5s-minors-mod
+add_core = HAU		#5s-minors-mod
 is_city = yes
 culture = songhai 
 religion = shamanism #Fetishism

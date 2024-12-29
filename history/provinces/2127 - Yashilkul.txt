@@ -1,8 +1,11 @@
 # 2127 - Yashilkul
 
-owner = KOK
-controller = KOK
-add_core = KOK
+#owner = KAS		#5s-minors-mod
+#controller = KAS	#5s-minors-mod
+#add_core = KAS		#5s-minors-mod
+owner = KOK			#5s-minors-mod
+controller = KOK	#5s-minors-mod
+add_core = KOK		#5s-minors-mod
 culture = uzbehk
 religion = shiite
 capital = "Yashilkul"

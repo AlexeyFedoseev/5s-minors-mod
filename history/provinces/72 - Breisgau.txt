@@ -1,8 +1,12 @@
 #72 - Breisgau
 
-owner = KNZ
-controller = KNZ
-add_core = KNZ
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+#add_core = TIR		#5s-minors-mod
+owner = KNZ			#5s-minors-mod
+controller = KNZ	#5s-minors-mod
+add_core = KNZ		#5s-minors-mod
 culture = swabian
 religion = catholic
 base_tax = 4 

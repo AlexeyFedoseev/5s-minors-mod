@@ -1,18 +1,20 @@
 #4526 - Gniezno
 
-owner = WPL
-controller = WPL
-add_core = WPL
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = WPL			#5s-minors-mod
+controller = WPL	#5s-minors-mod
+add_core = WPL		#5s-minors-mod
 culture = polish
 religion = catholic
 capital = "Gniezno"
-estate = estate_church
 trade_goods = cloth
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+#add_core = POL		#5s-minors-mod
 
 
 discovered_by = KAZ

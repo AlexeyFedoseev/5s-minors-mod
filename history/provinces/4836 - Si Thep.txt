@@ -1,8 +1,10 @@
 #592 - Ratchaburi
 
-owner = CHK
-controller = CHK
-add_core = CHK
+#owner = AYU		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = CHK			#5s-minors-mod
+controller = CHK	#5s-minors-mod
+add_core = CHK		#5s-minors-mod
 culture = khmer
 religion = buddhism
 capital = "Si Thep"
@@ -12,7 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-
+#add_core = AYU		#5s-minors-mod
 
 
 

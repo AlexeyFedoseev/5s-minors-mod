@@ -1,7 +1,10 @@
 #2470 - Haha
 
-owner = MOR
-controller = MOR
+#owner = MOR		#5s-minors-mod
+#controller = MOR	#5s-minors-mod
+owner = MRK			#5s-minors-mod
+controller = MRK	#5s-minors-mod
+add_core = MRK		#5s-minors-mod
 culture = berber
 religion = sunni
 capital = "Mogador"
@@ -11,7 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MOR
+#add_core = MOR		#5s-minors-mod
 
 
 
@@ -20,13 +23,12 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
-
-1444.1.1 = {
-	owner = MRK
-	controller = MRK
-	add_core = MRK
-	remove_core = MOR
-}
+#5s-minors-mod
+#1444.1.1 = {
+#	owner = MRK
+#	controller = MRK
+#	add_core = MRK
+#}
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = {
 	owner = SOS

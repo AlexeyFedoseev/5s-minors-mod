@@ -1,8 +1,11 @@
 #221 - Murcia
 
-owner = VAL		# Juan II of Castille
-controller = VAL
-add_core = VAL
+#owner = CAS		# Juan II of Castille	#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+owner = VAL			#5s-minors-mod
+controller = VAL	#5s-minors-mod
+add_core = VAL		#5s-minors-mod
 culture = andalucian
 religion = catholic 
 hre = no
@@ -12,6 +15,9 @@ trade_goods = grain
 base_manpower = 3
 capital = "Cartagena" 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

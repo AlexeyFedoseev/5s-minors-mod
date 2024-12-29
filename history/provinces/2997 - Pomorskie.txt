@@ -1,8 +1,11 @@
 #2997 - Pomorskie
 
-owner = DNZ
-controller = DNZ
-add_core = DNZ
+#owner = TEU		#5s-minors-mod
+#controller = TEU	#5s-minors-mod
+#add_core = TEU		#5s-minors-mod
+owner = DNZ			#5s-minors-mod
+controller = DNZ	#5s-minors-mod
+add_core = DNZ		#5s-minors-mod
 capital = "Tuchel"
 culture = prussian
 religion = catholic
@@ -13,7 +16,6 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-estate = estate_burghers
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

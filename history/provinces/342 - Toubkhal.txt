@@ -1,8 +1,10 @@
 # - Rabat
 
-owner = TET
-controller = TET 
-add_core = TET
+#owner = MOR		#5s-minors-mod
+#controller = MOR 	#5s-minors-mod
+owner = TET			#5s-minors-mod
+controller = TET 	#5s-minors-mod
+add_core = TET		#5s-minors-mod
 culture = moroccan
 religion = sunni
 capital = "Rabat"
@@ -12,6 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = MOR		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

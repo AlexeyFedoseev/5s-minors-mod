@@ -1,8 +1,10 @@
 #4541 - Drohobycz
 
-owner = VOL
-controller = VOL
-add_core = VOL
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = VOL			#5s-minors-mod
+controller = VOL	#5s-minors-mod
+add_core = VOL		#5s-minors-mod
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -12,6 +14,10 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Drohobycz"
 is_city = yes
+#add_core = POL		#5s-minors-mod
+#add_core = VOL		#5s-minors-mod
+
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

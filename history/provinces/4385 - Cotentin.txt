@@ -1,8 +1,10 @@
 # 4385 Cotentin Peninsula - Principal cities: Cherbourg, Avranches
 
-owner = NRM
-controller = NRM 
-add_core = NRM
+#owner = FRA		#5s-minors-mod
+#controller = FRA 	#5s-minors-mod
+owner = NRM			#5s-minors-mod
+controller = NRM 	#5s-minors-mod
+add_core = NRM		#5s-minors-mod
 capital = "Cherbourg"
 is_city = yes
 culture = normand
@@ -16,11 +18,13 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+#add_core = FRA		#5s-minors-mod
+#add_core = NRM		#5s-minors-mod
 extra_cost = 8
 center_of_trade = 1
 
-#       1415.10.25 = { controller = ENG } # The Battle of Agincourt
-#       1420.5.12 = { owner = ENG add_core = ENG } # Treaty of Troyes
+#1415.10.25 = { controller = ENG } # The Battle of Agincourt		#5s-minors-mod
+#1420.5.12 = { owner = ENG add_core = ENG } # Treaty of Troyes		#5s-minors-mod
 1450.1.1 = { owner = FRA controller = FRA } # Retaken by France
 1465.8.15 = { owner = NRM controller = NRM } # Treaty of Conflans
 1466.3.6 = { owner = FRA controller = FRA } # Louis XI reincorporates Normandy into the French crown

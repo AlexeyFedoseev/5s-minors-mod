@@ -1,8 +1,10 @@
 #532 - Raichur Doab
 
-owner = TLG
-controller = TLG
-add_core = TLG
+#owner = VIJ		#5s-minors-mod
+#controller = VIJ	#5s-minors-mod
+owner = TLG			#5s-minors-mod
+controller = TLG	#5s-minors-mod
+add_core = TLG		#5s-minors-mod
 culture = kannada
 religion = hinduism
 capital = "Raichur"
@@ -12,6 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+#add_core = BIJ		#5s-minors-mod
+#add_core = VIJ		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -19,12 +23,11 @@ discovered_by = ottoman
 discovered_by = chinese
 
 
-1378.1.1 = {
-	controller = BAH
-	owner = BAH
-}
-1428.1.1 = { add_core = BAH }
-1444.1.1 = { owner = TLG controller = TLG remove_core = BAH } # 5s league minors mod
+#1378.1.1 = {
+#	controller = BAH
+#	owner = BAH
+#}
+#1428.1.1 = { add_core = BAH }
 1493.1.1 = {
 	owner = VIJ
 	controller = VIJ

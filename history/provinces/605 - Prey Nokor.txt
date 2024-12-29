@@ -1,17 +1,20 @@
 #605 - Prey Nokor
 
-owner = CHA
-controller = CHA
-add_core = CHA
+#owner = KHM		#5s-minors-mod
+#controller = KHM	#5s-minors-mod
+owner = CHA			#5s-minors-mod
+controller = CHA	#5s-minors-mod
+add_core = CHA		#5s-minors-mod
 culture = khmer
 religion = hinduism
 capital = "Prey Nokor"
 trade_goods = tropical_wood
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 4
+base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = KHM		#5s-minors-mod
 
 
 

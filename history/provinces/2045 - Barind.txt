@@ -1,8 +1,10 @@
 #2045 - Barind
 
-owner = KMT
-controller = KMT
-add_core = KMT
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = KMT			#5s-minors-mod
+controller = KMT	#5s-minors-mod
+add_core = KMT		#5s-minors-mod
 culture = kochi
 religion = hinduism
 capital = "Rangpur"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = BNG		#5s-minors-mod
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = muslim 

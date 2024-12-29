@@ -1,9 +1,12 @@
 #2318 - Bahariya
 
-owner = MAK
-controller = MAK #Local Badawin in control
-add_core = MAK
-culture = nubian
+#owner = MAM		#5s-minors-mod
+#controller = MAM #Local Badawin in control	#5s-minors-mod
+#add_core = MAM		#5s-minors-mod
+owner = MAK			#5s-minors-mod
+controller = MAK 	#5s-minors-mod
+add_core = MAK		#5s-minors-mod
+culture = nubian	# ???
 religion = sunni
 capital = "el Qasr"
 is_city = yes
@@ -13,6 +16,7 @@ hre = no
 base_tax = 1 
 base_production = 1
 discovered_by = MAM
+#add_local_autonomy = 50	#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

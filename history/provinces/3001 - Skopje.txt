@@ -1,9 +1,11 @@
 # - Skopje
 
-owner = MON
-controller = MON
-add_core = MON
-culture = serbian
+#owner = TUR		#5s-minors-mod
+#controller = TUR	#5s-minors-mod
+owner = MON			#5s-minors-mod
+controller = MON	#5s-minors-mod
+add_core = MON		#5s-minors-mod
+culture = serbian	# ???
 religion = orthodox
 capital = "Skopje"
 trade_goods = copper
@@ -12,6 +14,9 @@ base_tax = 2
 base_production = 4 #Many productive Mines. Main Source of Ottoman Silver in 1444.
 base_manpower = 2
 is_city = yes
+#add_core = TUR		#5s-minors-mod
+#add_core = BUL		#5s-minors-mod
+#add_core = SER		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

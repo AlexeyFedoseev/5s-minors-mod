@@ -2,7 +2,7 @@
 
 owner = SIS
 controller = SIS
-add_core = SIS
+add_core = SIS		#5s-minors-mod
 culture = khorasani
 religion = sunni
 capital = "Chakansur"
@@ -12,6 +12,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = SIS		#5s-minors-mod
+#add_core = KHO		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

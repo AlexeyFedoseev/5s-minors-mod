@@ -1,9 +1,10 @@
 #2703 - Lehad Datu
 
-owner = BEU
-controller = BEU
-add_core = BEU
-
+#owner = BEI		#5s-minors-mod
+#controller = BEI	#5s-minors-mod
+owner = BEU			#5s-minors-mod
+controller = BEU	#5s-minors-mod
+add_core = BEU		#5s-minors-mod
 culture = bornean
 religion = sunni
 capital = "Lehad Datu"
@@ -13,7 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-
+#add_core = BEI		#5s-minors-mod
 
 
 

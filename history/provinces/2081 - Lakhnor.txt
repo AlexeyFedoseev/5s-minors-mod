@@ -4,9 +4,11 @@ latent_trade_goods = {
 	coal
 }
 
-owner = MBL
-controller = MBL
-add_core = MBL
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = MBL			#5s-minors-mod
+controller = MBL	#5s-minors-mod
+add_core = MBL		#5s-minors-mod
 culture = bengali
 religion = hinduism
 capital = "Lakhnor"
@@ -16,6 +18,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = BNG		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

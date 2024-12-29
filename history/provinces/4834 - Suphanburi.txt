@@ -1,6 +1,8 @@
-owner = SUK
-controller = SUK
-add_core = SUK
+#owner = AYU		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = SUK			#5s-minors-mod
+controller = SUK	#5s-minors-mod
+add_core = SUK		#5s-minors-mod
 culture = central_thai
 religion = buddhism
 capital = "Suphanburi"
@@ -10,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-
+#add_core = AYU		#5s-minors-mod
 
 
 

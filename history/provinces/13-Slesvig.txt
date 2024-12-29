@@ -1,9 +1,11 @@
-#S�nderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
+#Sönderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
 
-add_core = DTT
-owner = DTT
-controller = DTT
-
+#add_core = SHL		#5s-minors-mod
+#owner = SHL		#5s-minors-mod
+#controller = SHL	#5s-minors-mod
+add_core = DTT		#5s-minors-mod
+owner = DTT			#5s-minors-mod
+controller = DTT	#5s-minors-mod
 culture = danish
 religion = catholic
 hre = no
@@ -18,6 +20,7 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#1000.1.1 = { add_core = DAN }		#5s-minors-mod
 1460.3.5 = { owner = DAN controller = DAN }
 1536.1.1 = { religion = protestant }
 1627.8.1 = {
@@ -27,7 +30,7 @@ discovered_by = ottoman
 	controller = DAN
 }
 1644.1.12 = { controller = SWE } #Torstenssons War-Captured by Lennart Torstensson
-1645.8.13 = { controller = DAN } #The Peace of Br�msebro
+1645.8.13 = { controller = DAN } #The Peace of Brömsebro
 1657.10.23 = { controller = SWE } #Karl X Gustavs First Danish War-Captured by Wrangel
 1658.2.26 = { owner = SHL controller = SHL } #The Peace of Roskilde
 1721.1.1 = { owner = DAN controller = DAN }

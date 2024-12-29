@@ -1,8 +1,10 @@
 #2093 - Mandsaur
 
-owner = CMP
-controller = CMP
-add_core = CMP
+#owner = MLW		#5s-minors-mod
+#controller = MLW	#5s-minors-mod
+owner = CMP			#5s-minors-mod
+controller = CMP	#5s-minors-mod
+add_core = CMP		#5s-minors-mod
 culture = malvi
 religion = hinduism
 capital = "Mandsaur"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = MLW		#5s-minors-mod
 add_rajputs_or_marathas_or_nobles_effect = yes
 fort_15th = yes #Mandsaur Fort
 discovered_by = indian

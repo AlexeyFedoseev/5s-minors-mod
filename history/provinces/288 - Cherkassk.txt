@@ -2,7 +2,7 @@
 
 owner = GOL
 controller = GOL
-add_core = GOL
+add_core = GOL	#5s-minors-mod
 
 culture = mishary
 religion = sunni
@@ -13,7 +13,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Cherkassk"
 is_city = yes
-
+#add_core = GOL	#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

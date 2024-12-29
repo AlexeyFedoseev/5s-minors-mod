@@ -1,7 +1,10 @@
 #Minorca
 
-owner = MJO		# Alfons V of Aragon
-controller = MJO
+#owner = ARA		# Alfons V of Aragon	#5s-minors-mod
+#controller = ARA	#5s-minors-mod
+#add_core = ARA		#5s-minors-mod
+owner = MJO			#5s-minors-mod
+controller = MJO	#5s-minors-mod
 add_core = MJO
 culture = catalan
 religion = catholic

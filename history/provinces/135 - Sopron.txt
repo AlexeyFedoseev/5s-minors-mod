@@ -1,8 +1,10 @@
 #135 - Sopron (Sopron + Vas + Moson + Zala)
 
-owner = STY
-controller = STY 
-add_core = STY
+#owner = HUN		#5s-minors-mod
+#controller = HUN 	#5s-minors-mod
+owner = STY			#5s-minors-mod
+controller = STY 	#5s-minors-mod
+add_core = STY		#5s-minors-mod
 culture = hungarian
 religion = catholic
 capital = "Sopron"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = HUN		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

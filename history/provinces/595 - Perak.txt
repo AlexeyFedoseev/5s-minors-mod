@@ -1,8 +1,10 @@
 #595 - Perak
 
-owner = PRK
-controller = PRK
-add_core = PRK
+#owner = MLC		#5s-minors-mod
+#controller = MLC	#5s-minors-mod
+owner = PRK			#5s-minors-mod
+controller = PRK	#5s-minors-mod
+add_core = PRK		#5s-minors-mod
 culture = malayan
 religion = sunni
 capital = "Perak"
@@ -12,7 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-
+#add_core = MLC		#5s-minors-mod
+#add_core = PRK		#5s-minors-mod
 
 
 

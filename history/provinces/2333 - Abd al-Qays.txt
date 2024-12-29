@@ -1,8 +1,10 @@
 #2333 - Abd al-Qays
 
-owner = YAS
-controller = YAS
-add_core = YAS
+#owner = ORM		#5s-minors-mod
+#controller = ORM	#5s-minors-mod
+owner = YAS			#5s-minors-mod
+controller = YAS	#5s-minors-mod
+add_core = YAS		#5s-minors-mod
 culture = gulf_arabic
 religion = shiite
 capital = "Sila"
@@ -12,6 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = ORM		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

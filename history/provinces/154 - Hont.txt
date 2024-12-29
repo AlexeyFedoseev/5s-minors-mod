@@ -1,8 +1,8 @@
 #154 - Hont (Hont + Bars + Ersekujvar)
 
-owner = SLO
-controller = SLO 
-add_core = SLO
+owner = SLO			#5s-minors-mod
+controller = SLO 	#5s-minors-mod
+add_core = SLO		#5s-minors-mod
 culture = slovak
 religion = catholic
 capital = "Hont"
@@ -12,8 +12,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
 #fort_15th = yes #Eger Castle, Orava
+#add_core = HUN		#5s-minors-mod
+#add_core = SLO		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

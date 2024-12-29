@@ -1,8 +1,10 @@
 #346 - Tafilalt
 
-owner = TFL
-controller = TFL 
-add_core = TFL
+#owner = MOR		#5s-minors-mod
+#controller = MOR 	#5s-minors-mod
+owner = TFL			#5s-minors-mod
+controller = TFL 	#5s-minors-mod
+add_core = TFL		#5s-minors-mod
 culture = moroccan
 religion = sunni
 capital = "Tafilalt"
@@ -12,13 +14,21 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = MOR		#5s-minors-mod
+#add_core = TFL		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
+discovered_by = sub_saharan
 extra_cost = 16
 center_of_trade = 2
 
+#5s-minors-mod
+#1444.1.1 = {
+#	owner = TFL
+#	controller = TFL
+#	add_core = TFL
+#}
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = { owner = TFL controller = TFL unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.
 1549.1.1 = {

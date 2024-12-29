@@ -1,8 +1,10 @@
 #4418 - Nelore
 
-owner = YOR
-controller = YOR
-add_core = YOR
+#owner = VIJ		#5s-minors-mod
+#controller = VIJ	#5s-minors-mod
+owner = YOR			#5s-minors-mod
+controller = YOR	#5s-minors-mod
+add_core = YOR		#5s-minors-mod
 culture = telegu
 religion = hinduism
 capital = "Nellore"
@@ -12,6 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = VIJ		#5s-minors-mod
+#add_core = YOR		#5s-minors-mod
 add_vaisyas_or_burghers_effect = yes
 discovered_by = indian
 discovered_by = muslim

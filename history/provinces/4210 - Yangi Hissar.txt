@@ -1,8 +1,11 @@
 #4210 - Yangi Hissar
 
-owner = LDK
-controller = LDK
-add_core = LDK
+#owner = KAS		#5s-minors-mod
+#controller = KAS	#5s-minors-mod
+#add_core = KAS		#5s-minors-mod
+owner = LDK			#5s-minors-mod
+controller = LDK	#5s-minors-mod
+add_core = LDK		#5s-minors-mod
 culture = uyghur
 religion = sunni
 capital = "Yangi Hissar"

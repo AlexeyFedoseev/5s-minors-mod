@@ -1,8 +1,10 @@
 #2417 - Kuma
 
-owner = AST
-controller = AST
-add_core = AST
+#owner = GOL		#5s-minors-mod
+#controller = GOL	#5s-minors-mod
+owner = AST			#5s-minors-mod
+controller = AST	#5s-minors-mod
+add_core = AST		#5s-minors-mod
 culture = astrakhani
 religion = sunni
 hre = no
@@ -12,6 +14,11 @@ trade_goods = iron
 base_manpower = 2
 capital = "Kuma"
 is_city = yes
+#add_core = GOL		#5s-minors-mod
+#add_core = AST		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

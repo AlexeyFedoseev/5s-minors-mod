@@ -1,17 +1,23 @@
 #1750 - Castellon
 
-owner = VAL		#Mart� I of Aragon
-controller = VAL
+#owner = ARA		#Martí I of Aragon	#5s-minors-mod
+#controller = ARA	#5s-minors-mod
+#add_core = ARA		#5s-minors-mod
+owner = VAL			#5s-minors-mod
+controller = VAL	#5s-minors-mod
 add_core = VAL
 culture = catalan
 religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
-trade_goods = wine
+trade_goods = grain
 base_manpower = 2 
 capital = "Castellon" 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

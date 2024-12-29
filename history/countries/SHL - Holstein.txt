@@ -1,11 +1,11 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = hannoverian # ???
-add_accepted_culture = danish # ???
+primary_culture = lower_saxon
+add_accepted_culture = danish #5s-minors-mod
 religion = catholic
 technology_group = western
-capital = 4149	# Kolding # ???
+capital = 4149	# Kolding
 
 
 1381.1.1 = {

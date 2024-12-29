@@ -1,7 +1,10 @@
 #2765 - Assab
 
-owner = AFA
-controller = AFA
+#owner = ADA		#5s-minors-mod
+#controller = ADA	#5s-minors-mod
+#add_core = ADA		#5s-minors-mod
+owner = AFA			#5s-minors-mod
+controller = AFA	#5s-minors-mod
 add_core = AFA
 culture = afar
 religion = sunni

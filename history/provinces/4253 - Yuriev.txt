@@ -1,8 +1,10 @@
 #4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
 
-owner = RSO
-controller = RSO  
-add_core = RSO
+#owner = MOS		#5s-minors-mod
+#controller = MOS  	#5s-minors-mod
+owner = RSO			#5s-minors-mod
+controller = RSO  	#5s-minors-mod
+add_core = RSO		#5s-minors-mod
 culture = russian
 religion = orthodox
 hre = no
@@ -12,6 +14,7 @@ trade_goods = salt
 base_manpower = 2
 capital = "Yuriev"
 is_city = yes
+#add_core = MOS		#5s-minors-mod
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

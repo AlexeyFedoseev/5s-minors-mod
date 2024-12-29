@@ -2,6 +2,7 @@
 
 owner = ALH
 controller = ALH
+add_core = ALH		#5s-minors-mod
 culture = gulf_arabic
 religion = sunni
 capital = "Grane" #old name for Kuwait
@@ -11,7 +12,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ALH
+#add_core = ALH		#5s-minors-mod
+#add_core = BSR		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

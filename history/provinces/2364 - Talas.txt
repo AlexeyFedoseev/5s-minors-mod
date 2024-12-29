@@ -1,8 +1,11 @@
 # 2364 - Talas
 
-owner = KOK
-controller = KOK
-add_core = KOK
+#owner = CHG		#5s-minors-mod
+#controller = CHG	#5s-minors-mod
+#add_core = CHG		#5s-minors-mod
+owner = KOK			#5s-minors-mod
+controller = KOK	#5s-minors-mod
+add_core = KOK		#5s-minors-mod
 culture = kirgiz
 religion = sunni
 capital = "Talas"

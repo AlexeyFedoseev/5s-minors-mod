@@ -2,6 +2,7 @@
 
 owner = HRZ
 controller = HRZ
+add_core = HRZ		#5s-minors-mod
 culture = bosnian
 religion = orthodox
 capital = "Herceg Novi"
@@ -11,7 +12,8 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HRZ
+#add_core = HRZ		#5s-minors-mod
+#add_core = BOS		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

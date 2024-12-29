@@ -1,9 +1,11 @@
 # 2106 - Furdan
 
-owner = EJZ
-controller = EJZ
-add_core = EJZ
-
+#owner = MJZ		#5s-minors-mod
+#controller = MJZ	#5s-minors-mod
+#add_core = MJZ		#5s-minors-mod
+owner = EJZ			#5s-minors-mod
+controller = EJZ	#5s-minors-mod
+add_core = EJZ		#5s-minors-mod
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Furdan"

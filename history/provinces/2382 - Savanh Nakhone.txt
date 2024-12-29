@@ -1,8 +1,10 @@
 #2382 - Savanh Nakhone
 
-owner = VIE
-controller = VIE
-add_core = VIE
+#owner = LXA		#5s-minors-mod
+#controller = LXA	#5s-minors-mod
+owner = VIE			#5s-minors-mod
+controller = VIE	#5s-minors-mod
+add_core = VIE		#5s-minors-mod
 culture = lao
 religion = animism
 capital = "Luang Namtha"
@@ -12,7 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-
+#add_core = LXA		#5s-minors-mod
+#add_core = CHK		#5s-minors-mod
 
 discovered_by = chinese
 discovered_by = indian

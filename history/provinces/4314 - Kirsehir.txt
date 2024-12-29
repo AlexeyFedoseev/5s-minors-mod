@@ -1,8 +1,10 @@
 #4314 - Kirsehir
 
-owner = ERE
-controller = ERE
-add_core = ERE
+#owner = TUR		#5s-minors-mod
+#controller = TUR	#5s-minors-mod
+owner = ERE			#5s-minors-mod
+controller = ERE	#5s-minors-mod
+add_core = ERE		#5s-minors-mod
 culture = turkish
 religion = sunni
 capital = "Kirshehir"
@@ -12,6 +14,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = TUR		#5s-minors-mod
+#add_core = KAR		#5s-minors-mod
+#add_core = ERE		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

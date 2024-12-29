@@ -1,8 +1,11 @@
 # 2136 - Xuanhua
 
-owner = JIN
-controller = JIN
-add_core = JIN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = JIN			#5s-minors-mod
+controller = JIN	#5s-minors-mod
+add_core = JIN		#5s-minors-mod
 culture = jin
 religion = confucianism
 capital = "Xuanhua"
@@ -13,6 +16,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 #fort_15th = yes #the Nine Garrisons
+#add_core = JIN		#5s-minors-mod
 
 
 

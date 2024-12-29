@@ -1,8 +1,11 @@
 #683 - Nanchang
 
-owner = NNG
-controller = NNG
-add_core = NNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = NNG			#5s-minors-mod
+controller = NNG	#5s-minors-mod
+add_core = NNG		#5s-minors-mod
 culture = gan
 religion = confucianism
 capital = "Nanchang"
@@ -12,8 +15,10 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
+#add_core = NNG		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
+center_of_trade = 1
 
 1513.1.1 = { unrest = 5 } # Peasant rebellion, Jiangxi
 1514.1.1 = { unrest = 0 }

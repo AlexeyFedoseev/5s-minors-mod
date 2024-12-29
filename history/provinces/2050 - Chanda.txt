@@ -2,6 +2,7 @@
 
 owner = CHD
 controller = CHD
+add_core = CHD		#5s-minors-mod
 culture = gondi
 religion = hinduism
 capital = "Ballarsah"
@@ -11,7 +12,8 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = CHD
+#add_core = BRR		#5s-minors-mod
+#add_core = CHD		#5s-minors-mod
 
 
 

@@ -1,8 +1,10 @@
 #2376 - Prek Russey
 
-owner = CHA
-controller = CHA
-add_core = CHA
+#owner = KHM		#5s-minors-mod
+#controller = KHM	#5s-minors-mod
+owner = CHA			#5s-minors-mod
+controller = CHA	#5s-minors-mod
+add_core = CHA		#5s-minors-mod
 culture = khmer
 religion = hinduism
 capital = "Prek Russey"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = KHM		#5s-minors-mod
 
 
 

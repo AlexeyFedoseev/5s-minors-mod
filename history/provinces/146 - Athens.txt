@@ -1,8 +1,10 @@
 #146 - Athens
 
-owner = ATH
-controller = ATH
-add_core = ATH
+#owner = VEN		#5s-minors-mod
+#controller = VEN	#5s-minors-mod
+owner = ATH			#5s-minors-mod
+controller = ATH	#5s-minors-mod
+add_core = ATH		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Athens"
@@ -12,6 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = VEN		#5s-minors-mod
+#add_core = ATH		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -20,7 +24,7 @@ discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 
-
+#5s-minors-mod
 #1399.1.1 = { add_core = BYZ }
 #1402.1.1 = { owner = ATH controller = ATH remove_core = VEN }
 1453.5.30 = { add_core = TUR } # The fall of the Byzantine Empire

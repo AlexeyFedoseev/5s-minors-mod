@@ -1,8 +1,11 @@
 #4241 - Wenden
 
-owner = LTG #5s
-controller = LTG #5s
-add_core = LTG #5s
+#owner = LIV		#5s-minors-mod
+#controller = LIV	#5s-minors-mod
+#add_core = LIV		#5s-minors-mod
+owner = LTG 		#5s-minors-mod
+controller = LTG 	#5s-minors-mod
+add_core = LTG 		#5s-minors-mod
 culture = latvian
 religion = catholic
 capital = "Wenden"
@@ -12,7 +15,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-estate = estate_church #Kokenhusen
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

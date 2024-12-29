@@ -1,6 +1,8 @@
-owner = CHK
-controller = CHK
-add_core = CHK
+#owner = LXA		#5s-minors-mod
+#controller = LXA	#5s-minors-mod
+owner = CHK			#5s-minors-mod
+controller = CHK	#5s-minors-mod
+add_core = CHK		#5s-minors-mod
 culture = lao
 religion = animism
 capital = "Champasak"
@@ -10,7 +12,8 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 is_city = yes
-
+#add_core = LXA		#5s-minors-mod
+#add_core = CHK		#5s-minors-mod
 
 
 discovered_by = chinese

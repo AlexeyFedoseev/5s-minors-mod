@@ -2,8 +2,8 @@
 
 owner = LIG
 controller = LIG
-culture = malayan
-religion = sunni
+culture = malayan		# ???
+religion = sunni		# ???
 capital = "Nakhon Si Thammarat"
 trade_goods = tropical_wood
 hre = no

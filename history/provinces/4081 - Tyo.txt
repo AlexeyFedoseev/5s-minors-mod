@@ -1,6 +1,9 @@
-owner = TYO
-controller = TYO
-add_core = TYO
+#owner = KON		#5s-minors-mod
+#controller = KON	#5s-minors-mod
+#add_core = KON		#5s-minors-mod
+owner = TYO			#5s-minors-mod
+controller = TYO	#5s-minors-mod
+add_core = TYO		#5s-minors-mod
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Okango"

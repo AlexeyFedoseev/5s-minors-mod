@@ -1,9 +1,10 @@
 #365 - Sinai
 
-owner = ANZ
-controller = ANZ
-add_core = ANZ
-
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = ANZ			#5s-minors-mod
+controller = ANZ	#5s-minors-mod
+add_core = ANZ		#5s-minors-mod
 culture = bedouin_arabic
 religion = sunni
 capital = "At Tur"
@@ -13,6 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = MAM		#5s-minors-mod
 
 discovered_by = muslim
 discovered_by = ottoman

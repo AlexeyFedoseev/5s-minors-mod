@@ -1,8 +1,11 @@
 # 2163 - Liuzhou
 
-owner = HUA
-controller = HUA
-add_core = HUA
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = HUA			#5s-minors-mod
+controller = HUA	#5s-minors-mod
+add_core = HUA		#5s-minors-mod
 culture = zhuang
 religion = confucianism
 capital = "Liuzhou"

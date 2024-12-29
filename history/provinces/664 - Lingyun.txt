@@ -1,8 +1,11 @@
 #664 - Lingyun
 
-owner = CGS
-controller = CGS
-add_core = CGS
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CGS			#5s-minors-mod
+controller = CGS	#5s-minors-mod
+add_core = CGS		#5s-minors-mod
 culture = zhuang
 religion = confucianism
 capital = "Lingyun"
@@ -12,6 +15,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = CGS		#5s-minors-mod
 
 
 

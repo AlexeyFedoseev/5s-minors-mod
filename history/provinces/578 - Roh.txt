@@ -1,8 +1,11 @@
 #578 - Roh
 
-owner = KSH
-controller = KSH
-add_core = KSH
+#owner = AFG		#5s-minors-mod
+#controller = AFG	#5s-minors-mod
+#add_core = AFG		#5s-minors-mod
+owner = KSH			#5s-minors-mod
+controller = KSH	#5s-minors-mod
+add_core = KSH		#5s-minors-mod
 culture = afghani
 religion = sunni
 capital = "Peshawar"
@@ -13,6 +16,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes # Bala Hissar
+#add_core = TIM		#5s-minors-mod
 discovered_by = KAS
 discovered_by = indian
 discovered_by = muslim

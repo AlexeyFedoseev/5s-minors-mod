@@ -1,8 +1,11 @@
 #714 - Dzungaria
 
-owner = BRT
-controller = BRT
-add_core = BRT
+#owner = OIR		#5s-minors-mod
+#controller = OIR	#5s-minors-mod
+#add_core = OIR		#5s-minors-mod
+owner = BRT			#5s-minors-mod
+controller = BRT	#5s-minors-mod
+add_core = BRT		#5s-minors-mod
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Hoboksar"
@@ -12,6 +15,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
+#add_core = CHG		#5s-minors-mod
 
 
 

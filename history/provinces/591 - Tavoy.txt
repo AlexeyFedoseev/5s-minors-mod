@@ -1,8 +1,10 @@
 #591 - Tavoy
 
-owner = PEG
-controller = PEG
-add_core = PEG
+#owner = AYU		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = PEG			#5s-minors-mod
+controller = PEG	#5s-minors-mod
+add_core = PEG		#5s-minors-mod
 culture = mon
 religion = buddhism
 capital = "Tavoy"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-
+#add_core = AYU		#5s-minors-mod
 
 
 

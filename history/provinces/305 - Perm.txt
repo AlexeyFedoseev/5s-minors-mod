@@ -2,8 +2,7 @@
 
 owner = KAZ
 controller = KAZ
-add_core = KAZ
-
+add_core = KAZ		#5s-minors-mod
 culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism
 hre = no
@@ -13,7 +12,8 @@ trade_goods = copper
 base_manpower = 3
 capital = "Yagoshiha"
 is_city = yes
-
+#add_core = KAZ		#5s-minors-mod
+#add_core = PRM		#5s-minors-mod
 
 
 

@@ -1,8 +1,11 @@
 #1213 - Shoa
 
-owner = SOA
-controller = SOA
-add_core = SOA
+#owner = ETH		#5s-minors-mod
+#controller = ETH	#5s-minors-mod
+#add_core = ETH		#5s-minors-mod
+owner = SOA			#5s-minors-mod
+controller = SOA	#5s-minors-mod
+add_core = SOA		#5s-minors-mod
 culture = amhara 
 religion = sunni
 capital = "Badeqe"
@@ -14,6 +17,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 3
 add_local_autonomy = 10
+#add_core = SOA		#5s-minors-mod
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

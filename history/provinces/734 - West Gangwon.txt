@@ -1,9 +1,11 @@
 #734 - Wonju
 
-owner = GOG
-controller = GOG
-add_core = GOG
-add_core = BAE
+#owner = KOR		#5s-minors-mod
+#controller = KOR	#5s-minors-mod
+owner = GOG			#5s-minors-mod
+controller = GOG	#5s-minors-mod
+add_core = GOG		#5s-minors-mod
+add_core = BAE		#5s-minors-mod
 culture = korean
 religion = confucianism
 capital = "Wonju"
@@ -13,6 +15,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
+#add_local_autonomy = 35	#5s-minors-mod
+#add_core = KOR				#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 

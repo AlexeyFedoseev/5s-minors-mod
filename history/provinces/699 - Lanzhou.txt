@@ -1,8 +1,11 @@
 #699 - Lanzhou
 
-owner = CSH
-controller = CSH
-add_core = CSH
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CSH			#5s-minors-mod
+controller = CSH	#5s-minors-mod
+add_core = CSH		#5s-minors-mod
 culture = xibei
 religion = confucianism
 capital = "Lanzhou"
@@ -12,6 +15,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
+#add_core = CSH		#5s-minors-mod
 
 
 

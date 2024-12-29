@@ -3,6 +3,7 @@
 owner = UTS
 controller = UTS
 add_core = UTS
+#add_core = PHA		#5s-minors-mod
 culture = tibetan
 religion = vajrayana
 capital = "Tsurphu"

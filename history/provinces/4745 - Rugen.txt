@@ -1,8 +1,11 @@
-# 4745 - R�gen
+# 4745 - Rügen
 
-owner = RUG
-controller = RUG
+#owner = WOL		#5s-minors-mod
+#controller = WOL	#5s-minors-mod
+owner = RUG			#5s-minors-mod
+controller = RUG	#5s-minors-mod
 add_core = RUG
+#add_core = WOL		#5s-minors-mod
 culture = pommeranian
 religion = catholic
 hre = yes
@@ -10,9 +13,12 @@ base_tax = 2
 base_production = 1
 trade_goods = fish
 base_manpower = 1
-capital = "Bergen auf R�gen"
+capital = "Bergen auf Rügen"
 is_city = yes
-#	unrest = 8 #pirate independence of thought
+
+#unrest = 8 #pirate independence of thought		#5s-minors-mod
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

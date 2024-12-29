@@ -1,8 +1,10 @@
 #Galich
 
-owner = UST
-controller = UST
-add_core = UST
+#owner = MOS		#5s-minors-mod
+#controller = MOS	#5s-minors-mod
+owner = UST			#5s-minors-mod
+controller = UST	#5s-minors-mod
+add_core = UST		#5s-minors-mod
 capital = "Galich"
 culture = russian
 religion = orthodox
@@ -12,6 +14,7 @@ base_tax = 4
 base_production = 5 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
+#add_core = MOS		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL

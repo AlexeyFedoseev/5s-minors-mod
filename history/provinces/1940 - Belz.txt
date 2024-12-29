@@ -1,8 +1,10 @@
 #Belz
 
-owner = VOL
-controller = VOL
-add_core = VOL
+#owner = MAZ		#5s-minors-mod
+#controller = MAZ	#5s-minors-mod
+owner = VOL			#5s-minors-mod
+controller = VOL	#5s-minors-mod
+add_core = VOL		#5s-minors-mod
 capital= "Belz"
 culture = ruthenian
 religion = orthodox
@@ -12,8 +14,8 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
-
+#add_core = MAZ		#5s-minors-mod
+#add_core = VOL		#5s-minors-mod
 
 
 discovered_by = KAZ

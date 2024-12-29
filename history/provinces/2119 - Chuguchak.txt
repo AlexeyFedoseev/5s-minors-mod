@@ -1,8 +1,11 @@
 # 2119 - Chuguchak
 
-owner = BRT
-controller = BRT
-add_core = BRT
+#owner = OIR		#5s-minors-mod
+#controller = OIR	#5s-minors-mod
+#add_core = OIR		#5s-minors-mod
+owner = BRT			#5s-minors-mod
+controller = BRT	#5s-minors-mod
+add_core = BRT		#5s-minors-mod
 culture = oirats
 religion = sunni
 capital = "Chugachak"

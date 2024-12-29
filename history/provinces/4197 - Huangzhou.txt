@@ -4,9 +4,12 @@ latent_trade_goods = {
 	coal
 }
 
-owner = CHC
-controller = CHC
-add_core = CHC
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CHC			#5s-minors-mod
+controller = CHC	#5s-minors-mod
+add_core = CHC		#5s-minors-mod
 culture = hubei
 religion = confucianism
 capital = "Huangzhou"
@@ -16,6 +19,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = CHC		#5s-minors-mod
+#add_core = CXI		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 

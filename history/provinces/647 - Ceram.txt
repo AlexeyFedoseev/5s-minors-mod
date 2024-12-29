@@ -1,36 +1,43 @@
 #647 - Ceram
 
-owner = MTR
-controller = MTR
-add_core = MTR 
+owner = MTR			#5s-minors-mod
+controller = MTR	#5s-minors-mod
+add_core = MTR 		#5s-minors-mod
 culture = moluccan
 religion = animism
 capital = "Ceram"
-trade_goods = cloves
+#trade_goods = unknown		#5s-minors-mod
+trade_goods = cloves		#5s-minors-mod
 hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 1
-is_city = yes
-discovered_by = MAJ
-discovered_by = MKS
-discovered_by = BLI
-discovered_by = BAN
-discovered_by = BEI
-discovered_by = BLM
-discovered_by = BTN
-discovered_by = CRB
-discovered_by = DMK
-discovered_by = PLB
-discovered_by = SUN
-discovered_by = KUT
-discovered_by = BNJ
-discovered_by = LFA
-discovered_by = LNO
-discovered_by = LUW
-discovered_by = MGD
-discovered_by = TER
-discovered_by = TID
+#native_size = 5		#5s-minors-mod
+#native_ferocity = 1	#5s-minors-mod
+#native_hostileness = 3	#5s-minors-mod
+is_city = yes			#5s-minors-mod
+
+
+discovered_by = chinese
+#discovered_by = MAJ	# ???
+#discovered_by = MKS
+#discovered_by = BLI
+#discovered_by = BAN
+#discovered_by = BEI
+#discovered_by = BLM
+#discovered_by = BTN
+#discovered_by = CRB
+#discovered_by = DMK
+#discovered_by = PLB
+#discovered_by = SUN
+#discovered_by = KUT
+#discovered_by = BNJ
+#discovered_by = LFA
+#discovered_by = LNO
+#discovered_by = LUW
+#discovered_by = MGD
+#discovered_by = TER
+#discovered_by = TID
 
 1512.1.1 = { discovered_by = POR }
 

@@ -1,8 +1,11 @@
 # - Angoche
 
-owner = SFA
-controller = SFA
-add_core = SFA
+#owner = ZAN		#5s-minors-mod
+#controller = ZAN	#5s-minors-mod
+#add_core = ZAN		#5s-minors-mod
+owner = SFA			#5s-minors-mod
+controller = SFA	#5s-minors-mod
+add_core = SFA		#5s-minors-mod
 culture = swahili
 religion = sunni
 capital = "Angoche"
@@ -12,6 +15,8 @@ trade_goods = ivory
 hre = no
 base_tax = 3
 base_production = 3
+#add_local_autonomy = 25	#5s-minors-mod
+
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim

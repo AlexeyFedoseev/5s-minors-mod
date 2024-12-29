@@ -1,8 +1,10 @@
 # - Euboea
 
-owner = NAX
-controller = NAX
-add_core = NAX
+#owner = VEN		#5s-minors-mod
+#controller = VEN	#5s-minors-mod
+owner = NAX			#5s-minors-mod
+controller = NAX	#5s-minors-mod
+add_core = NAX		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Negroponte"
@@ -12,6 +14,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = VEN		#5s-minors-mod
+
+
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

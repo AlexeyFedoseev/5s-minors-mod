@@ -4,9 +4,11 @@ latent_trade_goods = {
 	coal
 }
 
-owner = THU
-controller = THU 
-add_core = THU
+#owner = SAX		#5s-minors-mod
+#controller = SAX 	#5s-minors-mod
+owner = THU			#5s-minors-mod
+controller = THU 	#5s-minors-mod
+add_core = THU		#5s-minors-mod
 culture = saxon
 religion = catholic
 capital = "Leipzig"
@@ -16,6 +18,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = SAX		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

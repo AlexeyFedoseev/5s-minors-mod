@@ -1,7 +1,10 @@
 #254 - Poznan
 
-owner = WPL
-controller = WPL
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = WPL			#5s-minors-mod
+controller = WPL	#5s-minors-mod
+add_core = WPL		#5s-minors-mod
 capital = "Poznan"
 culture = polish
 religion = catholic
@@ -11,8 +14,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 5
 is_city = yes
-estate = estate_burghers
-add_core = WPL
+#add_core = POL		#5s-minors-mod
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI

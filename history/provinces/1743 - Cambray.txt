@@ -4,9 +4,12 @@ latent_trade_goods = {
 	coal
 }
 
-owner = HAI
-controller = HAI
-add_core = HAI
+#owner = BUR		#5s-minors-mod
+#controller = BUR	#5s-minors-mod
+#add_core = BUR		#5s-minors-mod
+owner = HAI			#5s-minors-mod
+controller = HAI	#5s-minors-mod
+add_core = HAI		#5s-minors-mod
 capital = "Cambray"
 is_city = yes
 culture = wallonian
@@ -16,6 +19,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
+#add_core = HAI		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

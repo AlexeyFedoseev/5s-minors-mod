@@ -1,8 +1,10 @@
 #2028 - Mahur
 
-owner = CHD
-controller = CHD
-add_core = CHD
+#owner = BAH		#5s-minors-mod
+#controller = BAH	#5s-minors-mod
+owner = CHD			#5s-minors-mod
+controller = CHD	#5s-minors-mod
+add_core = CHD		#5s-minors-mod
 culture = telegu
 religion = hinduism
 capital = "Mahur"
@@ -12,6 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = BAH		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

@@ -1,10 +1,12 @@
 #615 - Luang Prabang
 
-owner = LUA
-controller = LUA
-add_core = LUA
+#owner = LXA		#5s-minors-mod
+#controller = LXA	#5s-minors-mod
+owner = LUA			#5s-minors-mod
+controller = LUA	#5s-minors-mod
+add_core = LUA		#5s-minors-mod
 culture = lao
-religion = buddhism
+religion = buddhism		# ???
 capital = "Xieng Tong"
 trade_goods = chinaware
 hre = no
@@ -12,6 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = LXA		#5s-minors-mod
+#add_core = LUA		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 

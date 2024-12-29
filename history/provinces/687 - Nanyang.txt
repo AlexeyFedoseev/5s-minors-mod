@@ -1,8 +1,11 @@
 #687 - Zhoujiakou
 
-owner = TNG
-controller = TNG
-add_core = TNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = TNG			#5s-minors-mod
+controller = TNG	#5s-minors-mod
+add_core = TNG		#5s-minors-mod
 culture = zhongyuan
 religion = confucianism
 capital = "Nanyang"
@@ -12,6 +15,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = TNG		#5s-minors-mod
+#add_core = LNG		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 

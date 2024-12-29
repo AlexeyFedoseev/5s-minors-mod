@@ -1,8 +1,10 @@
 #281 - Podolia
 
-owner = KIE
-controller = KIE
-add_core = KIE
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = KIE			#5s-minors-mod
+controller = KIE	#5s-minors-mod
+add_core = KIE		#5s-minors-mod
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -12,8 +14,9 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Kamieniec"
 is_city = yes
-estate = estate_nobles
 fort_15th = yes
+#add_core = VOL		#5s-minors-mod
+#add_core = POL		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

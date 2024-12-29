@@ -1,9 +1,11 @@
 #237 - Oxfordshire
 #Oxfordshire+Bukinghamshire+Berkshire
 
-owner = CRN
-controller = CRN
-add_core = CRN
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = CRN			#5s-minors-mod
+controller = CRN	#5s-minors-mod
+add_core = CRN		#5s-minors-mod
 culture = english
 religion = catholic
 hre = no
@@ -13,6 +15,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Oxford"
 is_city = yes
+#add_core = ENG		#5s-minors-mod
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

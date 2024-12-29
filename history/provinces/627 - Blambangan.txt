@@ -1,15 +1,18 @@
 #627 - Blambangan
 
-owner = BLI
-controller = BLI
-add_core = BLI
+#owner = BLM		#5s-minors-mod
+#controller = BLM	#5s-minors-mod
+#add_core = BLM		#5s-minors-mod
+owner = BLI			#5s-minors-mod
+controller = BLI	#5s-minors-mod
+add_core = BLI		#5s-minors-mod
 culture = javanese
 religion = hinduism
 capital = "Blambangan"
 trade_goods = cotton
 hre = no
-base_tax = 5
-base_production = 5
+base_tax = 4
+base_production = 4
 base_manpower = 3
 is_city = yes
 

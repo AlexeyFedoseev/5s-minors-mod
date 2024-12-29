@@ -1,8 +1,10 @@
 #1754 - Murom ( formerly Orel)
 
-owner = NZH
-controller = NZH    
-add_core = NZH
+#owner = MOS		#5s-minors-mod
+#controller = MOS   #5s-minors-mod
+owner = NZH			#5s-minors-mod
+controller = NZH    #5s-minors-mod
+add_core = NZH		#5s-minors-mod
 culture = russian
 religion = orthodox 
 hre = no
@@ -12,6 +14,10 @@ trade_goods = grain
 base_manpower = 4
 capital = "Murom"
 is_city = yes
+#add_core = MOS		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = GOL

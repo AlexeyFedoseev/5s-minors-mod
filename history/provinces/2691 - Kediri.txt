@@ -1,8 +1,11 @@
 #2691 - Kediri
 
-owner = BLI
-controller = BLI
-add_core = BLI
+#owner = MAJ		#5s-minors-mod
+#controller = MAJ	#5s-minors-mod
+#add_core = MAJ		#5s-minors-mod
+owner = BLI			#5s-minors-mod
+controller = BLI	#5s-minors-mod
+add_core = BLI		#5s-minors-mod
 culture = javanese
 religion = hinduism
 capital = "Kediri"

@@ -1,8 +1,10 @@
 #290 - Poltava
 
-owner = CHR
-controller = CHR 
-add_core = CHR
+#owner = LIT		#5s-minors-mod
+#controller = LIT 	#5s-minors-mod
+owner = CHR			#5s-minors-mod
+controller = CHR 	#5s-minors-mod
+add_core = CHR		#5s-minors-mod
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -12,7 +14,9 @@ trade_goods = grain
 base_manpower = 1
 capital = "Poltava"
 is_city = yes
-estate = estate_nobles
+#add_local_autonomy = 10
+#add_core = CHR		#5s-minors-mod
+#add_core = LIT		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

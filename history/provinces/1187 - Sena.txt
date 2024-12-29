@@ -1,8 +1,11 @@
 #1187 - Sena
 
-owner = MKU
-controller = MKU
-add_core = MKU
+#owner = ZIM		#5s-minors-mod
+#controller = ZIM	#5s-minors-mod
+#add_core = ZIM		#5s-minors-mod
+owner = MKU			#5s-minors-mod
+controller = MKU	#5s-minors-mod
+add_core = MKU		#5s-minors-mod
 culture = shona
 religion = shamanism
 capital = "Sena"

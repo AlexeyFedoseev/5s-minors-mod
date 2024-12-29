@@ -1,10 +1,13 @@
 #673 - Bozhou
 
-owner = CMI
-controller = CMI
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CMI			#5s-minors-mod
+controller = CMI	#5s-minors-mod
 add_core = CMI
 culture = miao
-religion = confucianism
+religion = confucianism		# ???
 capital = "Zhenyuan"
 trade_goods = tea
 hre = no

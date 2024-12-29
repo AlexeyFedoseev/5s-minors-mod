@@ -4,12 +4,14 @@ latent_trade_goods = {
 	coal
 }
 
-owner = KRA
-controller = KRA
-add_core = KRA
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = KRA			#5s-minors-mod
+controller = KRA	#5s-minors-mod
+add_core = KRA		#5s-minors-mod
 culture = polish
 religion = catholic
-capital = "Krak�w"
+capital = "Kraków"
 hre = no
 base_tax = 7
 base_production = 7
@@ -18,6 +20,8 @@ base_manpower = 6
 is_city = yes
 fort_15th = yes
  #Jagiellonian University established in 1364 by Casimir III the Great
+#add_core = POL		#5s-minors-mod
+#add_core = KRA		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

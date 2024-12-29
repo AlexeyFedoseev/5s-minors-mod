@@ -1,8 +1,10 @@
 #2026 - Tanjore 
 
-owner = TNJ
-controller = TNJ
-add_core = TNJ
+#owner = VIJ		#5s-minors-mod
+#controller = VIJ	#5s-minors-mod
+owner = TNJ			#5s-minors-mod
+controller = TNJ	#5s-minors-mod
+add_core = TNJ		#5s-minors-mod
 culture = tamil
 religion = hinduism
 capital = "Thanjavur"
@@ -13,6 +15,9 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_brahmins_or_church_effect = yes
+#add_core = VIJ		#5s-minors-mod
+#add_core = MAD		#5s-minors-mod
+#add_core = TNJ		#5s-minors-mod
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim

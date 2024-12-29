@@ -1,8 +1,11 @@
 #X2 - Turpan
 
-owner = HMI		# ruled by a Chagataiid 
-controller = HMI
-add_core = HMI
+#owner = CHG		# ruled by a Chagataiid 	#5s-minors-mod
+#controller = CHG	#5s-minors-mod
+#add_core = CHG		#5s-minors-mod
+owner = HMI			#5s-minors-mod
+controller = HMI	#5s-minors-mod
+add_core = HMI		#5s-minors-mod
 culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Balikul"

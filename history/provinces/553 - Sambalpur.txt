@@ -1,8 +1,10 @@
 #553 - Sambalpur
 
-owner = SBP
-controller = SBP
-add_core = SBP 
+#owner = PTT		#5s-minors-mod
+#controller = PTT	#5s-minors-mod
+owner = SBP			#5s-minors-mod
+controller = SBP	#5s-minors-mod
+add_core = SBP 		#5s-minors-mod
 culture = garjati
 religion = hinduism
 capital = "Sambalpur"
@@ -12,6 +14,8 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = PTT		#5s-minors-mod
+#add_core = SBP 	#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

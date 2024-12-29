@@ -2,7 +2,7 @@
 
 owner = ODA
 controller = ODA
-add_core = ODA
+add_core = ODA		#5s-minors-mod
 culture = togoku
 religion = shinto
 capital = "Kiyosu"
@@ -12,7 +12,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-
+#add_core = ODA		#5s-minors-mod
+#add_core = SBA		#5s-minors-mod
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

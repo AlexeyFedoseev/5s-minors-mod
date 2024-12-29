@@ -18,7 +18,10 @@ add_core = SUK
 discovered_by = chinese
 discovered_by = indian
 
-
+#5s-minors-mod
+#1438.1.1 = {	
+#	add_core = AYU
+#} # Sukhothai is under Personal Union with Ayutthaya
 1530.1.1 = {
 	owner = AYU
 	controller = AYU

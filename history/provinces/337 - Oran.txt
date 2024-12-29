@@ -1,8 +1,10 @@
 #337 - Oran
 
-owner = ALG
-controller = ALG
-add_core = ALG
+#owner = TLC		#5s-minors-mod
+#controller = TLC	#5s-minors-mod
+owner = ALG			#5s-minors-mod
+controller = ALG	#5s-minors-mod
+add_core = ALG		#5s-minors-mod
 culture = algerian
 religion = sunni
 capital = "Oran"
@@ -12,6 +14,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+#add_core = TLC		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

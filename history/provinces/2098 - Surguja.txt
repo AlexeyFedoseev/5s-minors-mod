@@ -1,8 +1,10 @@
 #2098 - Surguja
 
-owner = SRG
-controller = SRG
-add_core = SRG
+#owner = NGP		#5s-minors-mod
+#controller = NGP	#5s-minors-mod
+owner = SRG			#5s-minors-mod
+controller = SRG	#5s-minors-mod
+add_core = SRG		#5s-minors-mod
 culture = jharkhandi
 religion = hinduism
 capital = "Surguja"
@@ -12,6 +14,9 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = NGP		#5s-minors-mod
+#add_core = SRG		#5s-minors-mod
+#add_core = RTT		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 

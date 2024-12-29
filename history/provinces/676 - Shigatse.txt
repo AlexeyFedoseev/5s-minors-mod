@@ -1,9 +1,11 @@
 #676 - U-Tsang
 
-owner = BHU
-controller = BHU
-add_core = BHU
-
+#owner = UTS		#5s-minors-mod
+#controller = UTS	#5s-minors-mod
+#add_core = UTS		#5s-minors-mod
+owner = BHU			#5s-minors-mod
+controller = BHU	#5s-minors-mod
+add_core = BHU		#5s-minors-mod
 culture = tibetan
 religion = vajrayana
 capital = "Shigatse"
@@ -13,6 +15,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = PHA		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group

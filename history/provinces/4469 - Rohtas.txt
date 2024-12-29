@@ -1,8 +1,10 @@
 #4469 - Rohtas
 
-owner = SRG
-controller = SRG
-add_core = SRG
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = SRG			#5s-minors-mod
+controller = SRG	#5s-minors-mod
+add_core = SRG		#5s-minors-mod
 culture = bihari
 religion = hinduism
 capital = "Rohtasgarh"
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = JNP		#5s-minors-mod
 fort_15th = yes #Rohtasgarh
 discovered_by = indian
 discovered_by = muslim 

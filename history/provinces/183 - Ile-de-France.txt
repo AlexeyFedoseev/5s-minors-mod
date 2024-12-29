@@ -1,9 +1,11 @@
-# 183 �le-de-France - Principal cities: Paris
+# 183 Île-de-France - Principal cities: Paris
 
-owner = ORL
-controller = ORL
-add_core = ORL
-capital = "Ile-de-France"
+#owner = FRA				#5s-minors-mod
+#controller = FRA			#5s-minors-mod
+owner = ORL					#5s-minors-mod
+controller = ORL			#5s-minors-mod
+add_core = ORL				#5s-minors-mod
+capital = "Île-de-France"	#5s-minors-mod
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
@@ -12,15 +14,17 @@ base_tax = 8
 base_production = 8
 trade_goods = paper
 base_manpower = 7
+#add_core = FRA		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-#change_province_name = "Ile-de-France"
+center_of_trade = 2
 
-#		1420.1.1 = { controller = ENG } # Captured by the English
-#		1437.1.1 = { controller = FRA } # Retaken by Charles VII
-1444.1.1 = { change_province_name = "Ile-de-France" }
+#5s-minors-mod
+#1420.1.1 = { controller = ENG } # Captured by the English
+#1437.1.1 = { controller = FRA } # Retaken by Charles VII
+1444.1.1 = { change_province_name = "Île-de-France" }		#5s-minors-mod
 1571.1.1 = { unrest = 5 } # Unrest spreads in catholic territory: massacres of protestants in Rouen, Orange & Paris
 1573.8.23 = { unrest = 10 } # Saint Barthelew's Day Massacre
 1574.5.1 = { unrest = 0 } # Charles IX dies, situation cools a bit	

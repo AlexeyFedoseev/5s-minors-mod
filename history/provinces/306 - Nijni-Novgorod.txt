@@ -1,8 +1,10 @@
 #306 - Nijni-Novgorod
 
-owner = NZH
-controller = NZH
-add_core = NZH
+#owner = MOS		#5s-minors-mod
+#controller = MOS	#5s-minors-mod
+owner = NZH			#5s-minors-mod
+controller = NZH	#5s-minors-mod
+add_core = NZH		#5s-minors-mod
 culture = russian
 religion = orthodox
 hre = no
@@ -13,7 +15,8 @@ base_manpower = 3
 capital = "Nizhny Novgorod"
 is_city = yes
 fort_15th = yes
-estate = estate_nobles
+#add_core = NZH		#5s-minors-mod
+#add_core = MOS		#5s-minors-mod
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

@@ -1,8 +1,10 @@
 #4482 - Sikkim
 
-owner = SKK
-controller = SKK
-add_core = SKK
+#owner = LWA		#5s-minors-mod
+#controller = LWA	#5s-minors-mod
+owner = SKK			#5s-minors-mod
+controller = SKK	#5s-minors-mod
+add_core = SKK		#5s-minors-mod
 culture = nepali
 religion = vajrayana
 capital = "Yuksom"
@@ -12,6 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = LWA		#5s-minors-mod
+#add_core = SKK		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

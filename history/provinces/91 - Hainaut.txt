@@ -1,8 +1,11 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
 
-owner = HAI
-controller = HAI
-add_core = HAI
+#owner = BUR		#5s-minors-mod
+#controller = BUR	#5s-minors-mod
+#add_core = BUR		#5s-minors-mod
+owner = HAI			#5s-minors-mod
+controller = HAI	#5s-minors-mod
+add_core = HAI		#5s-minors-mod
 capital = "Mons"
 is_city = yes
 culture = wallonian
@@ -12,11 +15,16 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
+#add_core = HAI		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+
+latent_trade_goods = {
+	coal
+}
 
 1477.1.5 = { owner = HAB controller = HAB add_core = HAB remove_core = BUR } # Charles the Bold dies, Lowlands to Austria
 1519.1.12 = { owner = SPA controller = SPA add_core = SPA remove_core = HAB } # Charles V gets total control over his Burgundian inheritance
@@ -30,14 +38,14 @@ discovered_by = ottoman
 1569.1.1 = { unrest = 10 } # The Duke of Alba reforms the taxation system ('tiende penning')
 1570.1.1 = { unrest = 13  } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
 1572.5.24 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Louis of Nassau captures Mons
-1572.8.1 = { revolt = {} controller = SPA } # Don Felip� takes back Mons
+1572.8.1 = { revolt = {} controller = SPA } # Don Felipé takes back Mons
 1577.2.12 = { unrest = 5 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
 1579.1.6 = { unrest = 0 } # Union of Arras established
 1635.5.1 = { controller = FRA } # French troops capture parts of the Southern Lowlands
-1648.1.30 = { controller = SPA } # Peace of M�nster/Westphalia
+1648.1.30 = { controller = SPA } # Peace of Münster/Westphalia
 1650.1.1 = { trade_goods = iron textile = no } # Focus more and more on iron & coal industry
 1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
-1667.9.25 = { controller = FRA } # Mar�chal captures alot of cities in the region for Louis XIV
+1667.9.25 = { controller = FRA } # Maréchal captures alot of cities in the region for Louis XIV
 1668.5.2 = { controller = SPA } # Peace of Aachen
 1672.5.5 = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 1678.9.19 = { controller = SPA } # Peace of Nijmegen (France-Spain)
@@ -47,7 +55,7 @@ discovered_by = ottoman
 1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
 1744.4.1 = { controller = FRA } # France captures Hainaut in the Austrian War of Succession
 1744.7.1 = { controller = HAB } # France withdraws
-1746.10.11 = { controller = FRA } # Mar�chal Saxe launches a succesful offensive
+1746.10.11 = { controller = FRA } # Maréchal Saxe launches a succesful offensive
 1748.10.18 = { controller = HAB } # Peace of Aachen
 1792.11.6 = { controller = FRA } # Conquered by the French troops under Dumouriez
 1793.3.18 = { controller = HAB } # Reconquered by Prince Josias of Coburg

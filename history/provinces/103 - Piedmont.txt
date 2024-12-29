@@ -1,8 +1,10 @@
 #103 - Piedmont
 
-owner = SZO
-controller = SZO
-add_core = SZO
+#owner = SAV		#5s-minors-mod
+#controller = SAV	#5s-minors-mod
+owner = SZO			#5s-minors-mod
+controller = SZO	#5s-minors-mod
+add_core = SZO		#5s-minors-mod
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -12,6 +14,7 @@ trade_goods = wine
 base_manpower = 3
 capital = "Torino"
 is_city = yes
+#add_core = SAV		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

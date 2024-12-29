@@ -1,8 +1,11 @@
 #689 - Hanzhong
 
-owner = QIN
-controller = QIN
-add_core = QIN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = QIN			#5s-minors-mod
+controller = QIN	#5s-minors-mod
+add_core = QIN		#5s-minors-mod
 culture = xibei
 religion = confucianism
 capital = "Hanzhong"
@@ -12,6 +15,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = CSH		#5s-minors-mod
+#add_core = QIN		#5s-minors-mod
 
 
 

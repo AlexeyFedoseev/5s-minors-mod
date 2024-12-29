@@ -1,8 +1,10 @@
 # 4692 - Turgay
 
-owner = BSH
-controller = BSH
-add_core = BSH
+#owner = SHY		#5s-minors-mod
+#controller = SHY	#5s-minors-mod
+owner = BSH			#5s-minors-mod
+controller = BSH	#5s-minors-mod
+add_core = BSH		#5s-minors-mod
 culture = khazak
 religion = sunni
 capital = "Zhakeikin"
@@ -12,7 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-
+#add_core = KZH		#5s-minors-mod
+#add_core = SHY		#5s-minors-mod
 
 
 

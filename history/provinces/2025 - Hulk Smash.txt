@@ -1,17 +1,23 @@
 #2025 - South Georgia
 
-owner = PNG
-сontroller = PNG
-add_core = PNG
+owner = PNG				#5s-minors-mod
+controller = PNG		#5s-minors-mod
+add_core = PNG			#5s-minors-mod
 
-capital = "Hulk Smash"
+capital = "Hulk Smash"	#5s-minors-mod
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = fish 		#5s-minors-mod
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-culture = kamchatkan
-religion = animism
-trade_goods = fish
+culture = kamchatkan	#5s-minors-mod
+religion = animism		#5s-minors-mod
+#native_size = 0		#5s-minors-mod
+#native_ferocity = 0	#5s-minors-mod
+#native_hostileness = 0	#5s-minors-mod
+
+
 
 
 1675.1.1 = { discovered_by = ENG }

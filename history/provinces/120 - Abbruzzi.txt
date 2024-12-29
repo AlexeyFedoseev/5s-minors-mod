@@ -1,8 +1,10 @@
 #120 - Abbruzzi
 
-owner = PAP
-controller = PAP
-add_core = PAP
+#owner = NAP		#5s-minors-mod
+#controller = NAP	#5s-minors-mod
+owner = PAP			#5s-minors-mod
+controller = PAP	#5s-minors-mod
+add_core = PAP		#5s-minors-mod
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -12,6 +14,10 @@ trade_goods = wine
 base_manpower = 3
 capital = "L'Aquila" 
 is_city = yes 
+#add_core = NAP		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

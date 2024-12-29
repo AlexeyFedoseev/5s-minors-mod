@@ -1,8 +1,11 @@
 # 2175 - Runing
 
-owner = TNG
-controller = TNG
-add_core = TNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = TNG			#5s-minors-mod
+controller = TNG	#5s-minors-mod
+add_core = TNG		#5s-minors-mod
 culture = zhongyuan
 religion = confucianism
 capital = "Runing"
@@ -12,6 +15,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = LNG		#5s-minors-mod
 
 
 

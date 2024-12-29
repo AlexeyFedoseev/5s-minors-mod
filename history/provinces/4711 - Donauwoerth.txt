@@ -1,7 +1,9 @@
-owner = DWT
-controller = DWT
-add_core = DWT
-capital = "N�rdlingen"
+#owner = ING		#5s-minors-mod
+#controller = ING	#5s-minors-mod
+owner = DWT			#5s-minors-mod
+controller = DWT	#5s-minors-mod
+add_core = DWT		#5s-minors-mod
+capital = "Nördlingen"
 is_city = yes
 culture = swabian
 religion = catholic
@@ -10,6 +12,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 trade_goods = grain
+#add_core = ING		#5s-minors-mod
+#add_core = DWT		#5s-minors-mod
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

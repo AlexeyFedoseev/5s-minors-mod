@@ -1,6 +1,8 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+#owner = TUR		#5s-minors-mod
+#controller = TUR	#5s-minors-mod
+owner = GRE			#5s-minors-mod
+controller = GRE	#5s-minors-mod
+add_core = GRE		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Gumulcine"
@@ -10,6 +12,11 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 is_city = yes
+#add_core = BYZ		#5s-minors-mod
+#add_core = TUR		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

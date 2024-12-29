@@ -1,8 +1,11 @@
 #Eastern Jutland, incl. Vejle, Skanderborg, Kolding, and Fredericia.
 
-owner = SHL
-controller = SHL
-add_core = SHL
+#owner = DAN		#5s-minors-mod
+#controller = DAN	#5s-minors-mod
+#add_core = DAN		#5s-minors-mod
+owner = SHL			#5s-minors-mod
+controller = SHL	#5s-minors-mod
+add_core = SHL		#5s-minors-mod
 culture = danish
 religion = catholic
 hre = no
@@ -11,7 +14,6 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 capital = "Kolding"
-estate = estate_nobles
 is_city = yes
 fort_15th = yes
 discovered_by = western

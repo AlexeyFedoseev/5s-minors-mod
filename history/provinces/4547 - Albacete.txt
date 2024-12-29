@@ -1,8 +1,11 @@
 #221 - Murcia
 
-owner = TLD		# Juan II of Castille
-controller = TLD
-add_core = TLD
+#owner = CAS		# Juan II of Castille	#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+owner = TLD			#5s-minors-mod
+controller = TLD	#5s-minors-mod
+add_core = TLD		#5s-minors-mod
 culture = andalucian
 religion = catholic 
 hre = no
@@ -12,6 +15,9 @@ trade_goods = grain
 base_manpower = 2
 capital = "Albacete" 
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,18 +1,23 @@
 #158 - Maros
 
-owner = TRA
-controller = TRA 
-add_core = TRA
+#owner = HUN		#5s-minors-mod
+#controller = HUN 	#5s-minors-mod
+owner = TRA			#5s-minors-mod
+controller = TRA 	#5s-minors-mod
+add_core = TRA		#5s-minors-mod
 culture = transylvanian #Szeklers
 religion = catholic
 capital = "Targu Mures"
-estate = estate_nobles #Szekelyföld
 trade_goods = wool
 hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = HUN		#5s-minors-mod
+#add_core = TRA		#5s-minors-mod
+
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

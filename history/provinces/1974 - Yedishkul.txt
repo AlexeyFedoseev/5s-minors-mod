@@ -1,10 +1,12 @@
 #1974 - Yedishkul
 
-owner = ZAZ
-controller = ZAZ
-add_core = ZAZ
-culture = goths
-religion = orthodox
+#owner = CRI		#5s-minors-mod
+#controller = CRI	#5s-minors-mod
+owner = ZAZ			#5s-minors-mod
+controller = ZAZ	#5s-minors-mod
+add_core = ZAZ		#5s-minors-mod
+culture = goths			# ???
+religion = orthodox		# ???
 hre = no
 base_tax = 4
 base_production = 4
@@ -12,6 +14,10 @@ trade_goods = salt
 base_manpower = 2
 capital = "Kherson"
 is_city = yes
+#add_core = CRI		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

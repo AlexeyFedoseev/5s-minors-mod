@@ -1,8 +1,11 @@
 #4024 - Maroantsetra
 
-owner = LIB
-controller = LIB
-add_core = LIB
+#owner = BTS		#5s-minors-mod
+#controller = BTS	#5s-minors-mod
+#add_core = BTS		#5s-minors-mod
+owner = LIB			#5s-minors-mod
+controller = LIB	#5s-minors-mod
+add_core = LIB		#5s-minors-mod
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Maroantsetra"

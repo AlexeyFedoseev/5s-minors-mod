@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = catalan		# ???
-add_accepted_culture = aragonese # ???
+primary_culture = aragonese
+#primary_culture = catalan		#5s-minors-mod
+#add_accepted_culture = aragonese #5s-minors-mod
 #add_accepted_culture = sicilian #5s-minors-mod
 religion = catholic
 technology_group = western

@@ -1,7 +1,10 @@
 #2780 - Beledweyne
 
-owner = HOB
-controller = HOB
+#owner = AJU		#5s-minors-mod
+#controller = AJU	#5s-minors-mod
+#add_core = AJU		#5s-minors-mod
+owner = HOB			#5s-minors-mod
+controller = HOB	#5s-minors-mod
 add_core = HOB
 culture = somali
 religion = sunni
@@ -22,5 +25,6 @@ discovered_by = ottoman
 
 1526.1.1 = { owner = ADA controller = ADA } #Ahmad Gran secures control over Marehan
 1550.1.1 = { discovered_by = TUR }
+
 1555.1.1 = { owner = AJU controller = AJU } #Northern part of province no longer conrolled by ADA
 1650.1.1 = { owner = HOB controller = HOB remove_core = AJU }

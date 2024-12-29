@@ -1,8 +1,11 @@
 #Bornholm
 
-add_core = RUG
-owner = RUG
-controller = RUG
+#add_core = DAN		#5s-minors-mod
+#owner = DAN		#5s-minors-mod
+#controller = DAN	#5s-minors-mod
+add_core = RUG		#5s-minors-mod
+owner = RUG			#5s-minors-mod
+controller = RUG	#5s-minors-mod
 culture = danish
 religion = catholic
 hre = no

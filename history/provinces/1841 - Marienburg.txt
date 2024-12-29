@@ -1,8 +1,10 @@
 #Marienburg
 
-owner = DNZ
-controller = DNZ
-add_core = DNZ
+#owner = TEU		#5s-minors-mod
+#controller = TEU	#5s-minors-mod
+owner = DNZ			#5s-minors-mod
+controller = DNZ	#5s-minors-mod
+add_core = DNZ		#5s-minors-mod
 capital = "Marienburg"
 culture = prussian
 religion = catholic
@@ -12,6 +14,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = TEU		#5s-minors-mod
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,8 +1,10 @@
 #4496 - Kora
 
-owner = BND
-controller = BND
-add_core = BND
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = BND			#5s-minors-mod
+controller = BND	#5s-minors-mod
+add_core = BND		#5s-minors-mod
 culture = avadhi
 religion = hinduism
 capital = "Kora"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-estate = estate_church
+#add_core = JNP		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

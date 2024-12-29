@@ -2,7 +2,7 @@
 
 owner = PRM
 controller = PRM
-add_core = PRM
+add_core = PRM		#5s-minors-mod
 culture = uralic 
 religion = orthodox
 hre = no
@@ -12,7 +12,8 @@ trade_goods = fur
 base_manpower = 1
 capital = "Ust-Vym"
 is_city = yes
-estate = estate_church #Bishop of Perm
+#add_core = PRM							#5s-minors-mod
+#add_core = NOV # Novgorodian claims	#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

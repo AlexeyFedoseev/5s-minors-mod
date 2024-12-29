@@ -1,8 +1,10 @@
 #359 - Fayyum & Bani Suwaif
 
-owner = CAR
-controller = CAR
-add_core = CAR
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = CAR			#5s-minors-mod
+controller = CAR	#5s-minors-mod
+add_core = CAR		#5s-minors-mod
 culture = al_misr_arabic
 religion = sunni
 capital = "Al Fayyum"
@@ -12,7 +14,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = MAM		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

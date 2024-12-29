@@ -1,8 +1,10 @@
 #4474 - Sonargaon
 
-owner = TPR
-controller = TPR
-add_core = TPR
+#owner = BNG		#5s-minors-mod
+#controller = BNG	#5s-minors-mod
+owner = TPR			#5s-minors-mod
+controller = TPR	#5s-minors-mod
+add_core = TPR		#5s-minors-mod
 culture = bengali
 religion = hinduism
 capital = "Sonargaon"
@@ -12,7 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = BNG		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

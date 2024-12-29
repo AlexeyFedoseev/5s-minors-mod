@@ -1,18 +1,21 @@
 #2717 - Sula
 
-owner = TID
-controller = TID
-add_core = TID
+owner = TID			#5s-minors-mod
+controller = TID	#5s-minors-mod
+add_core = TID		#5s-minors-mod
 culture = moluccan
 religion = animism
 capital = "Sula"
-trade_goods = cloves
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = cloves	#5s-minors-mod
 hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
-
+#native_size = 5			#5s-minors-mod
+#native_ferocity = 2		#5s-minors-mod
+#native_hostileness = 2		#5s-minors-mod
+is_city = yes				#5s-minors-mod
 
 
 discovered_by = chinese

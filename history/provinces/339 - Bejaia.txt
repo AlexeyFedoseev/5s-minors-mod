@@ -1,8 +1,10 @@
 #339 - Bejaia
 
-owner = KBA
-controller = KBA
-add_core = KBA
+#owner = TUN		#5s-minors-mod
+#controller = TUN	#5s-minors-mod
+owner = KBA			#5s-minors-mod
+controller = KBA	#5s-minors-mod
+add_core = KBA		#5s-minors-mod
 culture = berber
 religion = sunni
 capital = "Bejaia"
@@ -12,6 +14,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = TUN		#5s-minors-mod
+#add_core = KBA		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

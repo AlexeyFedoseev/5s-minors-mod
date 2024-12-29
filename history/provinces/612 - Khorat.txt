@@ -1,8 +1,10 @@
 #612 - Khorat
 
-owner = CHK
-controller = CHK
-add_core = CHK
+#owner = AYU		#5s-minors-mod
+#controller = AYU	#5s-minors-mod
+owner = CHK			#5s-minors-mod
+controller = CHK	#5s-minors-mod
+add_core = CHK		#5s-minors-mod
 culture = khmer
 religion = buddhism
 capital = "Khorat"
@@ -12,6 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = AYU		#5s-minors-mod
 
 
 

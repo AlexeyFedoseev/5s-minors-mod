@@ -1,8 +1,8 @@
 #655 - Palawan
 
-owner = SUL
-controller = SUL
-add_core = SUL
+owner = SUL			#5s-minors-mod
+controller = SUL	#5s-minors-mod
+add_core = SUL		#5s-minors-mod
 
 culture = filipino
 religion = sunni
@@ -14,6 +14,10 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 discovered_by = chinese
+#owner = BEI				#5s-minors-mod
+#controller = BEI			#5s-minors-mod
+#add_core = BEI				#5s-minors-mod
+#add_local_autonomy = 25	#5s-minors-mod
 
 1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
 1749.1.1 = {

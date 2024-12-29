@@ -1,8 +1,11 @@
 # 2164 - Namning
 
-owner = CGS
-controller = CGS
-add_core = CGS
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CGS			#5s-minors-mod
+controller = CGS	#5s-minors-mod
+add_core = CGS		#5s-minors-mod
 culture = zhuang
 religion = confucianism
 capital = "Namning"

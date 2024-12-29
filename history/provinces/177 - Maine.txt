@@ -1,8 +1,10 @@
 # 177 Maine - Principal cities: Le Mans, Laval
 
-owner = ALE
-controller = ALE
-add_core = ALE
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = ALE			#5s-minors-mod
+controller = ALE	#5s-minors-mod
+add_core = ALE		#5s-minors-mod
 capital = "Le Mans"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,6 +14,10 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 4
+#add_local_autonomy = 80	#5s-minors-mod
+#add_core = ENG				#5s-minors-mod
+#add_core = PRO				#5s-minors-mod
+#add_core = FRA				#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -23,8 +29,8 @@ discovered_by = ottoman
 	add_local_autonomy = -80
 }
 1474.8.1 = { controller = FRA } # Louis XI occupies Anjou because of being excluded of the Anjou inheritance
-1476.1.1 = { controller = PRO } # Louis XI is reconciled, and Anjou is restored to Duke Ren�
-1480.1.1 = { owner = FRA controller = FRA add_core = FRA } # Anjou ceded to France after the death of Ren�, Duke of Anjou & Provence
+1476.1.1 = { controller = PRO } # Louis XI is reconciled, and Anjou is restored to Duke René
+1480.1.1 = { owner = FRA controller = FRA add_core = FRA } # Anjou ceded to France after the death of René, Duke of Anjou & Provence
 1560.1.1 = { religion = reformed }
 1562.3.1 = { unrest = 3 } # Huguenots organise themselves along the Loire
 1563.3.19 = { unrest = 0 } # Temporary truce after the assassination of de Guise

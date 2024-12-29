@@ -1,8 +1,11 @@
 # 2156 - Chaochow
 
-owner = MIN
-controller = MIN
-add_core = MIN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = MIN			#5s-minors-mod
+controller = MIN	#5s-minors-mod
+add_core = MIN		#5s-minors-mod
 culture = chimin
 religion = confucianism
 capital = "Chaochow"
@@ -12,6 +15,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
+#add_core = MIN		#5s-minors-mod
 
 
 

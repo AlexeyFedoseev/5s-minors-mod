@@ -1,8 +1,11 @@
 #2767 - Enderta
 
-owner = MED
-controller = MED
-add_core = MED
+#owner = ETH		#5s-minors-mod
+#controller = ETH	#5s-minors-mod
+#add_core = ETH		#5s-minors-mod
+owner = MED			#5s-minors-mod
+controller = MED	#5s-minors-mod
+add_core = MED		#5s-minors-mod
 culture = tigray 
 religion = coptic
 capital = "Antalo"

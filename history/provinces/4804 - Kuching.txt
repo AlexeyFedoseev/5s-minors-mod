@@ -1,7 +1,8 @@
-owner = SMB
-controller = SMB
-add_core = SMB
-
+#owner = BEI		#5s-minors-mod
+#controller = BEI	#5s-minors-mod
+owner = SMB			#5s-minors-mod
+controller = SMB	#5s-minors-mod
+add_core = SMB		#5s-minors-mod
 culture = bornean
 religion = sunni
 capital = "Kuching"
@@ -11,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-
+#add_core = BEI		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

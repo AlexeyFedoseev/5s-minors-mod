@@ -1,8 +1,10 @@
 #4494 - Khairabad
 
-owner = ODH
-controller = ODH
-add_core = ODH
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = ODH			#5s-minors-mod
+controller = ODH	#5s-minors-mod
+add_core = ODH		#5s-minors-mod
 culture = avadhi
 religion = hinduism
 capital = "Khairabad"
@@ -13,6 +15,8 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
+#add_core = JNP		#5s-minors-mod
+#add_core = ODH		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

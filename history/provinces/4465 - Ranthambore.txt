@@ -1,8 +1,10 @@
 #4465 - Ranthambore
 
-owner = GWA
-controller = GWA
-add_core = GWA
+#owner = MER		#5s-minors-mod
+#controller = MER	#5s-minors-mod
+owner = GWA			#5s-minors-mod
+controller = GWA	#5s-minors-mod
+add_core = GWA		#5s-minors-mod
 culture = rajput
 religion = hinduism
 capital = "Ranthambore"
@@ -14,6 +16,8 @@ base_manpower = 1
 is_city = yes
 fort_15th = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
+#add_core = MER		#5s-minors-mod
+#add_core = HAD		#5s-minors-mod
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -25,7 +29,6 @@ discovered_by = chinese
 	controller = MLW
 	add_core = MLW
 } # Conquest by Malwa
-#TODO History
 1519.1.1 = {
 	owner = HAD
 	controller = HAD

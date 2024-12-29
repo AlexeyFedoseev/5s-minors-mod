@@ -1,8 +1,10 @@
 #1820 - Awa
 
-owner = MAE
-controller = MAE
-add_core = MAE
+#owner = HSK		#5s-minors-mod
+#controller = HSK	#5s-minors-mod
+owner = MAE			#5s-minors-mod
+controller = MAE	#5s-minors-mod
+add_core = MAE		#5s-minors-mod
 culture = japanese
 religion = shinto
 capital = "Tokushima"
@@ -12,6 +14,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = HSK		#5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

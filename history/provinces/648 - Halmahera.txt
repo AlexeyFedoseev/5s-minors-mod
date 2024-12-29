@@ -1,20 +1,27 @@
 #648 - Halmahera
 
-owner = TER
-controller = TER
-add_core = TER
+owner = TER				#5s-minors-mod
+controller = TER		#5s-minors-mod
+add_core = TER			#5s-minors-mod
 culture = moluccan
 religion = animism
 capital = "Halmahera"
-trade_goods = cloves
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = cloves	#5s-minors-mod
 hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = yes
+#native_size = 5			#5s-minors-mod
+#native_ferocity = 1		#5s-minors-mod
+#native_hostileness = 1		#5s-minors-mod
+is_city = yes				#5s-minors-mod
+
+
+
 discovered_by = chinese
 
-1512.1.1 = { discovered_by = POR } # Francisco Serr�o
+1512.1.1 = { discovered_by = POR } # Francisco Serrão
 
 1650.1.1 = {
 	owner = NED

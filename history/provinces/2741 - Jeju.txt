@@ -1,9 +1,11 @@
 #2740 - Jeju
 
-owner = BAE
-controller = BAE
-add_core = BAE
-add_core = GOG
+#owner = KOR		#5s-minors-mod
+#controller = KOR	#5s-minors-mod
+owner = BAE			#5s-minors-mod
+controller = BAE	#5s-minors-mod
+add_core = BAE		#5s-minors-mod
+add_core = GOG		#5s-minors-mod
 culture = korean
 religion = confucianism
 capital = "Jeju"
@@ -13,6 +15,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = KOR		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 

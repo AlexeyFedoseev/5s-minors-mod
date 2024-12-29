@@ -1,8 +1,12 @@
-#4759 - Oberk�rnten
+#4759 - Oberkärnten
 
-owner = TIR
-controller = TIR
-add_core = TIR
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+#add_core = STY		#5s-minors-mod
+owner = TIR			#5s-minors-mod
+controller = TIR	#5s-minors-mod
+add_core = TIR		#5s-minors-mod
 culture	= austrian
 religion = catholic
 base_tax = 3

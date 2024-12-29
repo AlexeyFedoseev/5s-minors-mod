@@ -1,7 +1,10 @@
 # No previous file for Tenkodogo
 
-owner = TEN
-controller = TEN
+#owner = WGD		#5s-minors-mod
+#controller = WGD	#5s-minors-mod
+#add_core = WGD		#5s-minors-mod
+owner = TEN			#5s-minors-mod
+controller = TEN	#5s-minors-mod
 add_core = TEN
 is_city = yes
 culture = mossi 

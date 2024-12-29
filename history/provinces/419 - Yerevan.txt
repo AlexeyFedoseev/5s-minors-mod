@@ -1,9 +1,10 @@
 #419 - Yerevan
 
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = ARM 
+#owner = TIM		#5s-minors-mod
+#controller = TIM	#5s-minors-mod
+owner = MLK			#5s-minors-mod
+controller = MLK	#5s-minors-mod
+add_core = MLK		#5s-minors-mod
 culture = armenian
 religion = coptic
 capital = "Yerevan"
@@ -13,6 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = TIM			#5s-minors-mod
+#add_core = ARM 		#5s-minors-mod
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim
@@ -23,14 +26,14 @@ fort_15th = yes
 extra_cost = 8
 center_of_trade = 1
 
-1402.1.1 = {
-	owner = QAR
-	controller = QAR
-	add_core = QAR
-	remove_core = TIM
-} 
-1435.1.1 = { unrest = 10 } 
-1444.1.1 = { unrest = 0 owner = MLK controller = MLK add_core = MLK remove_core = QAR remove_core = ARM } #5s league minors mod
+#5s-minors-mod
+#1402.1.1 = {
+#	owner = QAR
+#	controller = QAR
+#	add_core = QAR
+#	remove_core = TIM
+#} 
+#1435.1.1 = { unrest = 10 } 
 1453.1.1 = { unrest = 0 }
 1453.1.1 = { discovered_by = western }
 1468.1.1 = {

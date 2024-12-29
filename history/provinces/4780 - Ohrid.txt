@@ -1,9 +1,11 @@
 # 4780 - Ohrid
 
-owner = ALB
-controller = ALB
-add_core = ALB
-culture = serbian
+#owner = TUR
+#controller = TUR
+owner = ALB			#5s-minors-mod
+controller = ALB	#5s-minors-mod
+add_core = ALB		#5s-minors-mod
+culture = serbian	# ???
 religion = orthodox
 capital = "Ohrid"
 trade_goods = wool
@@ -12,6 +14,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = TUR		#5s-minors-mod
+#add_core = BUL		#5s-minors-mod
+#add_core = SER		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

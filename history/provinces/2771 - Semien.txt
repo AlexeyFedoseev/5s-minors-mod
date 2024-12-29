@@ -1,7 +1,10 @@
 #2771 - Semien
 
-owner = BTI
-controller = BTI
+#owner = ETH		#5s-minors-mod
+#controller = ETH	#5s-minors-mod
+#add_core = ETH		#5s-minors-mod
+owner = BTI			#5s-minors-mod
+controller = BTI	#5s-minors-mod
 add_core = BTI
 culture = amhara 
 religion = jewish
@@ -17,18 +20,18 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 
-1440.1.1 = {
-	controller = REB
-	revolt = {
-		type = nationalist_rebels
-		size = 2
-		leader = "Gideon Gideonid"
-	}
-	unrest = 8
-}
-1444.1.1 = { unrest = 0 controller = BTI revolt = {} } # 5s league minors mod
+#5s-minors-mod
+#1441.1.1 = { # moved date forward a year for balance reasons
+#	controller = REB
+#	revolt = {
+#		type = nationalist_rebels
+#		size = 2
+#		leader = "Gideon Gideonid"
+#	}
+#	unrest = 8
+#}
 1475.1.1 = { unrest = 5 } #Repression against the Falasha by Baeda Maryam
-1476.1.1 = { unrest = 0 revolt = { size = 0 } }
+1476.1.1 = { unrest = 0 revolt = {} controller = ETH }
 1520.1.1 = {
 	owner = BTI
 	controller = BTI

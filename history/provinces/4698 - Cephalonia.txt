@@ -1,6 +1,8 @@
-owner = CEP
-controller = CEP
-add_core = CEP
+#owner = EPI		#5s-minors-mod
+#controller = EPI	#5s-minors-mod
+owner = CEP			#5s-minors-mod
+controller = CEP	#5s-minors-mod
+add_core = CEP		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Agios Georgios"
@@ -10,6 +12,10 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
+#add_core = EPI		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

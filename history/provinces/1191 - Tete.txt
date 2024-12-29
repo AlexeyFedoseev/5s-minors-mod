@@ -1,8 +1,11 @@
 #1191 - Tete
 
-owner = LDU
-controller = LDU
-add_core = LDU
+#owner = ZIM		#5s-minors-mod
+#controller = ZIM	#5s-minors-mod
+#add_core = ZIM		#5s-minors-mod
+owner = LDU			#5s-minors-mod
+controller = LDU	#5s-minors-mod
+add_core = LDU		#5s-minors-mod
 culture = shona
 religion = shamanism
 capital = "Tete"

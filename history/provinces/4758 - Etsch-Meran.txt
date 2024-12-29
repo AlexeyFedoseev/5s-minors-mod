@@ -1,7 +1,10 @@
 #4758 - Etsch (Meran)
 
-owner = TIR
-controller = TIR
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+owner = TIR			#5s-minors-mod
+controller = TIR	#5s-minors-mod
 add_core = TIR
 culture = austrian
 religion = catholic

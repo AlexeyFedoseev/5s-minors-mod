@@ -1,9 +1,10 @@
 #364 - Gaza
 
-owner = ALX
-controller = ALX
-add_core = ALX
-
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = ALX			#5s-minors-mod
+controller = ALX	#5s-minors-mod
+add_core = ALX		#5s-minors-mod
 culture = al_suryah_arabic
 religion = sunni
 capital = "Gazzah"
@@ -12,8 +13,8 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-estate = estate_nobles
 is_city = yes
+#add_core = MAM		#5s-minors-mod
 
 discovered_by = western
 discovered_by = muslim

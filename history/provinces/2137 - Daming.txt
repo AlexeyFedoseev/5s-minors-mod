@@ -1,8 +1,11 @@
 # 2137 - Daming
 
-owner = YAN
-controller = YAN
-add_core = YAN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = YAN			#5s-minors-mod
+controller = YAN	#5s-minors-mod
+add_core = YAN		#5s-minors-mod
 culture = chihan
 religion = confucianism
 capital = "Daming"
@@ -12,6 +15,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = YAN		#5s-minors-mod
 
 
 

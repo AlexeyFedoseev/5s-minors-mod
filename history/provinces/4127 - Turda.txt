@@ -1,8 +1,10 @@
 #1951 - Hunyad
 
-owner = TRA
-controller = TRA 
-add_core = TRA
+#owner = HUN		#5s-minors-mod
+#controller = HUN 	#5s-minors-mod
+owner = TRA			#5s-minors-mod
+controller = TRA 	#5s-minors-mod
+add_core = TRA		#5s-minors-mod
 culture = transylvanian
 religion = orthodox
 capital = "Turda"
@@ -12,6 +14,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = HUN		#5s-minors-mod
+#add_core = TRA		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

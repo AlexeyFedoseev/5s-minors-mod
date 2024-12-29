@@ -1,8 +1,11 @@
 #134 - Wien
 
-owner = WIN
-controller = WIN
-add_core = WIN
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+owner = WIN			#5s-minors-mod
+controller = WIN	#5s-minors-mod
+add_core = WIN		#5s-minors-mod
 culture = austrian
 religion = catholic
 base_tax = 6 

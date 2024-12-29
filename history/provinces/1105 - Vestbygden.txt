@@ -1,7 +1,7 @@
 #1105 - Vestbygden
 
 culture = inuit
-religion = animism
+religion = totemism
 capital = "Vestbygden"
 trade_goods = unknown
 hre = no
@@ -14,7 +14,7 @@ native_hostileness = 9
 
 
 
-1444.1.1 = { discovered_by = ICE } # 5s league minors mod
+1444.1.1 = { discovered_by = ICE } #5s-minors-mod
 1720.1.1 = { discovered_by = DAN }
 
 1721.1.1 = {

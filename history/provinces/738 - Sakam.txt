@@ -1,17 +1,25 @@
 #738 - Taiwan
 
-owner = FRM
-controller = FRM
-add_core = FRM
-culture = chimin
-religion = confucianism
+owner = FRM			#5s-minors-mod
+controller = FRM	#5s-minors-mod
+add_core = FRM		#5s-minors-mod
+culture = chimin	# ???
+religion = confucianism		# ???
 capital = "Sakam"
-trade_goods = fish
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = fish		#5s-minors-mod
 hre = no
-is_city = yes
+
 base_tax = 4 
 base_production = 4
 base_manpower = 2
+#native_size = 60			#5s-minors-mod
+#native_ferocity = 1		#5s-minors-mod
+#native_hostileness = 5		#5s-minors-mod
+is_city = yes				#5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

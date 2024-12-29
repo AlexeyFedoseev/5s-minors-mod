@@ -1,8 +1,0 @@
-1444.1.1 = {
-    discovered_by = INC
-    discovered_by = CHM
-} # 5s league minors mod
-
-
-1528.1.1 = { discovered_by = SPA }
-

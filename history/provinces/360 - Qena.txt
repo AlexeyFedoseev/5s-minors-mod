@@ -1,9 +1,11 @@
 #360 - Qus & Qena
 
-owner = MAK
-controller = MAK
-add_core = MAK
-culture = nubian
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = MAK			#5s-minors-mod
+controller = MAK	#5s-minors-mod
+add_core = MAK		#5s-minors-mod
+culture = nubian	# ???
 religion = sunni
 capital = "Qus"
 trade_goods = livestock
@@ -12,6 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = MAM				#5s-minors-mod
+#add_local_autonomy = 50 	#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,7 +1,10 @@
-#�sel and Dag�, incl. Sonnenburg and Arensburg.
+#Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
-owner = EST
-controller = EST
+#owner = LIV		#5s-minors-mod
+#controller = LIV	#5s-minors-mod
+#add_core = LIV		#5s-minors-mod
+owner = EST			#5s-minors-mod
+controller = EST	#5s-minors-mod
 add_core = EST
 culture = estonian
 religion = catholic
@@ -12,6 +15,9 @@ trade_goods = grain
 base_manpower = 1
 capital = "Arensburg"
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 
@@ -30,8 +36,7 @@ discovered_by = eastern
 	controller = SWE
 	add_core = SWE
 	remove_core = DAN
-	estate = estate_nobles
-} # The Peace of Br�msebro
+	} # The Peace of Brömsebro
 1710.9.20 = { controller = RUS }
 1721.8.30 = {
 	owner = RUS

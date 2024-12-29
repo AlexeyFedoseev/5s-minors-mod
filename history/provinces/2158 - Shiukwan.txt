@@ -1,8 +1,11 @@
 # 2158 - Shiukwan
 
-owner = HUA
-controller = HUA
-add_core = HUA
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = HUA			#5s-minors-mod
+controller = HUA	#5s-minors-mod
+add_core = HUA		#5s-minors-mod
 culture = hakka
 religion = confucianism
 capital = "Shiukwan"
@@ -12,6 +15,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = HUA		#5s-minors-mod
 
 
 

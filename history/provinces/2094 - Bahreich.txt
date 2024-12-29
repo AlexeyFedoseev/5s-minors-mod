@@ -1,8 +1,10 @@
 #2094 - Bahreich
 
-owner = DNG
-controller = DNG
-add_core = DNG
+#owner = JNP		#5s-minors-mod
+#controller = JNP	#5s-minors-mod
+owner = DNG			#5s-minors-mod
+controller = DNG	#5s-minors-mod
+add_core = DNG		#5s-minors-mod
 culture = avadhi
 religion = hinduism
 capital = "Bahreich"
@@ -13,6 +15,8 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
+#add_core = JNP		#5s-minors-mod
+#add_core = ODH		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

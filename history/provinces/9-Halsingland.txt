@@ -1,8 +1,11 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
-add_core = FIN
-owner = FIN
-controller = FIN
+#add_core = SWE		#5s-minors-mod
+#owner = SWE		#5s-minors-mod
+#controller = SWE	#5s-minors-mod
+add_core = FIN		#5s-minors-mod
+owner = FIN			#5s-minors-mod
+controller = FIN	#5s-minors-mod
 culture = swedish
 religion = catholic
 hre = no

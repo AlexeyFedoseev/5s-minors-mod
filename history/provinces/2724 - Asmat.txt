@@ -1,20 +1,24 @@
 #2724 - Asmat
 
-owner = BLM
-controller = BLM
-add_core = BLM 
+owner = BLM					#5s-minors-mod
+controller = BLM			#5s-minors-mod
+add_core = BLM 				#5s-minors-mod
 culture = papuan
 religion = animism
 capital = "Asmat"
-trade_goods = incense
+#trade_goods = unknown		#5s-minors-mod
+trade_goods = incense		#5s-minors-mod
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
+#native_size = 60			#5s-minors-mod
+#native_ferocity = 4		#5s-minors-mod
+#native_hostileness = 8		#5s-minors-mod
+is_city = yes				#5s-minors-mod
 
 
-discovered_by = BLM
+discovered_by = BLM		# ???
 discovered_by = MKS
 discovered_by = TER
 discovered_by = TID

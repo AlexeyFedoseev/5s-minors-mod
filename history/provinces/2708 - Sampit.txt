@@ -1,16 +1,22 @@
 #2708 - Sampit
 
-owner = BNJ
-controller = BNJ
-add_core = BNJ
+owner = BNJ			#5s-minors-mod
+controller = BNJ	#5s-minors-mod
+add_core = BNJ		#5s-minors-mod
 culture = bornean
 religion = hinduism
 capital = "Sampit"
-trade_goods = tropical_wood
+trade_goods = tropical_wood		#5s-minors-mod
 hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
+#native_size = 30		#5s-minors-mod
+#native_ferocity = 6	#5s-minors-mod
+#native_hostileness = 5 #5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

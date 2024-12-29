@@ -1,7 +1,10 @@
 #Nyland, incl. Raseborg, Borgå, Helsingfors.
 
-owner = FIN
-controller = FIN
+#owner = SWE		#5s-minors-mod
+#controller = SWE	#5s-minors-mod
+#add_core = SWE		#5s-minors-mod
+owner = FIN			#5s-minors-mod
+controller = FIN	#5s-minors-mod
 add_core = FIN
 culture = finnish
 religion = catholic
@@ -12,6 +15,9 @@ trade_goods = naval_supplies
 base_manpower = 2
 capital = "Borgå"
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 

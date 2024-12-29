@@ -1,8 +1,11 @@
 #Eastern and Northern Småland - Includes parts under Östgötalag
 
-add_core = GOT
-owner = GOT
-controller = GOT
+#add_core = SWE		#5s-minors-mod
+#owner = SWE		#5s-minors-mod
+#controller = SWE	#5s-minors-mod
+add_core = GOT		#5s-minors-mod
+owner = GOT			#5s-minors-mod
+controller = GOT	#5s-minors-mod
 culture = swedish
 religion = catholic
 hre = no

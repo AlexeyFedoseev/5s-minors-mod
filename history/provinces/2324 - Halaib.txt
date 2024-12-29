@@ -1,7 +1,11 @@
 #2324 - Halaib
 
-owner = BEJ
-controller = BEJ
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+#add_core = MAM 	#5s-minors-mod
+
+owner = BEJ			#5s-minors-mod
+controller = BEJ	#5s-minors-mod
 add_core = BEJ
 culture = beja
 religion = sunni

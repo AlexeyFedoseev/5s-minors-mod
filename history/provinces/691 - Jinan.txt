@@ -1,8 +1,11 @@
 #691 - Jinan
 
-owner = QIC
-controller = QIC
-add_core = QIC
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = QIC			#5s-minors-mod
+controller = QIC	#5s-minors-mod
+add_core = QIC		#5s-minors-mod
 culture = shandong_culture
 religion = confucianism
 capital = "Jinan"
@@ -12,7 +15,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = QIC
+#add_core = QIC		#5s-minors-mod
 
 
 

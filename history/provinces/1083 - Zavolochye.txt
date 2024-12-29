@@ -1,8 +1,10 @@
 #1083 - Vetluga ( formerly Zavolochye )
 
-owner = UST
-controller = UST
-add_core = UST
+#owner = MOS		#5s-minors-mod
+#controller = MOS	#5s-minors-mod
+owner = UST			#5s-minors-mod
+controller = UST	#5s-minors-mod
+add_core = UST		#5s-minors-mod
 capital = "Yur"
 culture = russian
 religion = orthodox
@@ -12,6 +14,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = MOS		#5s-minors-mod
 
 
 

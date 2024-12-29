@@ -4,8 +4,12 @@ latent_trade_goods = {
 	coal
 }
 
-owner = ASU		#Juan II of Castille
-controller = ASU
+#owner = CAS		#Juan II of Castille	#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+#add_core = LON		#5s-minors-mod
+owner = ASU			#5s-minors-mod
+controller = ASU	#5s-minors-mod
 add_core = ASU
 culture = leonese
 religion = catholic

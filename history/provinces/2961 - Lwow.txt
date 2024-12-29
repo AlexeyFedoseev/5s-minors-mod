@@ -4,10 +4,13 @@ latent_trade_goods = {
 	coal
 }
 
-owner = VOL
-controller = VOL
-add_core = VOL
-capital= "Lw�w"
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = VOL			#5s-minors-mod
+controller = VOL	#5s-minors-mod
+add_core = VOL		#5s-minors-mod
+
+capital= "Lwów"
 culture = ruthenian
 religion = orthodox
 trade_goods = dyes #Polish cochineal
@@ -15,8 +18,9 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 2
-estate = estate_church #Or burghers
 is_city = yes
+#add_core = POL		#5s-minors-mod
+#add_core = VOL		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

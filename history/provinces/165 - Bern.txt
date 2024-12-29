@@ -1,8 +1,10 @@
 #165 - Bern
 
-owner = MLH
-controller = MLH 
-add_core = MLH
+#owner = SWI		#5s-minors-mod
+#controller = SWI 	#5s-minors-mod
+owner = MLH			#5s-minors-mod
+controller = MLH 	#5s-minors-mod
+add_core = MLH		#5s-minors-mod
 culture = swiss
 religion = catholic
 capital = "Bern"
@@ -13,8 +15,10 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
+#add_core = SWI		#5s-minors-mod
 extra_cost = 8
 center_of_trade = 1
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

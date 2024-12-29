@@ -2,7 +2,7 @@
 
 owner = SAR
 controller = SAR
-add_core = SAR
+add_core = SAR	#5s-minors-mod
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -12,7 +12,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Arborea" 
 is_city = yes # Estimated 
-
+#add_core = SAR	#5s-minors-mod
 
 
 
@@ -22,7 +22,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-####	5s league minors mod	1420.1.1 = { owner = ARA add_core = ARA controller = ARA } # Conquered by Aragon
+#1420.1.1 = { owner = ARA add_core = ARA controller = ARA } #5s-minors-mod
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA

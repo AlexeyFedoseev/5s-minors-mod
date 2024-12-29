@@ -12,6 +12,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = FZA
+#add_local_autonomy = 25		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

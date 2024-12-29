@@ -1,8 +1,11 @@
 #2321 - Queseer
 
-owner = BEJ
-controller = BEJ
-add_core = BEJ
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+#add_core = MAM		#5s-minors-mod
+owner = BEJ			#5s-minors-mod
+controller = BEJ	#5s-minors-mod
+add_core = BEJ		#5s-minors-mod
 culture = al_misr_arabic
 religion = sunni
 capital = "Al Qusair"

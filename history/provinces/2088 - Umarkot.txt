@@ -1,8 +1,10 @@
 #2088 - Umarkot
 
-owner = KAT
-controller = KAT
-add_core = KAT
+#owner = SND		#5s-minors-mod
+#controller = SND	#5s-minors-mod
+owner = KAT			#5s-minors-mod
+controller = KAT	#5s-minors-mod
+add_core = KAT		#5s-minors-mod
 culture = sindhi
 religion = sunni
 capital = "Umarkot"
@@ -12,6 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = SND		#5s-minors-mod
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim 

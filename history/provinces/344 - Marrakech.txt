@@ -1,7 +1,10 @@
 #344 - Marrakech
 
-owner = MOR
-controller = MOR 
+#owner = MOR		#5s-minors-mod
+#controller = MOR 	#5s-minors-mod
+owner = MRK			#5s-minors-mod
+controller = MRK	#5s-minors-mod
+add_core = MRK		#5s-minors-mod
 culture = moroccan
 religion = sunni
 capital = "Marrakech"
@@ -12,7 +15,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = MOR
+#add_core = MOR		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -23,7 +26,6 @@ discovered_by = ottoman
 	owner = MRK
 	controller = MRK
 	add_core = MRK
-	remove_core = MOR
 }
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = { owner = SOS controller = SOS unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.

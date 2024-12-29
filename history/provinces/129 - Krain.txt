@@ -1,7 +1,10 @@
 # 129 - Krain
-owner = CLI
-controller = CLI
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+owner = CLI			#5s-minors-mod
+controller = CLI	#5s-minors-mod
 add_core = CLI
+#add_core = STY		#5s-minors-mod
 culture = slovene
 religion = catholic
 base_tax = 4

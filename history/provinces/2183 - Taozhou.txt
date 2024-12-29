@@ -1,10 +1,13 @@
 # 2183 - Taozhou
 
-owner = CSH
-controller = CSH
-add_core = CSH
-culture = xibei
-religion = confucianism
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CSH			#5s-minors-mod
+controller = CSH	#5s-minors-mod
+add_core = CSH		#5s-minors-mod
+culture = xibei				# ???
+religion = confucianism		# ???
 capital = "Taozhou"
 trade_goods = chinaware
 hre = no
@@ -12,6 +15,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = CSH		#5s-minors-mod
 
 
 

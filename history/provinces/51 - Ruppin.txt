@@ -1,7 +1,10 @@
 #51 - Ruppin
 
-owner = RUP
-controller = RUP
+#owner = BRA		#5s-minors-mod
+#controller = BRA	#5s-minors-mod
+#add_core = BRA		#5s-minors-mod
+owner = RUP			#5s-minors-mod
+controller = RUP	#5s-minors-mod
 add_core = RUP
 culture = saxon
 religion = catholic

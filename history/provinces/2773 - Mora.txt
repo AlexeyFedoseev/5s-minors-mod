@@ -1,7 +1,10 @@
 #2773 - Mora
 
-owner = HAR
-controller = HAR
+#owner = ADA		#5s-minors-mod
+#controller = ADA	#5s-minors-mod
+#add_core = ADA		#5s-minors-mod
+owner = HAR			#5s-minors-mod
+controller = HAR	#5s-minors-mod
 add_core = HAR
 culture = harari
 religion = sunni

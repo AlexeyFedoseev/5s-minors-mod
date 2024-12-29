@@ -1,8 +1,11 @@
 #686 - Anqing (can't change file name)
 
-owner = CHC
-controller = CHC
-add_core = CHC
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CHC			#5s-minors-mod
+controller = CHC	#5s-minors-mod
+add_core = CHC		#5s-minors-mod
 culture = jianghuai
 religion = confucianism
 capital = "Anqing"

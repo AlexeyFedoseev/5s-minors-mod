@@ -1,7 +1,10 @@
 # 2167 - Lijiang
 
-owner = CDL
-controller = CDL
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CDL			#5s-minors-mod
+controller = CDL	#5s-minors-mod
 add_core = CDL
 culture = bai
 religion = buddhism

@@ -1,8 +1,11 @@
 #694 - Luzhou
 
-owner = JIN
-controller = JIN
-add_core = JIN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = JIN			#5s-minors-mod
+controller = JIN	#5s-minors-mod
+add_core = JIN		#5s-minors-mod
 culture = jin
 religion = confucianism
 capital = "Pingyang"
@@ -12,6 +15,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = JIN		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 

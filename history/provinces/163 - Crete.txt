@@ -1,8 +1,10 @@
 #163 - Crete
 
-owner = NAX
-controller = NAX
-add_core = NAX
+#owner = VEN		#5s-minors-mod
+#controller = VEN	#5s-minors-mod
+owner = NAX			#5s-minors-mod
+controller = NAX	#5s-minors-mod
+add_core = NAX		#5s-minors-mod
 culture = greek
 religion = orthodox
 capital = "Heraklion"
@@ -12,6 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+#add_core = VEN		#5s-minors-mod
+#add_core = CRT		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

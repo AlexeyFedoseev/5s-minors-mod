@@ -1,8 +1,10 @@
 #2386 - Chaiyaphum
 
-owner = VIE
-controller = VIE
-add_core = VIE
+#owner = LXA		#5s-minors-mod
+#controller = LXA	#5s-minors-mod
+owner = VIE			#5s-minors-mod
+controller = VIE	#5s-minors-mod
+add_core = VIE		#5s-minors-mod
 culture = khmer
 religion = buddhism
 capital = "Chaiyaphum"
@@ -12,8 +14,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-
-
+#add_core = LXA		#5s-minors-mod
+#add_core = VIE		#5s-minors-mod
 
 
 discovered_by = chinese

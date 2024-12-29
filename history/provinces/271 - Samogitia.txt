@@ -1,8 +1,10 @@
 #271 - Samogitia
 
-owner = LIV
-controller = LIV
-add_core = LIV
+#owner = LIT		#5s-minors-mod
+#controller = LIT	#5s-minors-mod
+owner = LIV			#5s-minors-mod
+controller = LIV	#5s-minors-mod
+add_core = LIV		#5s-minors-mod
 culture = lithuanian
 religion = catholic
 capital = "Varniai"
@@ -12,7 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+#add_core = LIT		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

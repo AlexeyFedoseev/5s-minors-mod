@@ -1,8 +1,10 @@
 # - Mbamba
 
-owner = SYO
-controller = SYO 
-add_core = SYO
+#owner = KON		#5s-minors-mod
+#controller = KON 	#5s-minors-mod
+owner = SYO			#5s-minors-mod
+controller = SYO 	#5s-minors-mod
+add_core = SYO		#5s-minors-mod
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Lovata"
@@ -11,8 +13,8 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-estate = estate_nobles
 is_city = yes
+#add_core = KON		#5s-minors-mod
 discovered_by = central_african
 discovered_by = sub_saharan
 

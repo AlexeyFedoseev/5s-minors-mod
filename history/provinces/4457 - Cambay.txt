@@ -1,8 +1,10 @@
 #4457 - Cambay/Khambhat
 
-owner = PTL
-controller = PTL
-add_core = PTL
+#owner = GUJ		#5s-minors-mod
+#controller = GUJ	#5s-minors-mod
+owner = PTL			#5s-minors-mod
+controller = PTL	#5s-minors-mod
+add_core = PTL		#5s-minors-mod
 culture = gujarati
 religion = hinduism
 capital = "Khambhat"
@@ -12,6 +14,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 is_city = yes
+#add_core = GUJ		#5s-minors-mod
 add_jains_or_burghers_effect = yes
 discovered_by = east_african
 discovered_by = indian

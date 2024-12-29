@@ -1,6 +1,8 @@
-owner = MOL
-controller = MOL
-add_core = MOL
+#owner = TUR		#5s-minors-mod
+#controller = TUR	#5s-minors-mod
+owner = MOL			#5s-minors-mod
+controller = MOL	#5s-minors-mod
+add_core = MOL		#5s-minors-mod
 culture = bulgarian
 religion = orthodox
 capital = "Tolcu"
@@ -10,6 +12,11 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = TUR		#5s-minors-mod
+#add_core = BUL		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

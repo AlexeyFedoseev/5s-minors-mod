@@ -1,8 +1,10 @@
 #299 - Voronezh
 
-owner = OKA
-controller = OKA
-add_core = OKA
+#owner = GOL		#5s-minors-mod
+#controller = GOL	#5s-minors-mod
+owner = OKA			#5s-minors-mod
+controller = OKA	#5s-minors-mod
+add_core = OKA		#5s-minors-mod
 culture = mishary
 religion = sunni
 hre = no
@@ -12,7 +14,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Voronezh"
 is_city = yes
-
+#add_core = GOL		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

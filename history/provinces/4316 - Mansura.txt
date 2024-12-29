@@ -1,8 +1,10 @@
 #4316 - Mansura
 
-owner = ALX
-controller = ALX
-add_core = ALX
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = ALX			#5s-minors-mod
+controller = ALX	#5s-minors-mod
+add_core = ALX		#5s-minors-mod
 culture = al_misr_arabic
 religion = sunni
 capital = "Mansura"
@@ -12,7 +14,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-estate = estate_nobles
+#add_core = MAM		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

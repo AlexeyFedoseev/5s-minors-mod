@@ -1,17 +1,21 @@
-#143 - Vlor� - Southern Albania
+#143 - Vlorë - Southern Albania
 
-owner = ALB
-controller = ALB
-add_core = ALB
+#owner = TUR		#5s-minors-mod
+#controller = TUR	#5s-minors-mod
+owner = ALB			#5s-minors-mod
+controller = ALB	#5s-minors-mod
+add_core = ALB		#5s-minors-mod
 culture = albanian
 religion = orthodox
-capital = "Vlor�"
+capital = "Vlorë"
 trade_goods = wool #or salt
 hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = TUR		#5s-minors-mod
+#add_core = ALB		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

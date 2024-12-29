@@ -1,8 +1,10 @@
 #446 - Herat
 
-owner = SIS
-controller = SIS
-add_core = SIS
+#owner = TIM		#5s-minors-mod
+#controller = TIM	#5s-minors-mod
+owner = SIS			#5s-minors-mod
+controller = SIS	#5s-minors-mod
+add_core = SIS		#5s-minors-mod
 culture = khorasani
 religion = sunni
 capital = "Herat"
@@ -12,6 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+#add_core = TIM		#5s-minors-mod
+#add_core = KHO		#5s-minors-mod
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

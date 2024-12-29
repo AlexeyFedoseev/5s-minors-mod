@@ -1,7 +1,10 @@
 #4788 - Plasencia
 
-owner = LON		#Enrique III of Castille
-controller = LON
+#owner = CAS		#Enrique III of Castille	#5s-minors-mod
+#controller = CAS	#5s-minors-mod
+#add_core = CAS		#5s-minors-mod
+owner = LON			#5s-minors-mod
+controller = LON	#5s-minors-mod
 add_core = LON
 culture = leonese
 religion = catholic

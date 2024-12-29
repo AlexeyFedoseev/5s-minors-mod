@@ -1,9 +1,12 @@
 #371 - Akureyri
 
-owner = ICE
-controller = ICE
+#owner = NOR		#5s-minors-mod
+#controller = NOR	#5s-minors-mod
+#add_core = NOR 	#5s-minors-mod
+owner = ICE			#5s-minors-mod
+controller = ICE	#5s-minors-mod
 add_core = ICE
-culture = norwegian
+culture = icelandic
 religion = catholic
 hre = no
 base_tax = 1 
@@ -11,9 +14,16 @@ base_production = 1
 trade_goods = fish
 base_manpower = 1
 capital = "Akureyri"
+#add_local_autonomy = 25	#5s-minors-mod
 is_city = yes	
+add_permanent_province_modifier = {
+	name = icelanding_fisher_sea
+	duration = -1
+}
+
+
 discovered_by = western
 
 
 1536.1.1 = { religion = protestant owner = DAN controller = DAN add_core = DAN }
-1752.1.1 = { trade_goods = wool } # Wool becomes more important.
+1752.1.1 = { trade_goods = wool remove_province_modifier = icelanding_fisher_sea } # Wool becomes more important.

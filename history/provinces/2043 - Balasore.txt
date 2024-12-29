@@ -1,8 +1,10 @@
 #2043 - Balasore
 
-owner = KJH
-controller = KJH
-add_core = KJH
+#owner = ORI		#5s-minors-mod
+#controller = ORI	#5s-minors-mod
+owner = KJH			#5s-minors-mod
+controller = KJH	#5s-minors-mod
+add_core = KJH		#5s-minors-mod
 culture = oriya
 religion = hinduism
 capital = "Balasore"
@@ -12,6 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = ORI		#5s-minors-mod
 add_vaisyas_or_burghers_effect = yes
 fort_15th = yes #Raibania
 discovered_by = indian

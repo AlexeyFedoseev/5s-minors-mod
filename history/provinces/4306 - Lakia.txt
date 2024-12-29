@@ -2,7 +2,7 @@
 
 owner = GAZ
 controller = GAZ
-add_core = GAZ
+add_core = GAZ		#5s-minors-mod
 culture = dagestani
 religion = sunni
 capital = "Kumukh"
@@ -12,6 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = GAZ		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

@@ -1,8 +1,11 @@
 #672 - Chenzhou
 
-owner = CHC
-controller = CHC
-add_core = CHC
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CHC			#5s-minors-mod
+controller = CHC	#5s-minors-mod
+add_core = CHC		#5s-minors-mod
 culture = xiang
 religion = confucianism
 capital = "Wulin"
@@ -12,10 +15,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = CXI		#5s-minors-mod
+#add_core = CHC		#5s-minors-mod
 discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8
-center_of_trade = 1
 
 1643.1.1 = { controller = CXI } # The Xi dynasty of Zhang Xianzhong
 1647.12.1 = {

@@ -1,7 +1,10 @@
 #Karelen, incl. Sordavala and Keksholm.
 
-owner = KRL
-controller = KRL
+#owner = NOV		#5s-minors-mod
+#controller = NOV	#5s-minors-mod
+#add_core = NOV		#5s-minors-mod
+owner = KRL			#5s-minors-mod
+controller = KRL	#5s-minors-mod
 add_core = KRL
 culture = karelian
 religion = orthodox

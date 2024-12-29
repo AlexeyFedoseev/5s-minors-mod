@@ -1,5 +1,8 @@
-owner = SOF
-controller = SOF
+#owner = JNN		#5s-minors-mod
+#controller = JNN	#5s-minors-mod
+#add_core = JNN		#5s-minors-mod
+owner = SOF			#5s-minors-mod
+controller = SOF	#5s-minors-mod
 add_core = SOF
 is_city = yes
 culture = bambara 

@@ -1,8 +1,10 @@
 #453 - Qarshi
 
-owner = TRS
-controller = TRS
-add_core = TRS
+#owner = TIM		#5s-minors-mod
+#controller = TIM	#5s-minors-mod
+owner = TRS			#5s-minors-mod
+controller = TRS	#5s-minors-mod
+add_core = TRS		#5s-minors-mod
 culture = uzbehk
 religion = sunni
 capital = "Qarshi"
@@ -12,6 +14,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
+#add_core = TIM		#5s-minors-mod
+#add_core = TRS		#5s-minors-mod
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,9 +1,11 @@
 #2035 - Urmia
 
-owner = MGR
-controller = MGR
-add_core = BHT
-add_core = MGR
+#owner = QAR		#5s-minors-mod
+#controller = QAR	#5s-minors-mod
+owner = MGR			#5s-minors-mod
+controller = MGR	#5s-minors-mod
+add_core = BHT		# ???
+add_core = MGR		#5s-minors-mod
 culture = kurdish
 religion = sunni
 capital = "Urmiyeh"
@@ -13,6 +15,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = QAR		#5s-minors-mod
+#add_core = BHT		#5s-minors-mod
+#add_core = MGR		#5s-minors-mod
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

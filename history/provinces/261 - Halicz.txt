@@ -1,9 +1,10 @@
 #261 - Halicz
 
-owner = MOL
-controller = MOL
-add_core = MOL
-
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = MOL			#5s-minors-mod
+controller = MOL	#5s-minors-mod
+add_core = MOL		#5s-minors-mod
 capital= "Halicz"
 culture = ruthenian
 religion = orthodox
@@ -13,6 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = POL		#5s-minors-mod
+#add_core = VOL		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

@@ -1,8 +1,10 @@
 #597 - Johor
 
-owner = JOH
-controller = JOH
-add_core = JOH
+#owner = MLC		#5s-minors-mod
+#controller = MLC	#5s-minors-mod
+owner = JOH			#5s-minors-mod
+controller = JOH	#5s-minors-mod
+add_core = JOH		#5s-minors-mod
 culture = malayan
 religion = sunni
 capital = "Johor"
@@ -12,6 +14,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
+#add_core = MLC		#5s-minors-mod
+#add_core = JOH		#5s-minors-mod
 
 
 

@@ -1,8 +1,11 @@
 #Eastern Jutland, incl. Aarhus, Djursland and Randers.
 
-owner = SHL
-controller = SHL
-add_core = SHL
+#owner = DAN		#5s-minors-mod
+#controller = DAN	#5s-minors-mod
+#add_core = DAN		#5s-minors-mod
+owner = SHL			#5s-minors-mod
+controller = SHL	#5s-minors-mod
+add_core = SHL		#5s-minors-mod
 culture = danish
 religion = catholic
 hre = no
@@ -12,7 +15,6 @@ trade_goods = naval_supplies
 base_manpower = 3
 capital = "Aarhus"
 is_city = yes
-estate = estate_burghers
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

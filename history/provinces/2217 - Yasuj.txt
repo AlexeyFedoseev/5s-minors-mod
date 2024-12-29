@@ -2,7 +2,7 @@
 
 owner = LRI
 controller = LRI
-add_core = LRI
+add_core = LRI		#5s-minors-mod
 culture = luri
 religion = shiite
 capital = "Yasuj"
@@ -12,6 +12,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = TIM		#5s-minors-mod
+#add_core = LRI		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

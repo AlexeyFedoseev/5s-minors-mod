@@ -3,6 +3,7 @@
 owner = ABB
 controller = ABB
 add_core = ABB
+#add_core = ALO		#5s-minors-mod
 culture = nubian
 religion = sunni
 capital = "Shendy"

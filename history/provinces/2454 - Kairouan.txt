@@ -1,8 +1,10 @@
 # - El Kef
 
-owner = GHD
-controller = GHD
-add_core = GHD
+#owner = TUN		#5s-minors-mod
+#controller = TUN 	#5s-minors-mod
+owner = GHD			#5s-minors-mod
+controller = GHD	#5s-minors-mod
+add_core = GHD		#5s-minors-mod
 culture = tunisian
 religion = sunni
 capital = "El Kef"
@@ -12,7 +14,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = TUN		#5s-minors-mod
 fort_15th = yes #El Kef fortifications
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

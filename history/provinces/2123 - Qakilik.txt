@@ -1,8 +1,11 @@
 # 2123 - Qakilik
 
-owner = HMI
-controller = HMI
-add_core = HMI
+#owner = CHG		#5s-minors-mod
+#controller = CHG	#5s-minors-mod
+#add_core = CHG		#5s-minors-mod
+owner = HMI			#5s-minors-mod
+controller = HMI	#5s-minors-mod
+add_core = HMI		#5s-minors-mod
 culture = oirats
 religion = vajrayana
 capital = "Qakilik"

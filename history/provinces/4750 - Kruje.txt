@@ -1,18 +1,19 @@
-# 4750 - Kruj�, Tirana, central Albania
+# 4750 - Krujë, Tirana, central Albania
 
 owner = ALB
 controller = ALB
-add_core = ALB
+add_core = ALB		#5s-minors-mod
 culture = albanian
 religion = orthodox
-capital = "Kruj�"
+capital = "Krujë"
 trade_goods = wool
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-fort_15th = yes # Kruj� Castle
+fort_15th = yes # Krujë Castle
+#add_core = ALB		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,7 +24,7 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
-#   1431.1.1 = { add_core = TUR }
+#1431.1.1 = { add_core = TUR }	#5s-minors-mod
 1478.6.16 = { owner = TUR controller = TUR }
 1520.1.1 = { religion = sunni } # Predominant religion under Turkish rule
 1555.1.1 = { unrest = 5 } # General discontent against the Janissaries' dominance

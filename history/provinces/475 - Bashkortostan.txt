@@ -1,8 +1,10 @@
 #475 - Bashkortostan
 
-owner = BSH
-controller = BSH
-add_core = BSH
+#owner = KAZ		#5s-minors-mod
+#controller = KAZ	#5s-minors-mod
+owner = BSH			#5s-minors-mod
+controller = BSH	#5s-minors-mod
+add_core = BSH		#5s-minors-mod
 culture = bashkir
 religion = sunni
 capital = "Bashkort"
@@ -12,6 +14,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = KAZ		#5s-minors-mod
+#add_core = BSH		#5s-minors-mod
 
 
 

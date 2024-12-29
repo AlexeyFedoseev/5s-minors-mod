@@ -1,8 +1,11 @@
 #1771 - Erz
 
-owner = SOR
-controller = SOR
-add_core = SOR
+#owner = BOH		#5s-minors-mod
+#controller = BOH	#5s-minors-mod
+#add_core = BOH		#5s-minors-mod
+owner = SOR			#5s-minors-mod
+controller = SOR	#5s-minors-mod
+add_core = SOR		#5s-minors-mod
 capital = "Litomerice"
 culture = czech
 religion = catholic

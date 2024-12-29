@@ -1,8 +1,10 @@
 #1875 - Cuneo (can't change filename)
 
-owner = SZO
-controller = SZO
-add_core = SZO
+#owner = SAV		#5s-minors-mod
+#controller = SAV	#5s-minors-mod
+owner = SZO			#5s-minors-mod
+controller = SZO	#5s-minors-mod
+add_core = SZO		#5s-minors-mod
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -13,6 +15,10 @@ base_manpower = 4
 fort_15th = yes #Cittadellla of Alessandria
 capital = "Cuneo"
 is_city = yes		# Estimated
+#add_core = SAV		#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

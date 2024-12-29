@@ -1,8 +1,11 @@
 #668 - Macau
 
-owner = YUE
-controller = YUE
-add_core = YUE
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = YUE			#5s-minors-mod
+controller = YUE	#5s-minors-mod
+add_core = YUE		#5s-minors-mod
 culture = cantonese
 religion = confucianism
 capital = "Macau"
@@ -12,6 +15,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+#add_core = YUE		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

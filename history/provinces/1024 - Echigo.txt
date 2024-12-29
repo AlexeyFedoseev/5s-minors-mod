@@ -1,8 +1,10 @@
 #1024 - Echigo
 
-owner = HJO
-controller = HJO
-add_core = HJO
+#owner = UES		#5s-minors-mod
+#controller = UES	#5s-minors-mod
+owner = HJO			#5s-minors-mod
+controller = HJO	#5s-minors-mod
+add_core = HJO		#5s-minors-mod
 culture = togoku
 religion = shinto
 capital = "Naoetsu"
@@ -12,6 +14,10 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = UES		#5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

@@ -1,8 +1,10 @@
 #540 - Coromandel 
 
-owner = GNG
-controller = GNG
-add_core = GNG
+#owner = VIJ		#5s-minors-mod
+#controller = VIJ	#5s-minors-mod
+owner = GNG			#5s-minors-mod
+controller = GNG	#5s-minors-mod
+add_core = GNG		#5s-minors-mod
 culture = tamil
 religion = hinduism
 capital = "Kuddaluru"
@@ -13,6 +15,10 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_vaisyas_or_burghers_effect = yes
+#add_core = VIJ		#5s-minors-mod
+#add_core = MAD		#5s-minors-mod
+#add_core = GNG		#5s-minors-mod
+#add_local_autonomy = 25	#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman

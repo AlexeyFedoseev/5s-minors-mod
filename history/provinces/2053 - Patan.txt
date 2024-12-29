@@ -1,8 +1,10 @@
 #2053 - Patan
 
-owner = JLV
-controller = JLV
-add_core = JLV
+#owner = GUJ		#5s-minors-mod
+#controller = GUJ	#5s-minors-mod
+owner = JLV			#5s-minors-mod
+controller = JLV	#5s-minors-mod
+add_core = JLV		#5s-minors-mod
 culture = gujarati
 religion = hinduism
 capital = "Patan"
@@ -13,6 +15,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_jains_or_burghers_effect = yes
+#add_core = GUJ		#5s-minors-mod
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman

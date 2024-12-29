@@ -1,8 +1,10 @@
 #613 - Dong Kinh
 
-owner = TOK
-controller = TOK
-add_core = TOK
+#owner = DAI		#5s-minors-mod
+#controller = DAI	#5s-minors-mod
+owner = TOK			#5s-minors-mod
+controller = TOK	#5s-minors-mod
+add_core = TOK		#5s-minors-mod
 culture = vietnamese
 religion = mahayana
 capital = "Dong Kinh"
@@ -13,6 +15,8 @@ base_production = 7
 base_manpower = 4
 fort_15th = yes
 is_city = yes
+#add_core = DAI		#5s-minors-mod
+#add_core = TOK		#5s-minors-mod
 extra_cost = 8
 center_of_trade = 1
 discovered_by = chinese

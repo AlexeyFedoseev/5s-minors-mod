@@ -4,9 +4,11 @@ latent_trade_goods = {
 	coal
 }
 
-owner = KRA
-controller = KRA
-add_core = KRA
+#owner = POL		#5s-minors-mod
+#controller = POL	#5s-minors-mod
+owner = KRA			#5s-minors-mod
+controller = KRA	#5s-minors-mod
+add_core = KRA		#5s-minors-mod
 capital= "Lublin"
 culture = polish
 religion = catholic
@@ -16,6 +18,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+#add_core = POL		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

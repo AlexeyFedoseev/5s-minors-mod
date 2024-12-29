@@ -1,8 +1,11 @@
 #704 - Liaoxi
 
-owner = YAN
-controller = YAN
-add_core = YAN
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = YAN			#5s-minors-mod
+controller = YAN	#5s-minors-mod
+add_core = YAN		#5s-minors-mod
 culture = chihan
 religion = confucianism
 capital = "Ningyuan"

@@ -1,8 +1,11 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = PIC
-controller = PIC
-add_core = PIC
+#owner = FRA		#5s-minors-mod
+#controller = FRA	#5s-minors-mod
+#add_core = FRA		#5s-minors-mod
+owner = PIC			#5s-minors-mod
+controller = PIC	#5s-minors-mod
+add_core = PIC		#5s-minors-mod
 capital = "Amiens"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,6 +15,7 @@ base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 5
+#add_core = PIC		#5s-minors-mod
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
@@ -19,7 +23,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-#1435.1.1 = {
+#1435.1.1 = {	#5s-minors-mod
 #	owner = BUR
 #	controller = BUR
 #	add_core = BUR

@@ -1,8 +1,10 @@
 #4534 - Upita
 
-owner = LIV
-controller = LIV
-add_core = LIV
+#owner = LIT		#5s-minors-mod
+#controller = LIT	#5s-minors-mod
+owner = LIV			#5s-minors-mod
+controller = LIV	#5s-minors-mod
+add_core = LIV		#5s-minors-mod
 culture = lithuanian
 religion = catholic
 capital = "Upyte"
@@ -12,6 +14,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = LIT		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

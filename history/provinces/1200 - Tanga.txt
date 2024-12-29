@@ -8,6 +8,7 @@ religion = shamanism #Fetishism
 capital = "Vumba Kuu"
 is_city = yes
 base_manpower = 2
+#add_local_autonomy = 35		#5s-minors-mod
 trade_goods = ivory
 hre = no
 base_tax = 2

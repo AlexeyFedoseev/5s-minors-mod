@@ -1,12 +1,15 @@
 #43 - Danzig
 
-owner = DNZ
-controller = DNZ
+#owner = TEU		#5s-minors-mod
+#controller = TEU	#5s-minors-mod
+#add_core = TEU		#5s-minors-mod
+owner = DNZ			#5s-minors-mod
+controller = DNZ	#5s-minors-mod
 add_core = DNZ
 capital = "Danzig"
 culture = prussian
 religion = catholic
-trade_goods = grain
+trade_goods = gems
 hre = no
 base_tax = 7
 base_production = 7

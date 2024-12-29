@@ -1,7 +1,10 @@
 # 2265 - Liptako
 
-owner = ZND
-controller = ZND
+#owner = YAT		#5s-minors-mod
+#controller = YAT	#5s-minors-mod
+#add_core = YAT		#5s-minors-mod
+owner = ZND			#5s-minors-mod
+controller = ZND	#5s-minors-mod
 add_core = ZND
 is_city = yes
 culture = mossi
@@ -14,4 +17,4 @@ base_production = 1
 base_manpower = 1
 discovered_by = sub_saharan
 
-1540.1.1 = { owner = YAT controller = YAT } #Yatenga established as distinct kingdom
+#1540.1.1 = { owner = YAT controller = YAT } #Yatenga established as distinct kingdom

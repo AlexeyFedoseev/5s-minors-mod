@@ -1,8 +1,10 @@
 #2378 - Kratie
 
-owner = RHA
-controller = RHA
-add_core = RHA
+#owner = KHM		#5s-minors-mod
+#controller = KHM	#5s-minors-mod
+owner = RHA			#5s-minors-mod
+controller = RHA	#5s-minors-mod
+add_core = RHA		#5s-minors-mod
 culture = khmer
 religion = animism
 capital = "Kratie"
@@ -12,7 +14,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-
+#add_core = KHM		#5s-minors-mod
 
 
 

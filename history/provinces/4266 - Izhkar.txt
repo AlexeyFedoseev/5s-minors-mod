@@ -1,9 +1,10 @@
 #4266 - Izhkar
 
-owner = PRM
-controller = PRM
-add_core = PRM
-
+#owner = KAZ		#5s-minors-mod
+#controller = KAZ	#5s-minors-mod
+owner = PRM			#5s-minors-mod
+controller = PRM	#5s-minors-mod
+add_core = PRM		#5s-minors-mod
 capital = "Izhkar"
 culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism
@@ -13,7 +14,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-
+#add_core = KAZ		#5s-minors-mod
 discovered_by = SIB
 discovered_by = NOG
 discovered_by = GOL

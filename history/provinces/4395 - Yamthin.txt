@@ -1,8 +1,10 @@
 #4395 - Yamethin
 
-owner = TAU
-controller = TAU
-add_core = TAU
+#owner = AVA		#5s-minors-mod
+#controller = AVA	#5s-minors-mod
+owner = TAU			#5s-minors-mod
+controller = TAU	#5s-minors-mod
+add_core = TAU		#5s-minors-mod
 culture = burmese
 religion = buddhism
 capital = "Yamethin"
@@ -12,6 +14,10 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
+#add_core = AVA		#5s-minors-mod
+
+
+
 discovered_by = chinese
 discovered_by = indian
 

@@ -2,7 +2,7 @@
 
 owner = THU
 controller = THU
-add_core = THU
+add_core = THU		#5s-minors-mod
 culture = saxon
 religion = catholic
 capital = "Erfurt"
@@ -12,6 +12,8 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
+#add_core = THU		#5s-minors-mod
+#add_core = MAI		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

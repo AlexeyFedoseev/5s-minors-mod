@@ -1,8 +1,11 @@
 #1833 - Ji'an
 
-owner = NNG
-controller = NNG
-add_core = NNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = NNG			#5s-minors-mod
+controller = NNG	#5s-minors-mod
+add_core = NNG		#5s-minors-mod
 culture = gan
 religion = confucianism
 capital = "Ji'an"
@@ -12,6 +15,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+#add_core = NNG		#5s-minors-mod
 
 
 

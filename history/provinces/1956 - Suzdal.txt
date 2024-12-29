@@ -1,8 +1,10 @@
 #1956 - Suzdal
 
-owner = RSO
-controller = RSO
-add_core = RSO
+#owner = MOS		#5s-minors-mod
+#controller = MOS	#5s-minors-mod
+owner = RSO			#5s-minors-mod
+controller = RSO	#5s-minors-mod
+add_core = RSO		#5s-minors-mod
 culture = russian
 religion = orthodox
 hre = no
@@ -11,8 +13,9 @@ base_production = 4
 trade_goods = grain 
 base_manpower = 3
 capital = "Suzdal"
-estate = estate_nobles
 is_city = yes
+#add_core = NZH		#5s-minors-mod
+#add_core = MOS		#5s-minors-mod
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

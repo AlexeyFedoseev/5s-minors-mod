@@ -1,40 +1,48 @@
 #634 - Sumba
 
-owner = CRB
-controller = CRB
-add_core = CRB 
-culture = javanese
+owner = CRB			#5s-minors-mod
+controller = CRB	#5s-minors-mod
+add_core = CRB 		#5s-minors-mod
+culture = javanese		# ???
 religion = animism
 capital = "Sumba"
-trade_goods = grain
+#trade_goods = unknown	#5s-minors-mod
+trade_goods = grain		#5s-minors-mod
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 1
-is_city = yes
-discovered_by = ATJ
-discovered_by = MAJ
-discovered_by = MKS
-discovered_by = BLI
-discovered_by = BAN
-discovered_by = BEI
-discovered_by = BLM
-discovered_by = BTN
-discovered_by = CRB
-discovered_by = DMK
-discovered_by = PGR
-discovered_by = PLB
-discovered_by = PSA
-discovered_by = SAK
-discovered_by = SUN
-discovered_by = KUT
-discovered_by = BNJ
-discovered_by = LFA
-discovered_by = LNO
-discovered_by = LUW
-discovered_by = MGD
-discovered_by = TER
-discovered_by = TID
+#native_size = 5			#5s-minors-mod
+#native_ferocity = 1		#5s-minors-mod
+#native_hostileness = 5		#5s-minors-mod
+is_city = yes				#5s-minors-mod
+
+
+
+discovered_by = chinese
+#discovered_by = ATJ		# ???
+#discovered_by = MAJ
+#discovered_by = MKS
+#discovered_by = BLI
+#discovered_by = BAN
+#discovered_by = BEI
+#discovered_by = BLM
+#discovered_by = BTN
+#discovered_by = CRB
+#discovered_by = DMK
+#discovered_by = PGR
+#discovered_by = PLB
+#discovered_by = PSA
+#discovered_by = SAK
+#discovered_by = SUN
+#discovered_by = KUT
+#discovered_by = BNJ
+#discovered_by = LFA
+#discovered_by = LNO
+#discovered_by = LUW
+#discovered_by = MGD
+#discovered_by = TER
+#discovered_by = TID
 
 1512.1.1 = { discovered_by = POR }
 

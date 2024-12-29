@@ -2,7 +2,7 @@
 
 owner = DLH
 controller = DLH
-add_core = DLH
+add_core = DLH		#5s-minors-mod
 culture = kanauji
 religion = hinduism
 capital = "Mathura"
@@ -13,6 +13,8 @@ base_production = 10
 base_manpower = 4
 add_brahmins_or_church_effect = yes
 is_city = yes
+#add_core = DLH		#5s-minors-mod
+#add_core = JNP		#5s-minors-mod
 fort_15th = yes # Badalgarh
 discovered_by = indian
 discovered_by = muslim
@@ -22,11 +24,11 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1437.1.1 = {
-	owner = JNP
-	controller = JNP
-}
-1444.1.1 = { owner = DLH controller = DLH } # 5s league minors mod 
+#5s-minors-mod
+#1437.1.1 = {
+#	owner = JNP
+#	controller = JNP
+#}
 1452.1.1 = {
 	owner = DLH
 	controller = DLH

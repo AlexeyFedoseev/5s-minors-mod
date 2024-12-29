@@ -1,8 +1,10 @@
 #439 - Mangyshlak
 
-owner = KHI
-controller = KHI
-add_core = KHI
+#owner = NOG		#5s-minors-mod
+#controller = NOG	#5s-minors-mod
+owner = KHI			#5s-minors-mod
+controller = KHI	#5s-minors-mod
+add_core = KHI		#5s-minors-mod
 culture = nogaybak
 religion = sunni
 capital = "Mangyshlak"
@@ -12,6 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+#add_core = NOG		#5s-minors-mod
 
 
 

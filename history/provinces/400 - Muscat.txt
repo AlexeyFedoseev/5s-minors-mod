@@ -1,8 +1,10 @@
 #400 - Muscat
 
-owner = SHR
-controller = SHR
-add_core = SHR
+#owner = ORM		#5s-minors-mod
+#controller = ORM	#5s-minors-mod
+owner = SHR			#5s-minors-mod
+controller = SHR	#5s-minors-mod
+add_core = SHR		#5s-minors-mod
 culture = omani_culture
 religion = ibadi
 capital = "Masqat"
@@ -12,6 +14,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
+#add_core = OMA		#5s-minors-mod
+#add_core = ORM		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
@@ -20,10 +24,9 @@ discovered_by = east_african
 fort_15th = yes
 extra_cost = 16
 center_of_trade = 2
-estate = estate_burghers
 
 1480.1.1 = { discovered_by = TUR }
-1488.1.1 = { discovered_by = POR } # P�ro da Covilh�
+1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
 1507.6.1 = {
 	owner = POR
 	controller = POR

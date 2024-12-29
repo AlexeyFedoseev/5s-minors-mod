@@ -1,8 +1,12 @@
 #4514 - Sakya
 
-owner = BHU
-controller = BHU
-add_core = BHU
+#owner = UTS		#5s-minors-mod
+#controller = UTS	#5s-minors-mod
+#add_core = UTS		#5s-minors-mod
+#add_core = PHA		#5s-minors-mod
+owner = BHU			#5s-minors-mod
+controller = BHU	#5s-minors-mod
+add_core = BHU		#5s-minors-mod
 culture = tibetan
 religion = vajrayana
 capital = "Sakya"

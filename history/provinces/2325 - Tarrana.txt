@@ -1,8 +1,10 @@
 #2325 - Tarrana
 
-owner = FZA
-controller = FZA
-add_core = FZA
+#owner = MAM		#5s-minors-mod
+#controller = MAM	#5s-minors-mod
+owner = FZA			#5s-minors-mod
+controller = FZA	#5s-minors-mod
+add_core = FZA		#5s-minors-mod
 culture = al_misr_arabic
 religion = sunni
 capital = "Marsa Matruh"
@@ -13,6 +15,8 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 
+#add_core = MAM				#5s-minors-mod
+#add_local_autonomy = 50	#5s-minors-mod
 
 discovered_by = western
 discovered_by = muslim

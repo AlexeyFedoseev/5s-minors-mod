@@ -1,8 +1,11 @@
 #Ingermanland, incl. Ivangorod, Jama, and Kopore.
 
-owner = PSK
-controller = PSK
-add_core = PSK
+#owner = NOV		#5s-minors-mod
+#controller = NOV	#5s-minors-mod
+#add_core = NOV		#5s-minors-mod
+owner = PSK			#5s-minors-mod
+controller = PSK	#5s-minors-mod
+add_core = PSK		#5s-minors-mod
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -12,6 +15,9 @@ trade_goods = fur
 base_manpower = 1
 capital = "Koporye"
 is_city = yes
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group

@@ -2,7 +2,7 @@
 
 owner = SER
 controller = SER
-add_core = SER
+add_core = SER		#5s-minors-mod
 culture = serbian
 religion = orthodox
 capital = "Belgrade"
@@ -13,6 +13,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes
+#add_core = SER		#5s-minors-mod
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -25,11 +26,12 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
+#5s-minors-mod
 #1428.1.1 = {
 #	owner = HUN
 #	controller = HUN
 #	add_core = HUN
-#	capital = "N�ndorfeh�rv�r"
+#	capital = "Nándorfehérvár"
 #}
 1521.8.29 = {
 	owner = TUR

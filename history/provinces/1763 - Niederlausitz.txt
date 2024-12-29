@@ -1,9 +1,12 @@
 #1763 - Niederlausitz
 
-owner = SORBOH
-controller = SOR
+#owner = BOH		#5s-minors-mod
+#controller = BOH	#5s-minors-mod
+owner = SOR			#5s-minors-mod
+controller = SOR	#5s-minors-mod
 add_core = SOR
-capital = "Cottbus"
+#add_core = BOH		#5s-minors-mod
+capital = "Chotebuz"
 culture = sorbian
 religion = catholic
 trade_goods = livestock

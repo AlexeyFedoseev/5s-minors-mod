@@ -1,10 +1,12 @@
 #2304 - Canik
 
-owner = TRE
-controller = TRE
-add_core = TRE
-culture = turkish
-religion = sunni
+#owner = CND		#5s-minors-mod
+#controller = CND	#5s-minors-mod
+owner = TRE			#5s-minors-mod
+controller = TRE	#5s-minors-mod
+add_core = TRE		#5s-minors-mod
+culture = turkish	# ???
+religion = sunni	# ???
 capital = "Samsun"
 trade_goods = wine
 hre = no
@@ -12,18 +14,19 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = CND		#5s-minors-mod
+#add_core = TRE		#5s-minors-mod
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-1428.1.1 = { # Conquered by the Ottomans
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-}
-1444.1.1 = { owner = TRE controller = TRE remove_core = TUR } # 5s minors mod
+#1428.1.1 = { # Conquered by the Ottomans
+#	owner = TUR
+#	controller = TUR
+#	add_core = TUR
+#}
 1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Civil war, Bayezid & Jem
 1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes
 1509.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war

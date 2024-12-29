@@ -1,8 +1,10 @@
-# 176 B�arn - Principal cities: Pau
+# 176 Béarn - Principal cities: Pau
 
-owner = FOI
-controller = FOI
-add_core = FOI
+#owner = FRA		#5s-minors-mod
+#controller = FRA	#5s-minors-mod
+owner = FOI			#5s-minors-mod
+controller = FOI	#5s-minors-mod
+add_core = FOI		#5s-minors-mod
 capital = "Pau"
 is_city = yes
 culture = gascon
@@ -12,6 +14,16 @@ base_tax = 4
 base_production = 4
 trade_goods = wool
 base_manpower = 4
+#add_core = FOI		#5s-minors-mod
+#add_core = GUY		#5s-minors-mod
+#add_core = AMG		#5s-minors-mod
+
+#5s-minors-mod
+#1444.1.1 = {
+#	owner = FOI
+#	controller = FOI
+#}
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

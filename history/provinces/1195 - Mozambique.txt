@@ -1,8 +1,11 @@
 #1195 - Mozambique
 
-owner = MKU
-controller = MKU
-add_core = MKU
+#owner = ZAN		#5s-minors-mod
+#controller = ZAN	#5s-minors-mod
+#add_core = ZAN		#5s-minors-mod
+owner = MKU			#5s-minors-mod
+controller = MKU	#5s-minors-mod
+add_core = MKU		#5s-minors-mod
 culture = swahili
 religion = sunni
 capital = "Mozambique"
@@ -12,6 +15,7 @@ trade_goods = ivory
 hre = no
 base_tax = 2 
 base_production = 2
+#add_local_autonomy = 25	#5s-minors-mod
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim

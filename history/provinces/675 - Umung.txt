@@ -1,10 +1,13 @@
 #675 - Qujing
 
-owner = CYI
-controller = CYI
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CYI			#5s-minors-mod
+controller = CYI	#5s-minors-mod
 add_core = CYI
 culture = yi
-religion = confucianism
+religion = confucianism		# ???
 capital = "Umung"
 trade_goods = copper
 hre = no

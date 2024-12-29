@@ -2,6 +2,7 @@
 
 owner = ANZ
 controller = ANZ
+add_core = ANZ		#5s-minors-mod
 culture = bedouin_arabic
 religion = sunni
 capital = "Karah"
@@ -11,7 +12,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = ANZ
+#add_core = ANZ		#5s-minors-mod
+#add_core = FAD		#5s-minors-mod
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

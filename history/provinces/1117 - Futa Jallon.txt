@@ -1,8 +1,10 @@
 #1117 - Futa Jallon
 
-owner = KBU
-controller = KBU
-add_core = KBU #Subject province within the empire
+#owner = MAL		#5s-minors-mod
+#controller = MAL	#5s-minors-mod
+owner = KBU			#5s-minors-mod
+controller = KBU	#5s-minors-mod
+add_core = KBU 		#5s-minors-mod
 culture = fulani
 is_city = yes
 base_manpower = 3
@@ -10,9 +12,13 @@ religion = shamanism #Fetishism
 capital = "Timbo"
 trade_goods = ivory
 hre = no
-estate = estate_nobles
 base_tax = 3 
 base_production = 3
+#add_core = MAL		#5s-minors-mod
+#add_core = KBU #Subject province within the empire	#5s-minors-mod
+
+
+
 discovered_by = sub_saharan
 
 

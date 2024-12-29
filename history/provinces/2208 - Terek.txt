@@ -1,8 +1,10 @@
 #2208 - Terek
 
-owner = AST
-controller = AST
-add_core = AST
+#owner = GOL		#5s-minors-mod
+#controller = GOL	#5s-minors-mod
+owner = AST			#5s-minors-mod
+controller = AST	#5s-minors-mod
+add_core = AST		#5s-minors-mod
 culture = dagestani
 religion = sunni
 capital = "Mozdok"
@@ -12,6 +14,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = GOL		#5s-minors-mod
+#add_core = GAZ		#5s-minors-mod
+#add_core = AST		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

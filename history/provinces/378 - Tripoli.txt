@@ -1,8 +1,10 @@
 #378 - Tripoli
 
-owner = LEB
-controller = LEB
-add_core = LEB
+#owner = SYR		#5s-minors-mod
+#controller = SYR	#5s-minors-mod
+owner = LEB			#5s-minors-mod
+controller = LEB	#5s-minors-mod
+add_core = LEB		#5s-minors-mod
 culture = al_suryah_arabic
 religion = shiite
 capital = "Trablos" #Tripoli in the East.
@@ -12,6 +14,8 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
+#add_core = LEB		#5s-minors-mod
+#add_core = SYR		#5s-minors-mod
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

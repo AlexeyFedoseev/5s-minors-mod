@@ -1,8 +1,11 @@
 #710 - Hotan
 
-owner = SYG
-controller = SYG
-add_core = SYG
+#owner = KAS		#5s-minors-mod
+#controller = KAS	#5s-minors-mod
+#add_core = KAS		#5s-minors-mod
+owner = SYG			#5s-minors-mod
+controller = SYG	#5s-minors-mod
+add_core = SYG		#5s-minors-mod
 culture = uyghur
 religion = sunni
 capital = "Hotan"
@@ -12,7 +15,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-estate = estate_church
 discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8

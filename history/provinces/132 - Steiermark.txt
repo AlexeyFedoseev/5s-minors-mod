@@ -1,7 +1,10 @@
 #132 - Steiermark
 
-owner = STY
-controller = STY
+#owner = HAB		#5s-minors-mod
+#controller = HAB	#5s-minors-mod
+#add_core = HAB		#5s-minors-mod
+owner = STY			#5s-minors-mod
+controller = STY	#5s-minors-mod
 add_core = STY
 culture = austrian
 religion = catholic

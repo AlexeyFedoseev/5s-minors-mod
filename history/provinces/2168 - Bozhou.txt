@@ -1,10 +1,13 @@
 # 2168 - Bozhou
 
-owner = CYI
-controller = CYI
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CYI			#5s-minors-mod
+controller = CYI	#5s-minors-mod
 add_core = CYI
 culture = yi
-religion = confucianism
+religion = confucianism		# ???
 capital = "Bozhou"
 trade_goods = grain
 hre = no
@@ -12,6 +15,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
+#add_core = CXI		#5s-minors-mod
 
 
 

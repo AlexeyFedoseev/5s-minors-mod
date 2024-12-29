@@ -1,8 +1,11 @@
 #4196 - Haizhou
 
-owner = LNG
-controller = LNG
-add_core = LNG
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = LNG			#5s-minors-mod
+controller = LNG	#5s-minors-mod
+add_core = LNG		#5s-minors-mod
 culture = jianghuai
 religion = confucianism
 capital = "Haizhou"

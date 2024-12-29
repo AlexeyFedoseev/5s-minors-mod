@@ -1,9 +1,11 @@
 #1861 - Derby
 #Leicestershire+Rutland+Northamptonshire
 
-owner = NOL
-controller = NOL
-add_core = NOL
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = NOL			#5s-minors-mod
+controller = NOL	#5s-minors-mod
+add_core = NOL		#5s-minors-mod
 culture = english
 religion = catholic
 hre = no
@@ -13,6 +15,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Leicester"
 is_city = yes
+#add_core = ENG		#5s-minors-mod
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

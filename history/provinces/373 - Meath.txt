@@ -1,7 +1,10 @@
 #373 - Meath
 
-owner = MTH
-controller = MTH
+#owner = ENG		#5s-minors-mod
+#controller = ENG	#5s-minors-mod
+owner = MTH			#5s-minors-mod
+controller = MTH	#5s-minors-mod
+#add_core = ENG		#5s-minors-mod
 add_core = MTH
 culture = irish
 religion = catholic

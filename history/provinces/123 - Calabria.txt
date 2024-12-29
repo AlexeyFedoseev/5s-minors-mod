@@ -1,8 +1,10 @@
 #123 - Calabria
 
-owner = SLT
-controller = SLT
-add_core = SLT
+#owner = NAP		#5s-minors-mod
+#controller = NAP	#5s-minors-mod
+owner = SLT			#5s-minors-mod
+controller = SLT	#5s-minors-mod
+add_core = SLT		#5s-minors-mod
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -12,7 +14,10 @@ trade_goods = fish
 base_manpower = 2
 capital = "Reggio di Calabria"
 is_city = yes 
-# add_core = Salento don`t create
+#add_core = NAP	#5s-minors-mod
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

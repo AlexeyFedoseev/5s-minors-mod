@@ -1,10 +1,13 @@
 # 2174 - Hengyang
 
-owner = CMI
-controller = CMI
+#owner = MNG		#5s-minors-mod
+#controller = MNG	#5s-minors-mod
+#add_core = MNG		#5s-minors-mod
+owner = CMI			#5s-minors-mod
+controller = CMI	#5s-minors-mod
 add_core = CMI
 culture = xiang
-religion = confucianism
+religion = confucianism	#5s-minors-mod
 capital = "Hengyang"
 trade_goods = gold
 hre = no
@@ -12,6 +15,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+#add_core = CHC		#5s-minors-mod
 
 
 

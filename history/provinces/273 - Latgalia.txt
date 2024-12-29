@@ -1,12 +1,15 @@
 #273 - Latgalia / Inflanty Duchy
 
-owner = LTG #5s
-controller = LTG #5s
-add_core = LTG #5s
+#owner = LIV		#5s-minors-mod
+#controller = LIV	#5s-minors-mod
+#add_core = LIV		#5s-minors-mod
+owner = LTG 		#5s-minors-mod
+controller = LTG 	#5s-minors-mod
+add_core = LTG
 culture = latvian
 religion = catholic
-capital = "D�naburg"
-fort_15th = yes #D�naburg
+capital = "Dünaburg"
+fort_15th = yes #Dünaburg
 trade_goods = livestock
 hre = no
 base_tax = 2 
@@ -27,8 +30,7 @@ discovered_by = eastern
 	controller = LIT
 	add_core = LIT
 	remove_core = LIV
-	estate = estate_nobles
-} # Conquered by Lithuania
+	} # Conquered by Lithuania
 1569.7.1 = {
 	owner = PLC
 	controller = PLC

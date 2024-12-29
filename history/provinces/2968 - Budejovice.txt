@@ -1,8 +1,11 @@
 # - Budejovice
 
-owner = PSS
-controller = PSS
-add_core = PSS
+#owner = BOH		#5s-minors-mod
+#controller = BOH	#5s-minors-mod
+#add_core = BOH		#5s-minors-mod
+owner = PSS			#5s-minors-mod
+controller = PSS	#5s-minors-mod
+add_core = PSS		#5s-minors-mod
 capital = "Budejovice"
 culture = czech
 religion = catholic

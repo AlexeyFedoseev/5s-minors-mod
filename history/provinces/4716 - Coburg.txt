@@ -1,6 +1,8 @@
-owner = COB
-controller = COB
-add_core = COB
+#owner = THU		#5s-minors-mod
+#controller = THU	#5s-minors-mod
+owner = COB			#5s-minors-mod
+controller = COB	#5s-minors-mod
+add_core = COB		#5s-minors-mod
 capital = "Coburg"
 is_city = yes
 culture = franconian
@@ -10,6 +12,9 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 trade_goods = livestock
+#add_core = COB		#5s-minors-mod
+#add_core = THU		#5s-minors-mod
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

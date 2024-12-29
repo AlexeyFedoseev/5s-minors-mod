@@ -1,8 +1,10 @@
 #2971 - Hoya
 
-owner = CLB
-controller = CLB
-add_core = CLB
+#owner = BRU		#5s-minors-mod
+#controller = BRU	#5s-minors-mod
+owner = CLB			#5s-minors-mod
+controller = CLB	#5s-minors-mod
+add_core = CLB		#5s-minors-mod
 culture = hannoverian
 religion = catholic
 capital = "Hoya"
@@ -12,6 +14,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+#add_core = BRU		#5s-minors-mod
+#add_core = CLB		#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,6 +1,8 @@
-owner = BOU
-controller = BOU
-add_core = BOU
+#owner = FRA		#5s-minors-mod
+#controller = FRA	#5s-minors-mod
+owner = BOU			#5s-minors-mod
+controller = BOU	#5s-minors-mod
+add_core = BOU		#5s-minors-mod
 capital = "Montbrison"
 is_city = yes
 culture = occitain
@@ -10,6 +12,8 @@ base_tax = 3
 base_production = 2
 trade_goods = livestock
 base_manpower = 2
+#add_local_autonomy = 25	#5s-minors-mod
+#add_core = BOU				#5s-minors-mod
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -27,8 +31,8 @@ discovered_by = ottoman
 1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
 1639.1.1 = { unrest = 3 }
 1641.1.1 = { unrest = 0 }
-1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Cond�, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
 1650.3.1 = { revolt = { type = revolutionary_rebels size = 0 } unrest = 0 controller = REB } # Fronde rebels take control
 1651.4.1 = { revolt = {} controller = FRA } # An unstable peace is concluded
-1651.12.1 = { unrest = 7 } # Mazarin returns from exile, Cond� sides with Spain, situation heats up again
+1651.12.1 = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.

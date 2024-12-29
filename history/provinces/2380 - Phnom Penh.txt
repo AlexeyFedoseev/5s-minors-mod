@@ -1,8 +1,10 @@
 #2380 - Phnom Penh
 
-owner = KOH
-controller = KOH
-add_core = KOH
+#owner = KHM		#5s-minors-mod
+#controller = KHM	#5s-minors-mod
+owner = KOH			#5s-minors-mod
+controller = KOH	#5s-minors-mod
+add_core = KOH		#5s-minors-mod
 culture = khmer
 religion = buddhism
 capital = "Chaktomuk"
@@ -12,7 +14,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-
+#add_core = KHM		#5s-minors-mod
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
