@@ -17,7 +17,7 @@ base_production = 3
 #add_core = MAL 	#5s-minors-mod
 #add_core = KBU #Subject province within the empire		#5s-minors-mod
 discovered_by = sub_saharan
-add_local_autonomy = 50
+#add_local_autonomy = 50	#5s-minors-mod
 1446.1.1 = { discovered_by = POR }
 extra_cost = 8
 center_of_trade = 1
