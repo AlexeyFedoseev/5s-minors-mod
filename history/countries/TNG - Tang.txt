@@ -8,8 +8,9 @@ capital = 687	#Nanyang
 
 1444.1.1 = { #5s-minors-mod
 	monarch = {
-		name = "Shixi"
-		dynasty = "Tang"
+		name = "Stariy"
+		dynasty = "Bog"
+		culture = ruthenian
         birth_date = 1420.3.6
 		adm = 5
 		dip = 6

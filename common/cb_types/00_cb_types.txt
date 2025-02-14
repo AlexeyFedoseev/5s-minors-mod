@@ -487,7 +487,8 @@ cb_triggered_independence_war = {
 cb_nationalist = {
 
 	prerequisites_self = {
-		dip_tech = 23
+		#dip_tech = 23		#5s-minors-mod
+		dip_tech = 17		#5s-minors-mod
 		is_free_or_tributary_trigger = yes
 		is_revolutionary = no
 	}
@@ -505,7 +506,8 @@ cb_imperial = {
 
 	prerequisites_self = {
 		OR = {
-			dip_tech = 23
+			#dip_tech = 23		#5s-minors-mod
+			dip_tech = 17		#5s-minors-mod
 			invasion_nation = yes
 		}
 		is_free_or_tributary_trigger = yes

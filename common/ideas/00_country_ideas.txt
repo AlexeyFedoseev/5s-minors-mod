@@ -178,7 +178,8 @@ ENG_ideas = {
 
 GBR_ideas = {
 	start = {
-		naval_morale = 0.20
+		land_morale = 0.10		#5s-minors-mod
+		#naval_morale = 0.20	#5s-minors-mod
 		heavy_ship_power = 0.15
 	}
 
@@ -837,6 +838,8 @@ NED_ideas = {
 	free = yes		#will be added at load.
 	
 	amsterdam_wisselbank = {
+		land_morale = 0.1		#5s-minors-mod
+		artillery_fire = 0.5	#5s-minors-mod
 		inflation_reduction = 0.1
 	}
 	dutch_trading_spirit = {
@@ -3110,6 +3113,7 @@ ITA_ideas = {
 	free = yes
 	
 	no_a_geographical_construct = {
+		developmrnt_cost = -0.10 #5s-minors-mod
 		stability_cost_modifier = -0.10
 	}
 	tradition_of_the_legion = {
@@ -3379,6 +3383,7 @@ ETH_ideas = {
 		prestige = 1
 	}
 	nagusa_negast = {
+		development_cost = -0.10	#5s-minors-mod
 		heir_chance = 0.5
 		legitimacy = 1
 		devotion = 1
@@ -17813,6 +17818,7 @@ AKS_ideas = {
 	}
 	
 	aks_legacy_of_king_kaleb = {
+		land_morale = 0.15 	#5s-minors-mod
 		ae_impact = -0.15
 	}
 	
@@ -18545,8 +18551,11 @@ PRT_ideas = {
 		global_manpower_modifier = 0.15
 	}
 	PRT_5s_mod_idea_5 = {
-		republican_tradition = 0.33
 		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 	PRT_5s_mod_idea_6 = {
 		global_colonial_growth = 15
@@ -18596,7 +18605,11 @@ LDN_ideas = {
 ALX_ideas = {
 	start = {
 		heavy_ship_power = 0.1
-		republican_tradition = 0.33
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 
 	bonus = {
@@ -20286,7 +20299,11 @@ TNG_ideas = {
 LNG_ideas = {
 	start = {
 		shock_damage_received = -0.1
-		republican_tradition = 0.33
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 
 	bonus = {
@@ -20324,7 +20341,11 @@ LNG_ideas = {
 QIC_ideas = {
 	start = {
 		army_tradition = 0.5
-		republican_tradition = 0.33
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 
 	bonus = {
@@ -20776,7 +20797,11 @@ CAL_ideas = {
 		advisor_cost = -0.25
 	}
 	CAL_5s_mod_idea_2  = {
+		legitimacy = 1
+		devotion = 1
 		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 	CAL_5s_mod_idea_3  = {
 		build_cost = -0.15
@@ -20990,7 +21015,11 @@ HAT_ideas = {
 		galley_power = 0.15
 	}
 	HAT_5s_mod_idea_7  = {
+		legitimacy = 1
+		devotion = 1
 		republican_tradition = 0.4
+		meritocracy = 1
+		horde_unity = 1
 	}
 }
 

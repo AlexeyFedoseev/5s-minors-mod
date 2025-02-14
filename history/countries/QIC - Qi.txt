@@ -10,7 +10,7 @@ capital = 690	#Qingzhou
 		name = "Shaozong"
 		dynasty = "Qi"
         birth_date = 1408.3.6
-		adm = 6
+		adm = 4
 		dip = 4
 		mil = 3
 	}

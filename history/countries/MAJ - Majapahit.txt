@@ -25,9 +25,9 @@ capital = 628	# Surabaya
 		birth_date = 1390.1.1
 		death_date = 1447.1.1
 		claim = 95
-		adm = 1 #5s-minors-mod
-		dip = 2 #5s-minors-mod
-		mil = 1 #5s-minors-mod
+		adm = 4 #5s-minors-mod
+		dip = 4 #5s-minors-mod
+		mil = 4 #5s-minors-mod
 		female = yes
 	}
 }
@@ -37,26 +37,26 @@ capital = 628	# Surabaya
 		name = "Suhita"
 		dynasty = "Rajasanagara"
 		birth_date = 1401.01.01 #5s-minors-mod
-		adm = 1 #5s-minors-mod
-		dip = 2 #5s-minors-mod
-		mil = 1 #5s-minors-mod
+		adm = 4 #5s-minors-mod
+		dip = 4 #5s-minors-mod
+		mil = 4 #5s-minors-mod
 		female = yes
 	}
 }
 
-1429.1.1 = {
-	heir = {
-		name = "Kertawijaya"
-		monarch_name = "Kertawijaya"
-		dynasty = "Rajasanagara"
-		birth_date = 1434.1.1
-		death_date = 1451.1.1
-		claim = 95
-		adm = 5 #5s-minors-mod
-		dip = 5 #5s-minors-mod
-		mil = 5 #5s-minors-mod
-	}
-}
+#1429.1.1 = {	#5s-minors-mod
+#	heir = {
+#		name = "Kertawijaya"
+#		monarch_name = "Kertawijaya"
+#		dynasty = "Rajasanagara"
+#		birth_date = 1434.1.1
+#		death_date = 1451.1.1
+#		claim = 95
+#		adm = 5 #5s-minors-mod
+#		dip = 5 #5s-minors-mod
+#		mil = 5 #5s-minors-mod
+#	}
+#}
 
 1447.1.1 = {
 	monarch = {

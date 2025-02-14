@@ -9,9 +9,7 @@ dark_age_of_cambodia = {
 	}
 	
 	can_start = {
-		NOT = { stability = 0 } #5s-minors-mod
 		has_any_disaster = no
-		NOT = { mission_completed = mnd_khm_resurgence } #5s-minors-mod
 	}
 	
 	can_stop = { 

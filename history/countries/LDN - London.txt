@@ -11,8 +11,8 @@ government_rank = 1
 		name = "Richard"
 		dynasty = "Lancaster"
         birth_date = 1410.3.6
-		adm = 3
-		dip = 5
-		mil = 4
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }

@@ -1,0 +1,2 @@
+NDefines.NReligion.PIETY_MANPOWER = 0.5
+NDefines.NDiplomacy.DISHONORABLE_PEACE_MONTHS = 0
