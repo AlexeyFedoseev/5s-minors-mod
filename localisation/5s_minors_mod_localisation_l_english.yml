@@ -27,3 +27,8 @@
  african_nation_desk:0 "Unite Africa"
  african_modernization_title:0 "Modernize army and society"
  african_modernization_desc:0 "changes your technology group and units in accordance with your religion"
+
+ # buildings
+ building_ramparts_desc:0 "Allow the construction of §YFortress in neighboring provinces§!\n"
+ the_draft_used:0 "The Draft cooldown"
+ emergency_impressment_act_used:0 "Emergence impressment act cooldown"

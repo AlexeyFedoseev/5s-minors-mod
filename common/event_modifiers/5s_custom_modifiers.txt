@@ -1,0 +1,7 @@
+the_draft_used = {
+
+}
+
+emergency_impressment_act_used = {
+
+}
