@@ -1,11 +1,11 @@
-# 184 OrlÃ©annais + Blois - Principal cities: OrlÃ©ans
+# 184 Orléans + Blois - Principal cities: Orléans
 
 #owner = FRA		#5s-minors-mod
 #controller = FRA	#5s-minors-mod
 owner = ORL			#5s-minors-mod
 controller = ORL	#5s-minors-mod
 add_core = ORL		#5s-minors-mod
-capital = "OrlÃ©ans"
+capital = "Orléans"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic

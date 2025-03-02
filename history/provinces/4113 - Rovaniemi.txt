@@ -3,9 +3,10 @@
 #owner = SWE		#5s-minors-mod
 #controller = SWE	#5s-minors-mod
 #add_core = SWE		#5s-minors-mod
-owner = FIN			#5s-minors-mod
-controller = FIN	#5s-minors-mod
-add_core = FIN		#5s-minors-mod
+#add_core = FIN		#5s-minors-mod
+owner = SMI			#5s-minors-mod
+controller = SMI	#5s-minors-mod
+add_core = SMI		#5s-minors-mod
 culture = finnish #Probably also a large Sami population.
 religion = catholic
 hre = no

@@ -1,4 +1,4 @@
-#Finland, incl. Ã…bo.
+#Finland, incl. Åbo.
 
 #owner = SWE		#5s-minors-mod
 #controller = SWE	#5s-minors-mod
@@ -13,7 +13,7 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 2
-capital = "Ã…bo"
+capital = "Åbo"
 is_city = yes
 fort_15th = yes
 discovered_by = western

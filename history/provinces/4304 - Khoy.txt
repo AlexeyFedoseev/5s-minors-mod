@@ -1,10 +1,8 @@
 #2035 - Khoy
 
-#owner = QAR		#5s-minors-mod
-#controller = QAR	#5s-minors-mod
-owner = TBR			#5s-minors-mod
-controller = TBR	#5s-minors-mod
-add_core = TBR		#5s-minors-mod
+owner = QAR
+controller = QAR
+add_core = QAR		#5s-minors-mod
 culture = azerbaijani
 religion = sunni
 capital = "Khoy"

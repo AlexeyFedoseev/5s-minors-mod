@@ -122,7 +122,7 @@ religious_school = hanafi_school
 
 1532.1.1 = {
 	monarch = {
-		name = "Ak KÃ¶bek"
+		name = "Ak Köbek"
 		dynasty = "Genghisid"
 		adm = 3
 		dip = 0
@@ -162,7 +162,7 @@ religious_school = hanafi_school
 
 1545.1.1 = {
 	monarch = {
-		name = "Ak KÃ¶bek"
+		name = "Ak Köbek"
 		dynasty = "Genghisid"
 		adm = 3
 		dip = 0
@@ -182,7 +182,7 @@ religious_school = hanafi_school
 
 1547.1.1 = {
 	monarch = {
-		name = "Ak KÃ¶bek"
+		name = "Ak Köbek"
 		dynasty = "Genghisid"
 		adm = 3
 		dip = 0

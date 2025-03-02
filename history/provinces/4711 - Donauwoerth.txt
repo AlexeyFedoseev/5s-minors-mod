@@ -3,7 +3,7 @@
 owner = DWT			#5s-minors-mod
 controller = DWT	#5s-minors-mod
 add_core = DWT		#5s-minors-mod
-capital = "NÃ¶rdlingen"
+capital = "Nördlingen"
 is_city = yes
 culture = swabian
 religion = catholic

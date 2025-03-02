@@ -6,7 +6,7 @@
 owner = SOR			#5s-minors-mod
 controller = SOR	#5s-minors-mod
 add_core = SOR		#5s-minors-mod
-capital = "Hradec Kr√°lov√©"
+capital = "Hradec Kr·lovÈ"
 culture = czech
 religion = hussite
 trade_goods = grain 

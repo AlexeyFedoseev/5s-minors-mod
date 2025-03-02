@@ -1440,6 +1440,7 @@ cb_take_mandate = {
 				has_owner_accepted_culture = yes
 			}
 		}
+		ROOT = { capital_scope = { continent = asia } }		#5s-minors-mod
 	}
 
 	prerequisites = {

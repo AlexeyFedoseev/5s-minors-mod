@@ -1,11 +1,11 @@
-# 1879 - AlenÃ§on
+# 1879 - Alençon
 
 #owner = ENG		#5s-minors-mod
 #controller = ENG	#5s-minors-mod
 owner = ALE			#5s-minors-mod
 controller = ALE	#5s-minors-mod
 add_core = ALE		#5s-minors-mod
-capital = "AlenÃ§on"
+capital = "Alençon"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic

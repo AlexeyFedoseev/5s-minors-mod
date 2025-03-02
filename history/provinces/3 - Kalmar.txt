@@ -1,5 +1,5 @@
 #Eastern and Northern Småland - Includes parts under Östgötalag
-
+# cursed symbol - Ã		½		Ñ
 #add_core = SWE		#5s-minors-mod
 #owner = SWE		#5s-minors-mod
 #controller = SWE	#5s-minors-mod

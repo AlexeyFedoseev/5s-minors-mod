@@ -195,11 +195,11 @@ country_event = {
 		}
 		has_regency = no
 		is_subject = no
-		HAB = {
-			is_subject = no
-			government = monarchy
-			has_regency = no
-		}
+		#HAB = {	#5s-minors-mod
+		#	is_subject = no
+		#	government = monarchy
+		#	has_regency = no
+		#}
 		has_government_attribute = heir
 		NOT = { has_country_flag = hun_has_had_matthias_corvinus_event }
 	}
@@ -264,6 +264,9 @@ country_event = {
 	}
 	option = {
 		name = flavor_hun.2.b
+		trigger = {	#5s-minors-mod
+			exists = HAB
+		}
 		ai_chance = { factor = 25 }
 		add_stability_or_adm_power = yes
 		HUN = {
@@ -285,6 +288,7 @@ country_event = {
 			has_heir = yes
 			NOT = { has_heir = "Ladislaus Postumus" }
 			NOT = { dynasty = HAB }
+			exists = HAB	#5s-minors-mod
 		}
 		ai_chance = {
 			factor = 25

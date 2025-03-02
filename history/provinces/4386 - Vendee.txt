@@ -5,7 +5,7 @@
 owner = BER			#5s-minors-mod
 controller = BER	#5s-minors-mod
 add_core = BER		#5s-minors-mod
-capital = "LuÃ§on"
+capital = "Luçon"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic 

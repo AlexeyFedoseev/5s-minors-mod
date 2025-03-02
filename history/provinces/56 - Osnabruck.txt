@@ -1,4 +1,4 @@
-#56 - OsnabrÃ¼ck
+#56 - Osnabrück
 
 #owner = MUN		#5s-minors-mod
 #controller = MUN	#5s-minors-mod
@@ -7,7 +7,7 @@ controller = OSN	#5s-minors-mod
 add_core = OSN		#5s-minors-mod
 culture = hannoverian
 religion = catholic
-capital = "OsnabrÃ¼ck"
+capital = "Osnabrück"
 trade_goods = salt
 hre = yes
 base_tax = 3

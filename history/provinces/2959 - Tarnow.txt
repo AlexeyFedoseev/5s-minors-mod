@@ -5,7 +5,7 @@
 owner = KRA			#5s-minors-mod
 controller = KRA	#5s-minors-mod
 add_core = KRA		#5s-minors-mod
-capital = "TarnÃ³w"
+capital = "Tarnów"
 culture = polish
 religion = catholic
 trade_goods = grain

@@ -1,4 +1,4 @@
-#220 - ValÃ¨ncia
+#220 - València
 
 #owner = ARA	#Alfons V of Aragon		#5s-minors-mod
 #controller = ARA	#5s-minors-mod
@@ -14,7 +14,7 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 4
 fort_15th = yes
-capital = "ValÃ¨ncia" 
+capital = "València" 
 is_city = yes
 discovered_by = western
 discovered_by = eastern

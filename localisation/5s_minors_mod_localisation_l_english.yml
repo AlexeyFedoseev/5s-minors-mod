@@ -27,8 +27,27 @@
  african_nation_desk:0 "Unite Africa"
  african_modernization_title:0 "Modernize army and society"
  african_modernization_desc:0 "changes your technology group and units in accordance with your religion"
+ lanfang_warning_tooltip:0 "§RWARNING§!\nAfter formation of this country, you §Rwill not be able to form§! §YMalaya§!"
+
+ dev_sum_clicks_decision_title:0 "Development growth counter"
+ dev_sum_clicks_decision_desc:0 "Counter located in effect button tooltip.\nBy the way i don`t like idea gain player permission to reset the counter, so this function are not provided"
+ dev_sum_clicks_decision_tooltip:0 "Manual Development:\n\n§W£adm£ Development Gained: §G[This.dev_tax_clicks.GetValue] \n§W£dip£ Development Gained: §G[This.dev_production_clicks.GetValue] \n§W£mil£ Development Gained: §G[This.dev_manpower_clicks.GetValue] \n\n§WTotal Development Gained: §Y[This.dev_sum_clicks.GetValue]"
+
+ colonize_gulf_of_guinea_decision_title:0 "Colonize Guinea coast"
+ colonize_gulf_of_guinea_decision_desc:0 "Send our people to colonizing Gulf of Guinea"
 
  # buildings
  building_ramparts_desc:0 "Allow the construction of §YFortress in neighboring provinces§!\n"
  the_draft_used:0 "The Draft cooldown"
- emergency_impressment_act_used:0 "Emergence impressment act cooldown"
+ emergency_impressment_act_used:0 "Emergence impressment act cooldown."
+
+ # dipActions
+ minors_mod_saySorry_action:0 "Send an Apology"
+ minors_mod_saySorry_action_title:0 "Send an Apology"
+ minors_mod_saySorry_action_desc:0 "Do you wish to send our delegation with official apologies to §Y[From.GetName]§! court?\nOnce he gone, we loses §R500§! gold, but reduces our aggressive  expansion relation with §Y[From.GetName]§! by §G50§!."
+ minors_mod_saySorry_action_tooltip:0 "Do you wish to send our delegation with official apologies to §Y[From.GetName]§! court?\nOnce he gone, we loses §R500§! gold, but reduces our aggressive expansion relation with §Y[From.GetName]§! by §G50§!."
+ minors_mod_saySorry_action_alert_tooltip:0 "Send an Apology"
+
+ #modifiers
+ russian_contorl_fur_trade_mod:0 "Profit from the Fur Trade"
+ desc_russian_contorl_fur_trade_mod:0 "The fur trade is generating an immense amount of income for Russia. Some of these Ducats are re-invested into Russia for the sake of increasing our economy even further."

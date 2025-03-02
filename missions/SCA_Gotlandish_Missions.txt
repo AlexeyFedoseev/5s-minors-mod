@@ -281,10 +281,6 @@ got_monarchy_slot_2 = {
 			is_capital_of = DAN
 		}
 		trigger = {
-			custom_trigger_tooltip = { #5s-minors-mod
-				tooltip = obj_humiliate_rival_tooltip
-				has_country_flag = humiliated_rival
-			}
 			OR = {
 				NOT = { exists = DAN }
 				has_casus_belli_against = DAN
@@ -2545,7 +2541,7 @@ got_pirate_slot_5 = {
 						add_historical_friend = ROOT
 						define_ruler = {
 							force_republican_names = yes
-							dynasty = "StÃ¶rtebeker"
+							dynasty = "Störtebeker"
 							culture = pommeranian
 						}
 						add_republican_tradition = 50

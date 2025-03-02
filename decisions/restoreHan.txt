@@ -17,7 +17,7 @@ country_decisions = {
 			NOT = { exists = HNN }
 			NOT = { tag = HLR }
 			NOT = { tag = PAP }
-            OR{
+            OR = {
 				primary_culture = miao 
 				primary_culture = cantonese 
 				primary_culture = wu 
@@ -64,7 +64,7 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no			
 			NOT = { exists = HNN }
-			AND{
+			AND = {
 				owns_core_province = 679	#Chengdu
 				owns_core_province = 680	#Chongquing
 				owns_core_province = 682	#Wuchang
@@ -96,6 +96,9 @@ country_decisions = {
 			}
 			else = {
 				total_development = 1000
+			}
+			671 = {
+				is_state = yes
 			}
 		}
 		effect = {

@@ -237,38 +237,38 @@ alb_1 = {
 			OR = { #5s-minors-mod
 				AND = {
 					macedonia_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 					northern_greece_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 				}
 				AND = {
 					macedonia_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 					rascia_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 				}
 				AND = {
 					northern_greece_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 					rascia_area = {
-					type = all
-					owned_by = ROOT
-					is_core = ROOT
+						type = all
+						owned_by = ROOT
+						is_core = ROOT
 					}
 				}
 			}

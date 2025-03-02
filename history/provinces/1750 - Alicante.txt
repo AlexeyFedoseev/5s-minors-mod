@@ -1,8 +1,8 @@
-#1750 - Alï¿½cant
+#1750 - Alàcant
 
-owner = ARA		#MartÃ­ I of Aragon	#5s-minors-mod
-controller = ARA	#5s-minors-mod
-add_core = ARA		#5s-minors-mod
+#owner = ARA		#Martí I of Aragon	#5s-minors-mod
+#controller = ARA	#5s-minors-mod
+#add_core = ARA		#5s-minors-mod
 owner = VAL			#5s-minors-mod
 controller = VAL	#5s-minors-mod
 add_core = VAL
@@ -13,7 +13,7 @@ base_tax = 3
 base_production = 3
 trade_goods = salt
 base_manpower = 3 
-capital = "AlÃ cant" 
+capital = "Alàcant" 
 is_city = yes
 
 

@@ -420,7 +420,6 @@ tur_conquest_of_middle_east = {
 		completed_by = 1514.8.23
 		trigger = {
 			army_size_percentage = 0.85
-			stability = 2 #5s-minors-mod
 		}
 		effect = {
 			karaman_area = {

@@ -1,0 +1,68 @@
+country_decisions = {
+	dev_sum_clicks_decision = {
+
+		color = { 128 0 128 }
+
+		potential = {
+			ai = no
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+
+		allow = {
+			always = no
+		}
+
+		effect = {
+			custom_tooltip = dev_sum_clicks_decision_tooltip
+		}
+	}
+
+	colonize_gulf_of_guinea_decision = {
+		major = yes
+		potential = {
+			ai = no
+			OR = {
+				owns_all_provinces = {
+					area = benin_area
+				}
+				owns_all_provinces = {
+					area = coastal_kongo
+				}
+			}
+			gulf_of_guinea_area = {
+				is_empty = yes
+			}
+		}
+
+		allow = {
+			adm_tech = 5
+			manpower = 5
+			treasury = 250
+			adm_power = 100
+			dip_power = 100
+			mil_power = 100
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+
+		
+
+		effect = {
+			add_manpower = -5
+			add_treasury = -250
+			add_adm_power = -100
+			add_dip_power = -100
+			add_mil_power = -100
+			gulf_of_guinea_area = {
+				create_colony_mission_reward_province = {
+					country = ROOT
+				}
+			}
+		}
+	}
+}

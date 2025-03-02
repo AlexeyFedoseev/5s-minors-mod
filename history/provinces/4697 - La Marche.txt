@@ -3,7 +3,7 @@
 owner = BOU			#5s-minors-mod
 controller = BOU	#5s-minors-mod
 add_core = BOU		#5s-minors-mod
-capital = "GuÃ©ret"
+capital = "Guéret"
 is_city = yes
 culture = gascon
 religion = catholic

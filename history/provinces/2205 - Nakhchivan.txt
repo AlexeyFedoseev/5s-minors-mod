@@ -2,9 +2,9 @@
 
 #owner = TIM		#5s-minors-mod
 #controller = TIM	#5s-minors-mod
-owner = TBR			#5s-minors-mod
-controller = TBR	#5s-minors-mod
-add_core = TBR		#5s-minors-mod
+owner = QAR			#5s-minors-mod
+controller = QAR	#5s-minors-mod
+add_core = QAR		#5s-minors-mod
 culture = armenian
 religion = coptic
 capital = "Nakhchevani"

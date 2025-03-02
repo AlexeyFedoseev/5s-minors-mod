@@ -6,7 +6,7 @@ primary_culture = baltic_german
 religion = catholic
 capital = 38	# Riga
 fixed_capital = 38 # Cannot move capital away from this province & no power cost to move to it
-#historical_friend = HSA #LÃ¼beck	#5s-minors-mod
+#historical_friend = HSA #Lübeck	#5s-minors-mod
 #historical_friend = BRE #Bremen	#5s-minors-mod
 #historical_friend = HAM #Hamburg	#5s-minors-mod
 change_estate_land_share = {
@@ -100,7 +100,7 @@ change_estate_land_share = {
 
 1528.2.6= {
 	monarch = {
-		name = "Thomas Schï¿½ning"
+		name = "Thomas Schöning"
 		dip = 2
 		adm = 2
 		mil = 2

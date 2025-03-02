@@ -7041,7 +7041,7 @@ ARM1_ideas = {
 		#	#tag = ARM #5s
 		#	tag = MLK
 		#}
-		#has_country_flag = arm_great_armenian_ideas
+		has_country_flag = arm_great_armenian_ideas
 	}
 	free = yes		#will be added at load.
 	
@@ -17302,7 +17302,7 @@ SIA_ideas = {
 LFA_ideas = {
 	start = {
 		inflation_reduction = 0.1
-		infantry_power = 0.1
+		infantry_power = 0.15	#5s-minors-mod
 	}
 	bonus = {
 		possible_policy = 1
@@ -17327,7 +17327,7 @@ LFA_ideas = {
 		diplomatic_reputation = 1
 	}
 	lfa_national_militia = {
-		land_morale = 0.1
+		land_morale = 0.15		#5s-minors-mod
 		hostile_attrition = 1.0
 	}
 	lfa_integrate_local_communities = {

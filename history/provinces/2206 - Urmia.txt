@@ -1,10 +1,8 @@
 #2035 - Urmia
 
-#owner = QAR		#5s-minors-mod
-#controller = QAR	#5s-minors-mod
-owner = MGR			#5s-minors-mod
-controller = MGR	#5s-minors-mod
-add_core = MGR		#5s-minors-mod
+owner = QAR
+controller = QAR
+add_core = QAR		#5s-minors-mod
 culture = kurdish
 religion = sunni
 capital = "Urmiyeh"

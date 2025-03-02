@@ -6,6 +6,7 @@ hab_reform_austria = {
 		OR = {
 			tag = TIR
 			tag = STY
+			tag = WIN	#5s-minors-mod
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -15,7 +16,6 @@ hab_reform_austria = {
 		icon = mission_have_two_subjects
 		required_missions = {  } #None
 		trigger = {
-			owns = 134 #5s-minors-mod
 			OR = {
 				num_of_cities = HAB
 				NOT = { exists = HAB }

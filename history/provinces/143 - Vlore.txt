@@ -1,4 +1,4 @@
-#143 - VlorÃ« - Southern Albania
+#143 - Vlorë - Southern Albania
 
 #owner = TUR		#5s-minors-mod
 #controller = TUR	#5s-minors-mod
@@ -7,7 +7,7 @@ controller = ALB	#5s-minors-mod
 add_core = ALB		#5s-minors-mod
 culture = albanian
 religion = orthodox
-capital = "VlorÃ«"
+capital = "Vlorë"
 trade_goods = wool #or salt
 hre = no
 base_tax = 2

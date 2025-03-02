@@ -1,4 +1,4 @@
-#208 - LeÃ³n
+#208 - León
 latent_trade_goods = {
 	coal
 }
