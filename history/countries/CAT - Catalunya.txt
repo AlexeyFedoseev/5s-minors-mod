@@ -9,7 +9,7 @@ capital = 213	# Barcelona
 
 1444.1.1 = { #5s-minors-mod
 	monarch = {
-		name = "JosÐ¹"
+		name = "José"
 		dynasty = "de Trastámara"
         birth_date = 1402.3.6
 		adm = 0

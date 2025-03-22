@@ -10,7 +10,7 @@ unlock_cult = cwezi_cult
 unit_type = sub_saharan
 capital = 4098 # Upemba
 
-1430.1.1 = {
+1430.1.1 = {	
 	monarch = {
 		name = "Nyembo"
 		dynasty = "Kikondja"
@@ -19,17 +19,24 @@ capital = 4098 # Upemba
 		#mil = 3	#5s-minors-mod
 		adm = 1		#5s-minors-mod
 		dip = 2		#5s-minors-mod
-		mil = 2		#5s-minors-mod
-	}
-	heir = {		#5s-minors-mod
-		name = "Negoy"
-		monarch_name = "Kikondja"
-		birth_date = 1439.1.1
-		adm = 6
-		dip = 6
-		mil = 6 
+		mil = 6 #2		#5s-minors-mod
+		birth_date = 1413.1.1	#5s-minors-mod
 	}
 } #All fictional
+
+1444.1.1 = {
+	heir = {
+		name = "Negoy"
+		monarch_name = "Negoy"
+		dynasty = "Kikondja"
+		birth_date = 1439.1.1
+		death_date = 1495.1.1
+		claim = 15
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
 
 1490.1.1 = {
 	monarch = {

@@ -11,7 +11,7 @@ religious_school = maliki_school
 
 1444.1.1 = { #5s-minors-mod
 	monarch = {
-		name = "'Abdall–≤h"
+		name = "'Abdall‚h"
 		dynasty = "Al-Tumi"
         birth_date = 1401.3.6
 		adm = 2
