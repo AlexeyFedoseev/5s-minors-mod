@@ -3113,7 +3113,7 @@ ITA_ideas = {
 	free = yes
 	
 	no_a_geographical_construct = {
-		developmrnt_cost = -0.10 #5s-minors-mod
+		development_cost = -0.10 #5s-minors-mod
 		stability_cost_modifier = -0.10
 	}
 	tradition_of_the_legion = {
@@ -7733,7 +7733,7 @@ CAN_ideas = {
 	}
 	the_forests_of_canada = {
 		global_ship_cost = -0.1
-		army_morale = 0.1 #5s-minors-mod
+		land_morale = 0.1 #5s-minors-mod
 	}
 }
 
@@ -18200,45 +18200,45 @@ UKR_ideas = {
 	}
 }
 
-ARB_ideas = {
-	start = {
-		tolerance_own = 2
-		years_of_nationalism = -10
-	}
-
-	bonus = {
-		siege_ability = 0.15
-	}
-
-	trigger = {
-		tag = ARB
-	}
-	free = yes
-
-	ARB_arabian_pincers = {
-		cav_to_inf_ratio = 0.25
-		cavalry_power = 0.25
-	}
-	ARB_pact_of_umar = {
-		dhimmi_loyalty_modifier = 0.1
-		global_tax_modifier = 0.2
-	}
-	ARB_engage_in_indian_ocean_trade = {
-		trade_steering = 0.2	
-	}
-	ARB_conversion = {
-		global_missionary_strength = 0.03
-	}
-	ARB_jihad = {
-		warscore_cost_vs_other_religion = -0.1
-	}
-	ARB_new_caliphate_rising = {
-		missionaries = 2
-	}
-	ARB_mubarizun = {
-		army_tradition_decay = -0.01
-	}
-}
+#ARB_ideas = {		#5s-minors-mod
+#	start = {
+#		tolerance_own = 2
+#		years_of_nationalism = -10
+#	}
+#
+#	bonus = {
+#		siege_ability = 0.15
+#	}
+#
+#	trigger = {
+#		tag = ARB
+#	}
+#	free = yes
+#
+#	ARB_arabian_pincers = {
+#		cav_to_inf_ratio = 0.25
+#		cavalry_power = 0.25
+#	}
+#	ARB_pact_of_umar = {
+#		dhimmi_loyalty_modifier = 0.1
+#		global_tax_modifier = 0.2
+#	}
+#	ARB_engage_in_indian_ocean_trade = {
+#		trade_steering = 0.2	
+#	}
+#	ARB_conversion = {
+#		global_missionary_strength = 0.03
+#	}
+#	ARB_jihad = {
+#		warscore_cost_vs_other_religion = -0.1
+#	}
+#	ARB_new_caliphate_rising = {
+#		missionaries = 2
+#	}
+#	ARB_mubarizun = {
+#		army_tradition_decay = -0.01
+#	}
+#}
 
 EGY_ideas = {
 	start = {
@@ -20657,7 +20657,7 @@ GPR_ideas = {
 	start = {
 		land_attrition = -0.25
 		hostile_attrition = 2
-		can_colony_boost_development = yes
+		colony_development_boost = 1
 	}
 
 	bonus = {
