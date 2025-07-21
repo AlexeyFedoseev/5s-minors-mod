@@ -246,7 +246,7 @@ provincial_tax_income = {
 	local_great_project_upgrade_time = -0.01
 	local_build_time = -0.01
 	local_institution_spread = 0.02
-	tax_income = 1		#5s-minors-mod		--1 income per dev by default(not in modifiers)
+	#tax_income = 1		#5s-minors-mod		--1 income per dev by default(not in modifiers)
 }
 
 provincial_production_size = {
