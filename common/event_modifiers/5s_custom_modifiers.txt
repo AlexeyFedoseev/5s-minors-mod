@@ -6,6 +6,6 @@ emergency_impressment_act_used = {
 
 }
 
-russian_contorl_fur_trade_mod = {
-	allowed_num_of_buildings = 1
-}
+#russian_control_fur_trade_mod = {
+#	allowed_num_of_buildings = 1
+#}

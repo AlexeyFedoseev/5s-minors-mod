@@ -439,7 +439,10 @@ pirate_republic_reform = {
 		capture_ship_chance = 0.33
 		state_governing_cost = 0.75
 		may_perform_slave_raid_on_same_religion = yes
-		allowed_marine_fraction = 0.5
+		#allowed_marine_fraction = 0.5		#5s-minors-mod
+		global_manpower_modifier = -0.8		#5s-minors-mod
+		global_sailors_modifier = 0.5		#5s-minors-mod
+		allowed_marine_fraction = 1.5		#5s-minors-mod
 		landing_penalty = -2 #5s-minors-mod
 	}
 	trigger = {

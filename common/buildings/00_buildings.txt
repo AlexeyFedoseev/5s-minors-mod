@@ -822,8 +822,7 @@ regimental_camp = {
 	cost = 200
 	time = 12
 	modifier = {
-		#land_forcelimit = 1	#5s-minors-mod
-		land_forcelimit = 0.5	#5s-minors-mod
+		land_forcelimit = 1
 	}
 
 #	# THIS = Province, FROM = Builder(not nessecairly owner, can be overlord)
@@ -2002,8 +2001,7 @@ conscription_center = {
 #	}
 
 	modifier = {
-		#land_forcelimit = 2	#5s-minors-mod
-		land_forcelimit = 1		#5s-minors-mod
+		land_forcelimit = 2
 	}
 	on_built = {
 		add_development_from_upgrading_or_building = {
@@ -2247,8 +2245,7 @@ manufactory = {
 	cost = 500
 	time = 60
 	modifier = {
-		#trade_goods_size = 1.0		#5s-minors-mod
-		trade_goods_size = 0.5		#5s-minors-mod
+		trade_goods_size = 1.0
 	}
 }
 
@@ -2696,12 +2693,10 @@ soldier_households = {
 	}
 
 	modifier = {
-		#local_manpower = 0.75		#5s-minors-mod
-		local_manpower = 0.5		#5s-minors-mod
+		local_manpower = 0.75
 	}
 	bonus_modifier = {
-		#local_manpower = 0.75		#5s-minors-mod
-		local_manpower = 0.5		#5s-minors-mod
+		local_manpower = 0.75
 	}
 	onmap = no
 	show_separate = yes # Means as a manufactory it will be shown according to the old way

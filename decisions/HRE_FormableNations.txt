@@ -4,10 +4,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_bavaria_flag }
 			OR = {
 				ai = no
@@ -18,6 +15,7 @@ country_decisions = {
 				ai = no
 			}
 			NOT = { exists = BAV }
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			primary_culture = bavarian
 		}
 		provinces_to_highlight = {
@@ -109,6 +107,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = BAV
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			restore_country_name_effect = yes
 			if = {
 				limit = {
@@ -188,10 +187,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_pomerania_flag }
 			OR = {
 				ai = no
@@ -202,6 +198,7 @@ country_decisions = {
 				ai = no
 			}
 			NOT = { exists = POM }
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			primary_culture = pommeranian
 		}
 		provinces_to_highlight = {
@@ -294,6 +291,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = POM
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			restore_country_name_effect = yes
 			add_country_modifier = {
 				name = "centralization_modifier"
@@ -388,10 +386,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_franconia_flag }
 			OR = {
 				ai = no
@@ -410,6 +405,7 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			primary_culture = franconian
 		}
 		provinces_to_highlight = {
@@ -485,6 +481,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = FKN
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			restore_country_name_effect = yes
 			franconia_area = {
 				limit = {
@@ -539,10 +536,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_swabia_flag }
 			OR = {
 				ai = no
@@ -561,6 +555,7 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			primary_culture = swabian
 		}
 		provinces_to_highlight = {
@@ -603,6 +598,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = SWA
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			restore_country_name_effect = yes
 			lower_swabia_area = {
 				limit = {
@@ -688,10 +684,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_franconia_flag }
 			OR = {
 				ai = no
@@ -717,7 +710,8 @@ country_decisions = {
 				primary_culture = saxon
 				tag = LAU
 			}
-			NOT = { tag = BRA }
+			#NOT = { tag = BRA }	#5s-minors-mod
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			NOT = { tag = SAX }
 		}
 		provinces_to_highlight = {
@@ -784,6 +778,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = SAX
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			restore_country_name_effect = yes
 			south_saxony_area = {
 				limit = {
@@ -839,10 +834,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_hannover_flag }
 			OR = {
 				ai = no
@@ -875,6 +867,7 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -925,6 +918,7 @@ country_decisions = {
 				move_capital_effect = yes
 			}
 			change_tag = HAN
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			1758 = {
 				add_base_tax = 1
 			}
@@ -981,10 +975,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-				was_never_german_regional_tag_trigger = yes
-				tag = BRA
-			}
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_westphalia_flag }
 			OR = {
 				ai = no
@@ -1027,6 +1018,7 @@ country_decisions = {
 					ai = no
 				}
 			}
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -1107,6 +1099,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = WES
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			set_country_flag = formed_westphalia_flag
 			if = {
 				limit = {

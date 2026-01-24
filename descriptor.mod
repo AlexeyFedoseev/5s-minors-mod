@@ -9,7 +9,7 @@ tags={
 	"New Nations"
 	"Religion"
 }
-name="5s league minors mod"
+name=" league minors mod"
 picture="thumbnail.png"
 supported_version="v1.37.5.0"
 remote_file_id="2248331539"

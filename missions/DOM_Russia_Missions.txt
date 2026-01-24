@@ -4892,32 +4892,15 @@ rus_russian_westernization = {
 			}
 		}
 		effect = {
-			west_siberia_region = {
-				limit = {
-					owned_by = RUS
-				}
-				add_province_modifier = {
-					name = russian_contorl_fur_trade_mod
-					duration = -1
-				}
+			#5s-minors-mod
+			west_siberia_region = {	
+				add_province_triggered_modifier = russian_control_fur_trade_mod
 			}
 			east_siberia_region = {
-				limit = {
-					owned_by = RUS
-				}
-				add_province_modifier = {
-					name = russian_contorl_fur_trade_mod
-					duration = -1
-				}
+				add_province_triggered_modifier = russian_control_fur_trade_mod
 			}
 			ural_area = {
-				limit = {
-					owned_by = RUS
-				}
-				add_province_modifier = {
-					name = russian_contorl_fur_trade_mod
-					duration = -1
-				}
+				add_province_triggered_modifier = russian_control_fur_trade_mod
 			}
 			#add_country_modifier = {	#5s-minors-mod
 			#	name = rus_state_investment

@@ -1,6 +1,8 @@
 government = monarchy
-add_government_reform = celestial_empire
-government_rank = 3
+#add_government_reform = celestial_empire	#5s-minors-mod
+add_government_reform = chinese_warlord		#5s-minors-mod
+#government_rank = 3						#5s-minors-mod
+government_rank = 2							#5s-minors-mod
 technology_group = chinese
 religion = confucianism
 add_harmonized_religion = mahayana
@@ -194,22 +196,23 @@ if = {
 }
 
 1444.11.10 = {
-	change_estate_land_share = {
-		estate = all
-		share = 25
-	}
-	change_estate_land_share = {
-		estate = estate_eunuchs
-		share = -10
-	}
-	change_estate_land_share = {
-		estate = estate_eunuchs
-		share = -10
-	}
-	change_estate_land_share = {
-		estate = all
-		share = 5
-	}
+	#5s-minors-mod
+	#change_estate_land_share = {
+	#	estate = all
+	#	share = 25
+	#}
+	#change_estate_land_share = {
+	#	estate = estate_eunuchs
+	#	share = -10
+	#}
+	#change_estate_land_share = {
+	#	estate = estate_eunuchs
+	#	share = -10
+	#}
+	#change_estate_land_share = {
+	#	estate = all
+	#	share = 5
+	#}
 }
 
 1449.11.23 = {

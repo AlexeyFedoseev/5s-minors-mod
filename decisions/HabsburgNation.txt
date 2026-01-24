@@ -5,10 +5,7 @@ country_decisions = {
 		potential = {
 			normal_or_historical_nations = yes
 			was_never_end_game_tag_trigger = yes
-			OR = { #5s-minors-mod
-                was_never_german_regional_tag_trigger = yes
-                tag = BRA
-            }
+			was_never_german_regional_tag_trigger = yes
 			NOT = { has_country_flag = formed_austria_flag }
 			OR = {
 				ai = no
@@ -21,6 +18,7 @@ country_decisions = {
 			primary_culture = austrian
 			NOT = { tag = HAB }
 			NOT = { tag = AUH }
+			NOT = { has_country_flag = 5s_german_nation_formed_flag }	#5s-minors-mod
 			OR = {
 				NOT = { exists = HAB }
 				ai = no
@@ -66,6 +64,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = HAB
+			set_country_flag = 5s_german_nation_formed_flag		#5s-minors-mod
 			add_prestige = 10
 			austria_proper_area = {
 				limit = {
