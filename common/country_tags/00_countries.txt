@@ -1122,3 +1122,4 @@ HNN = "countries/Han.txt"   #5s-minors-mod
 PNG = "countries/Great Penguinia.txt" #5s-minors-mod
 CAR = "countries/Cairo.txt" #5s-minors-mod
 SHE = "countries/Shenyang.txt" #5s-minors-mod
+SLL = "countries/Silla.txt" #5s-minors-mod

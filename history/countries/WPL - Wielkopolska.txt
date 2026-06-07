@@ -12,7 +12,7 @@ government_rank = 1
 		dynasty = "Piast"
         birth_date = 1402.3.6
 		adm = 5
-		dip = 1
-		mil = 3
+		dip = 3
+		mil = 4
 	}
 }

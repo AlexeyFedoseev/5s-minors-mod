@@ -3311,6 +3311,7 @@ korean_monarchy = {
 			tag = KOR
 			tag = GOG
 			tag = BAE
+			tag = SLL
 		}
 	}
 	modifiers = {

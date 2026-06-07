@@ -70,9 +70,12 @@ capital = 268 # Suceava
 	monarch = {
 		name = "Stefan II"
 		dynasty = "Musat"
-		adm = 2
-		dip = 3
-		mil = 3 #5s-minors-mod
+		#adm = 2	#5s-minors-mod
+		#dip = 3	#5s-minors-mod
+		#mil = 2	#5s-minors-mod
+		adm = 6	 	#5s-minors-mod
+		dip = 3	 	#5s-minors-mod
+		mil = 3	 	#5s-minors-mod
 	}
 }
 

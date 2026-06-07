@@ -21,6 +21,7 @@ country_event = {
 		OR = { #5s-minors-mod-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1600
@@ -99,6 +100,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1490
@@ -198,6 +200,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1505
@@ -261,6 +264,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1520
@@ -373,6 +377,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1608
@@ -409,6 +414,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		NOT = { 
@@ -464,6 +470,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_lesser_in_union = no
@@ -580,6 +587,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1555
@@ -710,6 +718,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1470
@@ -756,6 +765,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1550
@@ -865,6 +875,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		is_year = 1480
@@ -937,6 +948,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		has_country_flag = kor_third_literati_purge
@@ -1712,6 +1724,7 @@ country_event = {
 		OR = { #5s-minors-mod
 			tag = KOR
 			tag = GOG
+			tag = SLL
 			tag = BAE
 		}
 		NOT = { is_year = 1470 }

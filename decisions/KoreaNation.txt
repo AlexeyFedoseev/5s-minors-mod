@@ -46,10 +46,12 @@ country_decisions = {
 			owns_core_province = 735		# Hanseong
 			owns_core_province = 737		# Jeonju
 			owns_core_province = 2745		# Gyeongju
-            OR = {
-                NOT = { exists = BAE }
+			calc_true_if = {
+				NOT = { exists = BAE }
                 NOT = { exists = GOG }
-            }
+				NOT = { exists = SLL }
+				amount = 2
+			}
 		}
 		effect = {
 			change_tag = KOR

@@ -12,8 +12,11 @@ government_rank = 1
 		name = "Karol"
 		dynasty = "Zichy"
         birth_date = 1428.3.6
-		adm = 1
-		dip = 6
-		mil = 1
+		#adm = 1	 #5s-minors-mod
+		#dip = 6	 #5s-minors-mod
+		#mil = 1	 #5s-minors-mod
+		adm = 3	 	#5s-minors-mod
+		dip = 5	 	#5s-minors-mod
+		mil = 4	 	#5s-minors-mod
 	}
 }

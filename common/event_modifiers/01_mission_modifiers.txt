@@ -7355,6 +7355,7 @@ oyo_empire = {
 	devotion = 0.5
 	meritocracy = 0.5
 	horde_unity = 0.5
+	cav_to_inf_ratio = 0.25	#5s-minors-mod
 }
 
 oyo_shaman_gathering = {

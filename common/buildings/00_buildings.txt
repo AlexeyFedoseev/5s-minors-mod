@@ -2246,6 +2246,7 @@ manufactory = {
 	time = 60
 	modifier = {
 		trade_goods_size = 1.0
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 }
 
@@ -2585,6 +2586,7 @@ furnace = {
 
 	modifier = {
 		global_trade_goods_size_modifier = 0.05 #National Bonus
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 	onmap = yes
 	show_separate = yes # Means as a manufactory it will be shown according to the old way
@@ -2622,6 +2624,7 @@ ramparts = {
 		local_hostile_attrition = 1
 		local_defensiveness = 0.15
 		#local_defender_dice_roll_bonus = 1		#5s-minors-mod
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 	onmap = no
 	show_separate = yes # Means as a manufactory it will be shown according to the old way
@@ -2694,6 +2697,7 @@ soldier_households = {
 
 	modifier = {
 		local_manpower = 0.75
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 	bonus_modifier = {
 		local_manpower = 0.75
@@ -2769,6 +2773,7 @@ impressment_offices = {
 		local_sailors = 250
 		ship_recruit_speed = -0.1
 		local_ship_cost = -0.05
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 	bonus_modifier = {
 		local_sailors = 250
@@ -2856,6 +2861,7 @@ state_house = {
 		local_governing_cost = -0.15
 		local_governing_cost_increase = -10
 		allowed_num_of_buildings = 1
+		local_warscore_cost_modifier = -0.2	 	#5s-minors-mod
 	}
 	bonus_modifier = {
 		statewide_governing_cost = -0.2

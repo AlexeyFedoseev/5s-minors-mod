@@ -3,7 +3,7 @@ add_government_reform = korean_monarchy
 primary_culture = korean
 religion = confucianism
 technology_group = chinese
-capital = 2745
+capital = 735
 government_rank = 1
 
 1444.1.1 = {

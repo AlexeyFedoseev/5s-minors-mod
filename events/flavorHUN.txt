@@ -8,164 +8,164 @@ namespace = flavor_hun
 normal_or_historical_nations = yes
 
 # Diet of 1445
-country_event = {
-	id = flavor_hun.1
-	title = flavor_hun.1.t
-	desc = flavor_hun.1.d
-	picture = DEBATE_REPUBLICAN_eventPicture
-
-	fire_only_once = yes
-
-	trigger = {
-		OR = {
-			tag = HUN
-			was_tag = HUN
-		}
-		has_regency = yes
-		has_consort_regency = no
-		is_lesser_in_union = no
-		has_leader = "János Hunyadi"
-		is_year = 1445
-		NOT = { is_year = 1470 }
-		has_government_attribute = heir
-	}
-
-	mean_time_to_happen = {
-		days = 1 #5s-minors-mod
-	}
-
-	option = {
-		ai_chance = { factor = 50 }
-		trigger = {
-			HAB = { has_heir = "Ladislaus Postumus" }
-		}
-		name = flavor_hun.1.a
-		define_ruler = {
-			name = "János"
-			dynasty = "Hunyadi"
-			DIP = 5
-			ADM = 4
-			MIL = 5
-			age = 39
-			attach_leader = "János Hunyadi"
-		}
-		if = {
-			limit = {
-				has_states_general_mechanic = yes
-			}
-			change_statists_vs_orangists = 1
-		}
-		if = {
-			limit = {
-				has_dlc = "Rights of Man"
-			}
-			hidden_effect = { add_ruler_personality_ancestor = { key = bold_fighter } }
-		}
-		define_heir = {
-			name = "Ladislaus Postumus"
-			dynasty = "von Habsburg"
-			culture = austrian
-			adm = 3
-			dip = 3
-			mil = 2
-			block_disinherit = yes
-			birth_date = 1440.2.22
-		}
-		custom_tooltip = hun_ladislaus_postumus_warning_tooltip
-		hidden_effect = { set_country_flag = hun_ladislaus_postumus_heir }
-		every_country = {
-			limit = {
-				NOT = { tag = ROOT }
-				dynasty = "von Habsburg"
-			}
-			add_opinion = {
-				who = root
-				modifier = hun_habsburgs_spurned
-			}
-		}
-		add_estate_loyalty = {
-			estate = estate_nobles
-			loyalty = 10
-		}
-	}
-	option = {
-		name = flavor_hun.1.b
-		trigger = {
-			HAB = { has_heir = "Ladislaus Postumus" }
-		}
-		ai_chance = { factor = 50 }
-		add_stability_or_adm_power = yes
-		define_heir = {
-			name = "Ladislaus Postumus"
-			dynasty = "von Habsburg"
-			culture = austrian
-			adm = 3
-			dip = 3
-			mil = 2
-			birth_date = 1440.2.22
-		}
-		hidden_effect = {
-			define_ruler = {
-				ADM = 0
-				DIP = 0
-				MIL = 0
-				regency = yes
-			}
-		}
-		custom_tooltip = hun_ladislaus_postumus_warning_tooltip
-		hidden_effect = { set_country_flag = hun_ladislaus_postumus_heir }
-		add_estate_loyalty = {
-			estate = estate_nobles
-			loyalty = -15
-		}
-
-	}
-	option = {
-		ai_chance = { factor = 1 }
-		trigger = {
-			HAB = { NOT = { has_heir = "Ladislaus Postumus" } }
-		}
-		name = flavor_hun.1.c
-		define_ruler = {
-			name = "János"
-			dynasty = "Hunyadi"
-			DIP = 5
-			ADM = 4
-			MIL = 5
-			age = 39
-			attach_leader = "János Hunyadi"
-		}
-		define_heir = {
-			name = "Mátyás"
-			culture = hungarian
-			dynasty = "Hunyadi"
-			adm = 4
-			dip = 5
-			mil = 6
-			claim = 50
-			birth_date = 1443.2.23
-		}
-		hidden_effect = {
-			set_country_flag = hun_matyas_already_existed
-		}
-		if = {
-			limit = {
-				has_states_general_mechanic = yes
-			}
-			change_statists_vs_orangists = 1
-		}
-		if = {
-			limit = {
-				has_dlc = "Rights of Man"
-			}
-			hidden_effect = { add_ruler_personality_ancestor = { key = bold_fighter } }
-		}
-		add_estate_loyalty = {
-			estate = estate_nobles
-			loyalty = 10
-		}
-	}
-}
+#country_event = {	#5s-minors-mod
+#	id = flavor_hun.1
+#	title = flavor_hun.1.t
+#	desc = flavor_hun.1.d
+#	picture = DEBATE_REPUBLICAN_eventPicture
+#
+#	fire_only_once = yes
+#
+#	trigger = {
+#		OR = {
+#			tag = HUN
+#			was_tag = HUN
+#		}
+#		has_regency = yes
+#		has_consort_regency = no
+#		is_lesser_in_union = no
+#		has_leader = "János Hunyadi"
+#		is_year = 1445
+#		NOT = { is_year = 1470 }
+#		has_government_attribute = heir
+#	}
+#
+#	mean_time_to_happen = {
+#		days = 1 #5s-minors-mod
+#	}
+#
+#	option = {
+#		ai_chance = { factor = 50 }
+#		trigger = {
+#			HAB = { has_heir = "Ladislaus Postumus" }
+#		}
+#		name = flavor_hun.1.a
+#		define_ruler = {
+#			name = "János"
+#			dynasty = "Hunyadi"
+#			DIP = 5
+#			ADM = 4
+#			MIL = 5
+#			age = 39
+#			attach_leader = "János Hunyadi"
+#		}
+#		if = {
+#			limit = {
+#				has_states_general_mechanic = yes
+#			}
+#			change_statists_vs_orangists = 1
+#		}
+#		if = {
+#			limit = {
+#				has_dlc = "Rights of Man"
+#			}
+#			hidden_effect = { add_ruler_personality_ancestor = { key = bold_fighter } }
+#		}
+#		define_heir = {
+#			name = "Ladislaus Postumus"
+#			dynasty = "von Habsburg"
+#			culture = austrian
+#			adm = 3
+#			dip = 3
+#			mil = 2
+#			block_disinherit = yes
+#			birth_date = 1440.2.22
+#		}
+#		custom_tooltip = hun_ladislaus_postumus_warning_tooltip
+#		hidden_effect = { set_country_flag = hun_ladislaus_postumus_heir }
+#		every_country = {
+#			limit = {
+#				NOT = { tag = ROOT }
+#				dynasty = "von Habsburg"
+#			}
+#			add_opinion = {
+#				who = root
+#				modifier = hun_habsburgs_spurned
+#			}
+#		}
+#		add_estate_loyalty = {
+#			estate = estate_nobles
+#			loyalty = 10
+#		}
+#	}
+#	option = {
+#		name = flavor_hun.1.b
+#		trigger = {
+#			HAB = { has_heir = "Ladislaus Postumus" }
+#		}
+#		ai_chance = { factor = 50 }
+#		add_stability_or_adm_power = yes
+#		define_heir = {
+#			name = "Ladislaus Postumus"
+#			dynasty = "von Habsburg"
+#			culture = austrian
+#			adm = 3
+#			dip = 3
+#			mil = 2
+#			birth_date = 1440.2.22
+#		}
+#		hidden_effect = {
+#			define_ruler = {
+#				ADM = 0
+#				DIP = 0
+#				MIL = 0
+#				regency = yes
+#			}
+#		}
+#		custom_tooltip = hun_ladislaus_postumus_warning_tooltip
+#		hidden_effect = { set_country_flag = hun_ladislaus_postumus_heir }
+#		add_estate_loyalty = {
+#			estate = estate_nobles
+#			loyalty = -15
+#		}
+#
+#	}
+#	option = {
+#		ai_chance = { factor = 1 }
+#		trigger = {
+#			HAB = { NOT = { has_heir = "Ladislaus Postumus" } }
+#		}
+#		name = flavor_hun.1.c
+#		define_ruler = {
+#			name = "János"
+#			dynasty = "Hunyadi"
+#			DIP = 5
+#			ADM = 4
+#			MIL = 5
+#			age = 39
+#			attach_leader = "János Hunyadi"
+#		}
+#		define_heir = {
+#			name = "Mátyás"
+#			culture = hungarian
+#			dynasty = "Hunyadi"
+#			adm = 4
+#			dip = 5
+#			mil = 6
+#			claim = 50
+#			birth_date = 1443.2.23
+#		}
+#		hidden_effect = {
+#			set_country_flag = hun_matyas_already_existed
+#		}
+#		if = {
+#			limit = {
+#				has_states_general_mechanic = yes
+#			}
+#			change_statists_vs_orangists = 1
+#		}
+#		if = {
+#			limit = {
+#				has_dlc = "Rights of Man"
+#			}
+#			hidden_effect = { add_ruler_personality_ancestor = { key = bold_fighter } }
+#		}
+#		add_estate_loyalty = {
+#			estate = estate_nobles
+#			loyalty = 10
+#		}
+#	}
+#}
 
 # Mattias Corvinus or a Habsburg king
 country_event = {

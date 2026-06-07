@@ -10,8 +10,11 @@ capital = 150	# Sofia
 		name = "Petar"
 		dynasty = "Cometopuli"
         birth_date = 1403.3.6
-		adm = 0
-		dip = 3
-		mil = 5
+		#adm = 0	#5s-minors-mod
+		#dip = 3	#5s-minors-mod
+		#mil = 5	#5s-minors-mod
+		adm = 3		#5s-minors-mod
+		dip = 3		#5s-minors-mod
+		mil = 5		#5s-minors-mod
 	}
 }

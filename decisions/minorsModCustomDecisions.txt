@@ -20,6 +20,41 @@ country_decisions = {
 		}
 	}
 
+	invite_ruler_decision = {
+
+		color = { 128 0 128 }
+
+		potential = {
+			ai = no
+			NOT = { is_year = 1500 }
+			NOT = { has_country_flag = used_ruler_decision }
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+
+		allow = {
+			is_year = 1450
+			NOT = { is_year = 1500 }
+			months_of_ruling = 120
+			ai = no
+		}
+
+		effect = {
+			define_ruler = {
+				name = "lalka2002"
+				adm = 3
+				dip = 3
+				mil = 3
+				age = 25
+				claim = 50
+			}
+			set_country_flag = used_ruler_decision
+			kill_heir = {}
+		}
+	}
+
 	colonize_gulf_of_guinea_decision = {
 		major = yes
 		potential = {

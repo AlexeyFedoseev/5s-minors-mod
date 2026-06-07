@@ -25,17 +25,41 @@ change_estate_land_share = {
 }
 
 
-1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+#1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }	#5s-minors-mod
 
 # Personal union with Habsburg under Albrecht II 1437-39
 # Personal union with Poland under Wladyslaw III 1439-44
 
-1444.11.10 = {
+1444.11.10 = { #5s-minors-mod
+	#monarch = {
+	#	adm = 0
+	#	mil = 0
+	#	dip = 0
+	#	regent = yes
+	#}
+	#5s-minors-mod
 	monarch = {
-		adm = 0
-		mil = 0
-		dip = 0
-		regent = yes
+		name = "János"
+		dynasty = "Hunyadi"
+		birth_date = 1405.2.14	
+		adm = 5
+		dip = 4
+		mil = 3
+		leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 }
+	}
+	heir = {
+		name = "Mátyás"
+		dynasty = "Hunyadi"
+		adm = 4
+		dip = 5
+		mil = 6
+		claim = 50
+		birth_date = 1443.2.23
+	}
+	set_country_flag = hun_matyas_already_existed
+	add_estate_loyalty = {
+		estate = estate_nobles
+		loyalty = 10
 	}
 }
 

@@ -8,8 +8,10 @@ capital = 1816	#Beijing
 
 1444.1.1 = { #5s-minors-mod
 	monarch = {
-		name = "Tingbiao"
-		dynasty = "Yan"
+		#name = "Tingbiao"	#5s-minors-mod
+		#dynasty = "Yan"	#5s-minors-mod
+		name = "Nikita"		#5s-minors-mod
+		dynasty = "X"		#5s-minors-mod
         birth_date = 1401.3.6
 		adm = 4
 		dip = 1

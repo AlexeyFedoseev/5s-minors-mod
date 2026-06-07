@@ -3,16 +3,16 @@ add_government_reform = korean_monarchy
 primary_culture = korean
 religion = confucianism
 technology_group = chinese
-capital = 4232
+capital = 2745
 government_rank = 1
 
 1444.1.1 = {
 	monarch = {
-		name = "Hyeon"
-		dynasty = "Yi"
-        birth_date = 1412.3.6
-		adm = 2
-		dip = 2
-		mil = 4
+		name = "Jongmu"
+		dynasty = "Pak"
+        birth_date = 1420.8.14
+		adm = 4
+		dip = 4
+		mil = 6
 	}
 }

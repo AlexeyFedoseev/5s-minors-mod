@@ -1418,6 +1418,7 @@
  PNG:0 "Great Penguinia"
  CAR:0 "Cairo"
  SHE:0 "Shenyang"
+ SLL:0 "Silla"
 
  LDN_ADJ:0 "London"
  WPL_ADJ:0 "Wielkopolska"
@@ -1437,3 +1438,4 @@
  PNG_ADJ:0 "Great Penguinian"
  CAR_ADJ:0 "Cairoan"
  SHE_ADJ:0 "Shenyang"
+ SLL_ADJ:0 "Sillan"
