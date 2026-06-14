@@ -18616,7 +18616,7 @@ PRT_ideas = {
 		global_colonial_growth = 15
 	}
 	PRT_5s_mod_idea_7 = {
-		local_build_time = -0.15
+		build_time = -0.15
 	}
 }
 LDN_ideas = {
@@ -21280,7 +21280,7 @@ VNZ_ideas = {
 		land_forcelimit_modifier = 0.25
 	}
 	VNZ_5s_mod_idea_7  = {
-		war_taxes_cost_modifier = 0.5
+		war_taxes_cost_modifier = -0.5
 	}
 }
 
