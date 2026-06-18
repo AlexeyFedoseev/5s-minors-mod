@@ -2,7 +2,7 @@
 
 owner = RAS
 controller = RAS
-add_core = YEM		#5s-minors-mod
+add_core = RAS		#5s-minors-mod
 culture = yemeni_culture
 religion = shiite
 capital = "Marib"

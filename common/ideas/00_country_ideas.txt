@@ -8074,8 +8074,8 @@ CND_ideas = {
 
 BRZ_ideas = {
 	start = {
-		#hostile_attrition = 3	#5s-minors-mod
-		max_attrition = 3		#5s-minors-mod
+		#hostile_attrition = 3			#5s-minors-mod
+		max_hostile_attrition = 3		#5s-minors-mod
 		envoy_travel_time = -0.25
 	}
 	bonus = {
