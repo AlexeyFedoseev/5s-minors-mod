@@ -76,6 +76,7 @@ country_decisions = {
 			is_at_war = no
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
+			adm_tech = 7	#5s-minors-mod
 		}
 		effect = {
 			151 = {

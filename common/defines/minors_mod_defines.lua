@@ -1,2 +1,8 @@
+NDefines.NGame.DAYS_BEHIND_PAUSE = 50					
+NDefines.NGame.DAYS_BEHIND_LOWER_SPEED = 20
+
 NDefines.NReligion.PIETY_MANPOWER = 0.5
+
 NDefines.NDiplomacy.DISHONORABLE_PEACE_MONTHS = 0
+
+NDefines.NEconomy.DEBASE_MAX_CORRUPTION = 20

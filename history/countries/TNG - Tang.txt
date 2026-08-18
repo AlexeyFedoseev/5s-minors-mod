@@ -16,4 +16,5 @@ capital = 687	#Nanyang
 		dip = 6
 		mil = 4
 	}
+	add_ruler_personality = babbling_buffoon_personality
 }

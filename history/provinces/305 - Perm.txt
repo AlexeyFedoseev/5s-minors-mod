@@ -1,8 +1,8 @@
 #305 - Perm
 
-owner = KAZ
-controller = KAZ
-add_core = KAZ		#5s-minors-mod
+owner = PRM			#5s-minors-mod
+controller = PRM	#5s-minors-mod
+add_core = PRM		#5s-minors-mod
 culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism
 hre = no

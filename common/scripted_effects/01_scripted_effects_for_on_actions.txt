@@ -3643,6 +3643,16 @@ on_alliance_broken_effect = {
 
 on_adm_development_effect = {
 	owner = { change_variable = { which = dev_tax_clicks value = 1 } }	#5s-minors-mod
+	random_list = {	#5s-minors-mod
+		999 = {
+			#none
+		}
+		1 = {
+			owner = {
+				play_sound = hehe_hiha_sound
+			}
+		}
+	}
 	if = {
         limit = { owner = { has_country_modifier = tre_revitalization } }
         add_local_autonomy = -5
@@ -3694,6 +3704,16 @@ on_adm_development_effect = {
 }
 on_dip_development_effect = {
 	owner = { change_variable = { which = dev_production_clicks value = 1 } }	#5s-minors-mod
+	random_list = {	#5s-minors-mod
+		999 = {
+			#none
+		}
+		1 = {
+			owner = {
+				play_sound = goblin_hehe_sound
+			}
+		}
+	}
 	if = {
         limit = { owner = { has_country_modifier = tre_revitalization } }
         add_local_autonomy = -5
@@ -3739,6 +3759,16 @@ on_dip_development_effect = {
 }
 on_mil_development_effect = {
 	owner = { change_variable = { which = dev_manpower_clicks value = 1 } }		#5s-minors-mod
+	random_list = {	#5s-minors-mod
+		999 = {
+			#none
+		}
+		1 = {
+			owner = {
+				play_sound = hog_rider_sound
+			}
+		}
+	}
 	if = {
         limit = { owner = { has_country_modifier = tre_revitalization } }
         add_local_autonomy = -5

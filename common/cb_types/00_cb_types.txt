@@ -600,7 +600,12 @@ cb_independent_daimyo_annex = {
 			}
 			has_country_flag = ikko_ikki_peasants_flag
 		}
-		from = { has_reform = shogunate }
+		from = { #5s-minors-mod
+			OR = {
+				has_reform = shogunate
+				has_reform = indep_daimyo
+			}
+		}
 	}
 
 	war_goal = annex_country_japan

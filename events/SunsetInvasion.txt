@@ -34,6 +34,11 @@ country_event = {
 		
 		#change_technology_group = high_american	#5s-minors-mod
 		#change_unit_type = high_american			#5s-minors-mod
+
+		add_country_modifier = { 	#5s-minors-mod
+			name = 5s_new_world_morale
+			duration = -1
+		}
 	}
 }
 

@@ -18,6 +18,10 @@ unlock_cult = cwezi_cult
 		dip = 6
 		mil = 5
 	}
+	add_country_modifier = {
+		name = zulu_minors_mod_modif
+		duration = -1
+	}
 }
 
 1816.1.1 = {

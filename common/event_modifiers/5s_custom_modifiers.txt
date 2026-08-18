@@ -6,6 +6,12 @@ emergency_impressment_act_used = {
 
 }
 
+zulu_minors_mod_modif = {
+	colonists = 1
+	global_tax_income = 24
+	global_colonial_growth = 25
+}
+
 #russian_control_fur_trade_mod = {
 #	allowed_num_of_buildings = 1
 #}

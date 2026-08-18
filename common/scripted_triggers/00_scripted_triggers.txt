@@ -595,6 +595,9 @@ was_never_end_game_tag_trigger = {	#Country Scope
 				NOT = { was_tag = SCA }
 				NOT = { was_tag = SUI }	#5s-minors-mod
 				NOT = { was_tag = HNN }	#5s-minors-mod
+				NOT = { was_tag = RMN }	#5s-minors-mod
+				NOT = { was_tag = PRU }	#5s-minors-mod
+				NOT = { was_tag = POL }	#5s-minors-mod
 				NOT = { tag = FRA }
 				NOT = { tag = MUG }
 				NOT = { tag = PER }
@@ -635,6 +638,9 @@ was_never_end_game_tag_trigger = {	#Country Scope
 				NOT = { tag = SCA }
 				NOT = { tag = HNN }	#5s-minors-mod
 				NOT = { tag = SUI }	#5s-minors-mod
+				NOT = { tag = RMN }	#5s-minors-mod
+				NOT = { tag = PRU }	#5s-minors-mod
+				NOT = { tag = POL }	#5s-minors-mod
 			}
 		}
 	}

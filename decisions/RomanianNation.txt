@@ -46,7 +46,7 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			#NOT = { exists = BYZ } #5s-minors-mod
+			NOT = { exists = BYZ }
 			owns_core_province = 158	# Transylvania
 			owns_core_province = 4706	# Tolcu
 			owns_core_province = 160	# Oltenia
@@ -56,7 +56,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = RMN
-			swap_non_generic_missions = yes
+			#swap_non_generic_missions = yes	#5s-minors-mod
 			on_change_tag_effect = yes
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {

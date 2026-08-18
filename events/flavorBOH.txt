@@ -569,15 +569,15 @@ country_event = {
 	is_triggered_only = yes # initially triggered by Protestant event and then by itself
 	
 	trigger = {
-		OR = {
-			OR = {
-				tag = BOH
-				was_tag = BOH
-			}
+		#OR = {		#5s-minors-mod
+			#OR = {	
+			#	tag = BOH
+			#	was_tag = BOH
+			#}
 			any_owned_province = {
 				religion = hussite
 			}
-		}
+		#}
 	}
 	
 	option = { # Remain Hussite

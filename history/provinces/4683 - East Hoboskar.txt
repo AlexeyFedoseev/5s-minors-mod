@@ -1,6 +1,9 @@
-owner = OIR
-controller = OIR
-add_core = OIR
+#owner = OIR		#5s-minors-mod
+#controller = OIR	#5s-minors-mod
+#add_core = OIR		#5s-minors-mod
+owner = BRT			#5s-minors-mod
+controller = BRT	#5s-minors-mod
+add_core = BRT		#5s-minors-mod
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Altay"

@@ -20908,7 +20908,7 @@ COL_ideas = {
 	}
 	COL_5s_mod_idea_2  = {
 		cavalry_fire = 1
-		cavalry_shock = -0.25
+		#cavalry_shock = -0.25		#5s-minors-mod
 	}
 	COL_5s_mod_idea_3  = {
 		cavalry_flanking = 0.5

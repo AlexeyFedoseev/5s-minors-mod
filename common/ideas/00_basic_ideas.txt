@@ -32,7 +32,8 @@ aristocracy_ideas = {
 	}
 	noble_resilience = {
 		cav_to_inf_ratio = 0.1
-		cavalry_cost = -0.20
+		#cavalry_cost = -0.20	#5s-minors-mod
+		cavalry_cost = -0.10	#5s-minors-mod
 	}
 	noble_officers = {
 		army_tradition_decay = -0.01
@@ -163,7 +164,8 @@ horde_gov_ideas = {
 	}
 	
 	horse_lords = {
-		cavalry_cost = -0.33
+		#cavalry_cost = -0.33	#5s-minors-mod
+		cavalry_cost = -0.15	#5s-minors-mod
 		cav_to_inf_ratio = 0.10
 	}
 	beyond_the_sun = {

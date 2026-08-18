@@ -1839,7 +1839,8 @@ cavalry_warfare_reform = {
 	}
 	modifiers = {
 		cav_to_inf_ratio = 0.1
-		cavalry_cost = -0.1
+		#cavalry_cost = -0.1	#5s-minors-mod
+		cavalry_cost = -0.05	#5s-minors-mod
 	}
 	
 	ai = {

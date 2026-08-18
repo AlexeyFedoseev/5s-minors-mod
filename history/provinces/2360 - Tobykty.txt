@@ -2,9 +2,9 @@
 
 #owner = SHY		#5s-minors-mod
 #controller = SHY	#5s-minors-mod
-owner = KZH			#5s-minors-mod
-controller = KZH	#5s-minors-mod
-add_core = KZH		#5s-minors-mod
+owner = BRT			#5s-minors-mod
+controller = BRT	#5s-minors-mod
+add_core = BRT		#5s-minors-mod
 culture = khazak
 religion = sunni
 capital = "Tobykty"
