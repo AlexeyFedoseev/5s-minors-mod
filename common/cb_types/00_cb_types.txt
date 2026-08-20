@@ -580,7 +580,7 @@ cb_daimyo_annex = {
 
 cb_independent_daimyo_annex = {
 	valid_for_subject = no
-	exclusive = yes
+	#exclusive = yes	#5s-minors-mod
 
 	prerequisites_self = {
 		is_subject = no
