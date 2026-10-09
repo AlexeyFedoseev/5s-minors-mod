@@ -331,7 +331,11 @@ country_decisions = {
 		major = yes
 		potential = {
 			normal_or_historical_nations = yes
-			was_never_end_game_tag_trigger = yes
+			#was_never_end_game_tag_trigger = yes		#5s-minors-mod
+			OR = {	#5s-minors-mod
+				was_never_end_game_tag_trigger = yes
+				tag = POL
+			}
 			NOT = { has_country_flag = formed_plc_flag }
 			OR = {
 				ai = no
